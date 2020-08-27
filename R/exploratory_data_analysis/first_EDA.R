@@ -29,7 +29,7 @@ theme_set(theme_clean())
 
 ##### READING DATA #####
 
-chat <- read.csv('AGRI/oldchats/clean_chat_data.csv', stringsAsFactors = FALSE)
+chat <- read.csv('processed_data/clean_chat_data.csv', stringsAsFactors = FALSE)
 chat$date <- chat$date %>% ymd
 ##### INITIAL SKIMMING #####
 

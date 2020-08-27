@@ -1,0 +1,128 @@
+WEBVTT
+
+00:27:57.000 --> 00:27:57.900
+<v Jean Pierre Espinoza Rest>is that related to consumption smoothing?
+
+00:28:24.000 --> 00:28:24.900
+<v Jean Pierre Espinoza Rest>yes
+
+00:35:25.000 --> 00:35:25.900
+<v Santiago Jose Fernandez Pizarro>sé tu propio jefe
+
+00:35:37.000 --> 00:35:37.900
+<v Santiago Jose Fernandez Pizarro>FX trading
+
+00:39:31.000 --> 00:39:31.900
+<v Jean Pierre Espinoza Rest>balance sheet coverage solo aplica para short-term? o tambien para LT assets y liab
+
+00:48:33.000 --> 00:48:33.900
+<v Santiago Jose Fernandez Pizarro>profe
+
+00:48:36.000 --> 00:48:36.900
+<v Magaly Julisa Acuna Condori>yeee gracias!
+
+00:48:38.000 --> 00:48:38.900
+<v Santiago Jose Fernandez Pizarro>colgaste los casos
+
+00:48:39.000 --> 00:48:39.900
+<v Edwin Miguel Prado Quispe>Ok
+
+00:48:45.000 --> 00:48:45.900
+<v Santiago Jose Fernandez Pizarro>que discutíamos en clases pasadas?
+
+00:48:54.000 --> 00:48:54.900
+<v Edwin Miguel Prado Quispe>Estan en slack
+
+00:48:59.000 --> 00:48:59.900
+<v Marcelo Andres Villar Meza>Pero no están en slack?
+
+00:49:02.000 --> 00:49:02.900
+<v Santiago Jose Fernandez Pizarro>sabes
+
+00:49:13.000 --> 00:49:13.900
+<v Santiago Jose Fernandez Pizarro>es q me cuesta leerlos en celular, marcelo
+
+00:49:29.000 --> 00:49:29.900
+<v Nicolas Vegas Trivelli>hay slack web jaja
+
+00:49:33.000 --> 00:49:33.900
+<v Fabio Yoshiki Kadena Matsuda>puedes abrir slack en internet
+
+00:49:35.000 --> 00:49:35.900
+<v Marcelo Andres Villar Meza>yo los subia a mi drive jajaja
+
+00:49:40.000 --> 00:49:40.900
+<v Santiago Jose Fernandez Pizarro>no sé cómo hacer eso
+
+00:49:45.000 --> 00:49:45.900
+<v sherrerae>comparte tu drive ps marcelo jajaj
+
+00:49:46.000 --> 00:49:46.900
+<v Santiago Jose Fernandez Pizarro>mucha tecnología parami
+
+00:50:05.000 --> 00:50:05.900
+<v sherrerae>santiago abre whatsapp web
+
+00:50:08.000 --> 00:50:08.900
+<v sherrerae>y de ahi lo pasas
+
+00:50:18.000 --> 00:50:18.900
+<v Santiago Jose Fernandez Pizarro>Sherrera
+
+00:50:38.000 --> 00:50:38.900
+<v Andres Vilcahuaman Zermeno>quién es sherrera
+
+00:51:58.000 --> 00:51:58.900
+<v Roy Ernie Portilla Manzanares>parece ser de su correo up: s.herrera
+
+00:52:10.000 --> 00:52:10.900
+<v Andres Vilcahuaman Zermeno>qui
+
+00:52:17.000 --> 00:52:17.900
+<v Andres Vilcahuaman Zermeno>quién crees que sea 
+
+00:52:58.000 --> 00:52:58.900
+<v Roy Ernie Portilla Manzanares>alguien q empieza con S 😂
+
+00:53:58.000 --> 00:53:58.900
+<v Andres Vilcahuaman Zermeno>ya sé qui
+
+00:54:07.000 --> 00:54:07.900
+<v Andres Vilcahuaman Zermeno>es Santiago Herrera
+
+00:54:08.000 --> 00:54:08.900
+<v Andres Vilcahuaman Zermeno>gcs
+
+00:59:46.000 --> 00:59:46.900
+<v Marcelo Andres Villar Meza>si
+
+00:59:47.000 --> 00:59:47.900
+<v Alejandra Cristina Samame Dulanto>sii
+
+00:59:50.000 --> 00:59:50.900
+<v Sebastian Enrique Collantes Liendo>si
+
+01:00:39.000 --> 01:00:39.900
+<v Andres Vilcahuaman Zermeno>quiero un Panamera 
+
+01:27:43.000 --> 01:27:43.900
+<v Magaly Julisa Acuna Condori>ruben, tendremos pre parcial?? 
+
+01:27:46.000 --> 01:27:46.900
+<v Nicolas Vegas Trivelli>Profe y si lo deja como trabajo? y lo entregamos bien hecho el día del parcial 😀
+<v Fabio Yoshiki Kadena Matsuda>Igual es el lunes 18 de 8:30-10:30 o tendremos más tiempo?
+
+01:27:54.000 --> 01:27:54.900
+<v Magaly Julisa Acuna Condori>yeee
+
+01:28:34.000 --> 01:28:34.900
+<v Santiago Jose Fernandez Pizarro>Puede ser, pero ya que es un curso sumamente interesante y esencial en la carrera. El trabajo debe ser para después del parcial.
+
+01:29:25.000 --> 01:29:25.900
+<v Estuardo Ivan Chalan Marreros>Profe habra parte para marcar?
+
+01:30:14.000 --> 01:30:14.900
+<v Nicolas Vegas Trivelli>Profe y como sera por blackboard? o tenemos que mandarle fotos?
+
+01:31:44.000 --> 01:31:44.900
+<v Ruben Angel Montenegro Lee>https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.sli.do%2Fevent%2Fe8avg8gm%2Fembed%2Fpolls%2Fab437a76-5864-438d-aa7c-70e52af376a1&data=02%7C01%7C%7C67a6630f3e4b48597e3408d7f614644b%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637248439746162939&sdata=S%2F3ZSq9oRNltkrpH9amCLKacNmhBs0%2Fibbz8e5qJwdo%3D&reserved=0

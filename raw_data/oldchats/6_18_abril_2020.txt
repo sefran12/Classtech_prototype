@@ -1,0 +1,332 @@
+WEBVTT
+
+00:07:33.000 --> 00:07:33.900
+<v Sofia Carolina Jo Brun>buenos dias
+
+00:07:34.000 --> 00:07:34.900
+<v Sebastian Silva Ramal>hola
+<v Marcelo Andres Villar Meza>si
+<v Alejandra Cristina Samame Dulanto>Hola profe!
+
+00:07:35.000 --> 00:07:35.900
+<v Silvana Lucia Orihuela Acosta>hola profe
+
+00:07:37.000 --> 00:07:37.900
+<v Sebastian Aybar Guerrero>hola profe
+
+00:07:40.000 --> 00:07:40.900
+<v Roy Ernie Portilla Manzanares>Hola profe
+
+00:07:41.000 --> 00:07:41.900
+<v Luciene Nicole Courquin Tejada>hola profe
+
+00:07:53.000 --> 00:07:53.900
+<v Viviana Purita Cotrina Verano>Yeee
+
+00:08:01.000 --> 00:08:01.900
+<v Jean Pierre Espinoza Rest>totalmente de acuerdo
+
+00:08:15.000 --> 00:08:15.900
+<v Sebastian Silva Ramal>santiago queria hablar desde el jueves
+
+00:08:19.000 --> 00:08:19.900
+<v Roy Ernie Portilla Manzanares>Si
+
+00:08:26.000 --> 00:08:26.900
+<v Diego Satornicio Melgarejo>Desde la pd
+
+00:17:55.000 --> 00:17:55.900
+<v Roy Ernie Portilla Manzanares>Para evitarse el riesgo de que cambien mucho las tasas en el plazo largo
+
+00:20:14.000 --> 00:20:14.900
+<v Andres Vilcahuaman Zermeno>cortos
+
+00:20:15.000 --> 00:20:15.900
+<v Luciene Nicole Courquin Tejada>distintos
+
+00:20:19.000 --> 00:20:19.900
+<v Jean Pierre Espinoza Rest>cortos
+
+00:20:30.000 --> 00:20:30.900
+<v Roy Ernie Portilla Manzanares>Menos de 5 años
+
+00:20:46.000 --> 00:20:46.900
+<v Roy Ernie Portilla Manzanares>1080 d
+
+00:30:03.000 --> 00:30:03.900
+<v Santiago Jose Fernandez Pizarro>empezó el 2004
+
+00:30:07.000 --> 00:30:07.900
+<v Santiago Jose Fernandez Pizarro>más o menos
+
+00:36:49.000 --> 00:36:49.900
+<v Jean Pierre Espinoza Rest>entonces ahí ya no había coordinación entre bancos?
+
+00:41:43.000 --> 00:41:43.900
+<v Sebastian Alfonso Herrera Eyzaguirre>bancos y sociedades de credito?
+
+00:41:49.000 --> 00:41:49.900
+<v Andres Vilcahuaman Zermeno>de las repos
+
+00:42:17.000 --> 00:42:17.900
+<v Andres Vilcahuaman Zermeno>osea tan secured
+
+00:42:23.000 --> 00:42:23.900
+<v Andres Vilcahuaman Zermeno>tienen activo detras
+
+00:42:25.000 --> 00:42:25.900
+<v Andres Vilcahuaman Zermeno>no?
+
+00:49:34.000 --> 00:49:34.900
+<v Jean Pierre Espinoza Rest>profe crees que puedan postergar el cese de la LIBOR por el COVID?
+
+00:53:57.000 --> 00:53:57.900
+<v Andres Vilcahuaman Zermeno>pero no se vana a mover igual
+
+00:54:00.000 --> 00:54:00.900
+<v Andres Vilcahuaman Zermeno>las tasas
+
+00:55:18.000 --> 00:55:18.900
+<v Andres Vilcahuaman Zermeno>si
+
+00:55:25.000 --> 00:55:25.900
+<v Andres Vilcahuaman Zermeno>osea ese spread
+
+00:55:27.000 --> 00:55:27.900
+<v Andres Vilcahuaman Zermeno>cambia
+
+00:57:11.000 --> 00:57:11.900
+<v Sebastian Alfonso Herrera Eyzaguirre>si
+
+00:57:12.000 --> 00:57:12.900
+<v Santiago Jose Fernandez Pizarro>sip
+
+00:57:13.000 --> 00:57:13.900
+<v Sofia Carolina Jo Brun>sip 
+<v Roy Ernie Portilla Manzanares>Si
+<v Estuardo Ivan Chalan Marreros>Si
+
+00:57:17.000 --> 00:57:17.900
+<v Santiago Jose Fernandez Pizarro>a tasas bajísimas
+
+00:57:19.000 --> 00:57:19.900
+<v Andres Vilcahuaman Zermeno>baratito
+
+00:57:21.000 --> 00:57:21.900
+<v Andres Vilcahuaman Zermeno>se fondeo
+
+00:57:28.000 --> 00:57:28.900
+<v Sebastian Alfonso Herrera Eyzaguirre>las mas bajas historicas creo
+
+00:57:40.000 --> 00:57:40.900
+<v Andres Vilcahuaman Zermeno>3Bn
+
+00:57:42.000 --> 00:57:42.900
+<v Jean Pierre Espinoza Rest>US$3bn
+
+00:57:48.000 --> 00:57:48.900
+<v Roy Ernie Portilla Manzanares>Bonos para fnanciar la respesta al covid
+
+00:58:53.000 --> 00:58:53.900
+<v Jean Pierre Espinoza Rest>habia alta demanda
+
+00:58:57.000 --> 00:58:57.900
+<v Santiago Jose Fernandez Pizarro>las tasas
+
+01:04:10.000 --> 01:04:10.900
+<v Nicolas Vegas Trivelli>Profe y los paises hacen tambien el roadshow del bono?
+
+01:04:26.000 --> 01:04:26.900
+<v Jean Pierre Espinoza Rest>que es IPT?
+
+01:04:54.000 --> 01:04:54.900
+<v Sebastian Alfonso Herrera Eyzaguirre>la ministra tweetio que podía tomarse como el nuevo RF de la región, eso es verdad?
+
+01:04:56.000 --> 01:04:56.900
+<v Jean Pierre Espinoza Rest>en la diapo anterior
+
+01:04:59.000 --> 01:04:59.900
+<v Jean Pierre Espinoza Rest>IPT announcement
+
+01:05:16.000 --> 01:05:16.900
+<v Jean Pierre Espinoza Rest>IPTs announced
+
+01:05:18.000 --> 01:05:18.900
+<v Jean Pierre Espinoza Rest>a las 9 am
+
+01:05:35.000 --> 01:05:35.900
+<v Sebastian Alfonso Herrera Eyzaguirre>initial price talk
+
+01:05:38.000 --> 01:05:38.900
+<v Andres Vilcahuaman Zermeno>price talk
+
+01:05:40.000 --> 01:05:40.900
+<v Andres Vilcahuaman Zermeno>definichon
+
+01:05:57.000 --> 01:05:57.900
+<v Sebastian Alfonso Herrera Eyzaguirre>risk free
+
+01:05:59.000 --> 01:05:59.900
+<v XIOMI GARCIA>risk free
+
+01:06:00.000 --> 01:06:00.900
+<v Santiago Jose Fernandez Pizarro>risk free
+
+01:06:02.000 --> 01:06:02.900
+<v Roy Ernie Portilla Manzanares>risk free
+
+01:06:06.000 --> 01:06:06.900
+<v Sebastian Enrique Collantes Liendo>risk free
+
+01:06:58.000 --> 01:06:58.900
+<v Roy Ernie Portilla Manzanares>MEF + 100 bps
+
+01:07:08.000 --> 01:07:08.900
+<v Santiago Jose Fernandez Pizarro>?
+
+01:07:10.000 --> 01:07:10.900
+<v Roy Ernie Portilla Manzanares>como saldria
+
+01:07:22.000 --> 01:07:22.900
+<v Roy Ernie Portilla Manzanares>T + 100 bps
+
+01:07:53.000 --> 01:07:53.900
+<v Roy Ernie Portilla Manzanares>pregunto como lo definirian una tasa de la region
+
+01:08:36.000 --> 01:08:36.900
+<v Sebastian Alfonso Herrera Eyzaguirre>creo peru fue el único país de de latam que mantuvo su calificacion de riesgo en la crisis, creo que lo dijo por eso
+
+01:08:53.000 --> 01:08:53.900
+<v Sebastian Alfonso Herrera Eyzaguirre>eso puso en su tweet de los bonos
+
+01:09:03.000 --> 01:09:03.900
+<v Roy Ernie Portilla Manzanares>Mexico cayo 2
+
+01:09:34.000 --> 01:09:34.900
+<v Sergio Sebastian Salazar Relayze>Más apetito del mercado?
+<v Sebastian Alfonso Herrera Eyzaguirre>pq tiene sus reservas en dolares?
+
+01:09:36.000 --> 01:09:36.900
+<v Santiago Jose Fernandez Pizarro>para regular el tc
+
+01:09:41.000 --> 01:09:41.900
+<v Andres Vilcahuaman Zermeno>porque ta caro
+
+01:09:50.000 --> 01:09:50.900
+<v Jean Pierre Espinoza Rest>Mexico cayo 2 notches?
+
+01:09:55.000 --> 01:09:55.900
+<v Estuardo Ivan Chalan Marreros> Aún hay confianza en la hegemonía del dolar 
+
+01:10:11.000 --> 01:10:11.900
+<v Roy Ernie Portilla Manzanares>Para asegurarse una alta demanda?
+
+01:18:29.000 --> 01:18:29.900
+<v Roy Ernie Portilla Manzanares>Los spread Bid/Ask siempre son constantes (como aca) o cambian por plazo?
+
+01:18:32.000 --> 01:18:32.900
+<v Sebastian Silva Ramal>2.8
+
+01:24:12.000 --> 01:24:12.900
+<v Sebastian Silva Ramal>no habiamos corregido la tasa del swap?
+
+01:24:20.000 --> 01:24:20.900
+<v Sebastian Enrique Collantes Liendo>profe el swap a 10 años era otro
+
+01:24:29.000 --> 01:24:29.900
+<v Roy Ernie Portilla Manzanares>5.08
+
+01:24:30.000 --> 01:24:30.900
+<v Nicolas Vegas Trivelli>5.01%
+<v Sebastian Silva Ramal>5.01?
+
+01:26:56.000 --> 01:26:56.900
+<v Sebastian Enrique Collantes Liendo>porque no habia demanda para deuda en soles?
+
+01:26:57.000 --> 01:26:57.900
+<v Sebastian Alfonso Herrera Eyzaguirre>por el apetito de mercado?
+
+01:27:02.000 --> 01:27:02.900
+<v Roy Ernie Portilla Manzanares>No habia mercado?
+
+01:28:57.000 --> 01:28:57.900
+<v Sebastian Alfonso Herrera Eyzaguirre>si
+
+01:32:52.000 --> 01:32:52.900
+<v Roy Ernie Portilla Manzanares>Que quiere decir 2029E en los Bonos Soberanos?
+
+01:33:17.000 --> 01:33:17.900
+<v Santiago Jose Fernandez Pizarro>expected
+
+01:33:20.000 --> 01:33:20.900
+<v Jean Pierre Espinoza Rest>puede ser un punto de la curva interpolado?
+
+01:33:31.000 --> 01:33:31.900
+<v Jean Pierre Espinoza Rest>porque no hay 2029
+
+01:33:34.000 --> 01:33:34.900
+<v Jean Pierre Espinoza Rest>ah 
+<v Sebastian Silva Ramal>pq no hay bonos que vencen 2029
+
+01:33:35.000 --> 01:33:35.900
+<v Jean Pierre Espinoza Rest>ya entendi
+
+01:33:42.000 --> 01:33:42.900
+<v Santiago Jose Fernandez Pizarro>lo q pasa
+
+01:33:45.000 --> 01:33:45.900
+<v Jean Pierre Espinoza Rest>si
+
+01:33:49.000 --> 01:33:49.900
+<v Santiago Jose Fernandez Pizarro>es que es a 10 años el bono soverano
+
+01:33:57.000 --> 01:33:57.900
+<v Roy Ernie Portilla Manzanares>no hay varios puntos de la curva
+
+01:34:05.000 --> 01:34:05.900
+<v Santiago Jose Fernandez Pizarro>y no habían bonos a 10 años con los cuales compararlos
+
+01:34:13.000 --> 01:34:13.900
+<v Santiago Jose Fernandez Pizarro>es una suposición
+
+01:34:19.000 --> 01:34:19.900
+<v Santiago Jose Fernandez Pizarro>verdad
+
+01:40:29.000 --> 01:40:29.900
+<v XIOMI GARCIA>Gracias profe!!
+
+01:40:30.000 --> 01:40:30.900
+<v Sofia Carolina Jo Brun>gracias profe
+
+01:40:33.000 --> 01:40:33.900
+<v Jean Pierre Espinoza Rest>gracias profe
+<v Alexander Johan Pacaya Samame>gracias
+
+01:40:34.000 --> 01:40:34.900
+<v Sebastian Aybar Guerrero>gracias!
+<v Luciene Nicole Courquin Tejada>gracias!!
+
+01:40:35.000 --> 01:40:35.900
+<v Fernando Bravo Benavides>gracias profe
+<v Jose Eduardo Arcos Ayala>gracias profe
+<v Sebastian Enrique Collantes Liendo>gracias profe
+
+01:40:36.000 --> 01:40:36.900
+<v Edwin Miguel Prado Quispe>jajajja gracias profe !
+<v Nicolas Vegas Trivelli>Gracias
+
+01:40:37.000 --> 01:40:37.900
+<v Diana Carolina Ponte Villalaz>gracias
+<v Estuardo Ivan Chalan Marreros>Gracias profe!!
+
+01:40:41.000 --> 01:40:41.900
+<v Alejandra Cristina Samame Dulanto>graciaas
+
+01:40:42.000 --> 01:40:42.900
+<v Silvana Lucia Orihuela Acosta>gracias
+
+01:40:45.000 --> 01:40:45.900
+<v Alejandra Sofia Solis Rodriguez>Gracias profe
+
+01:40:47.000 --> 01:40:47.900
+<v Roy Ernie Portilla Manzanares>Chau profe

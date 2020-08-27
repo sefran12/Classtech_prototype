@@ -1,0 +1,242 @@
+WEBVTT
+
+00:00:39.000 --> 00:00:39.900
+<v Andres Vilcahuaman Zermeno>holas
+
+00:00:42.000 --> 00:00:42.900
+<v Edwin Miguel Prado Quispe>Hola 
+
+00:00:44.000 --> 00:00:44.900
+<v Carlos Elias Estrada Castaneda>hola profe
+<v Sebastian Salinas Huaman>hola
+
+00:00:48.000 --> 00:00:48.900
+<v Sebastian Aybar Guerrero>Hola profe!
+
+00:00:49.000 --> 00:00:49.900
+<v Alvaro Ricardo Adrianzen Puccio>Hola profe
+
+00:00:50.000 --> 00:00:50.900
+<v Silvana Lucia Orihuela Acosta>hola profe
+
+00:00:54.000 --> 00:00:54.900
+<v Sofia Carolina Jo Brun>profe grabe la clase 🙂
+
+00:01:17.000 --> 00:01:17.900
+<v Santiago Jose Fernandez Pizarro>juergaza
+
+00:01:20.000 --> 00:01:20.900
+<v Andres Vilcahuaman Zermeno>full pescado
+
+00:01:40.000 --> 00:01:40.900
+<v Andres Vilcahuaman Zermeno>full ben hur
+
+00:01:54.000 --> 00:01:54.900
+<v Santiago Jose Fernandez Pizarro>hice parrilla
+
+00:02:20.000 --> 00:02:20.900
+<v Santiago Jose Fernandez Pizarro>claro
+
+00:02:23.000 --> 00:02:23.900
+<v Santiago Jose Fernandez Pizarro>yo hice viernes
+
+00:02:32.000 --> 00:02:32.900
+<v Santiago Jose Fernandez Pizarro>ya no me alcanzó
+
+00:02:36.000 --> 00:02:36.900
+<v Santiago Jose Fernandez Pizarro>para omprar carne
+
+00:22:08.000 --> 00:22:08.900
+<v Santiago Jose Fernandez Pizarro>alto
+
+00:22:11.000 --> 00:22:11.900
+<v Santiago Jose Fernandez Pizarro>para ganar más
+
+00:22:15.000 --> 00:22:15.900
+<v Roy Ernie Portilla Manzanares>Diversificar?
+
+00:22:37.000 --> 00:22:37.900
+<v Santiago Jose Fernandez Pizarro>y son hedge funds porque tienen menos regulaciones
+
+00:22:53.000 --> 00:22:53.900
+<v Sofia Carolina Jo Brun>el riesgo es alto pero tambien son los cupones que recibes... supongo que esperan recibir el pago del nominal aportado antes de que suceda la catrastofe
+
+00:22:55.000 --> 00:22:55.900
+<v Nicolas Vegas Trivelli>Es tipo que apuestes por peru en un peru brasil
+
+00:23:05.000 --> 00:23:05.900
+<v Santiago Jose Fernandez Pizarro>Bien Vegas
+
+00:23:10.000 --> 00:23:10.900
+<v Santiago Jose Fernandez Pizarro>dices algo coherente por fin
+
+00:23:13.000 --> 00:23:13.900
+<v Andres Vilcahuaman Zermeno>Riesgo de catástrofe
+
+00:23:17.000 --> 00:23:17.900
+<v Santiago Jose Fernandez Pizarro>es como apostar a que alianza campeone
+
+00:26:19.000 --> 00:26:19.900
+<v Andres Vilcahuaman Zermeno>Entonces lo verías como un riesgo de catástrofe más focalizado en una región?
+
+00:26:55.000 --> 00:26:55.900
+<v Andres Vilcahuaman Zermeno>Osea no esperarías que te toque algo global tipo covid
+
+00:27:14.000 --> 00:27:14.900
+<v Sofia Carolina Jo Brun>si pero el bono anterior era del banco mundial
+
+00:27:40.000 --> 00:27:40.900
+<v Sofia Carolina Jo Brun>ahhh
+
+00:28:56.000 --> 00:28:56.900
+<v Nicolas Vegas Trivelli> Pero en teoría ya tocaba una pandiemita o una crisis
+<v Andres Vilcahuaman Zermeno>ok
+
+00:29:54.000 --> 00:29:54.900
+<v Andres Vilcahuaman Zermeno>tipo SARS
+
+00:29:55.000 --> 00:29:55.900
+<v Nicolas Vegas Trivelli>Lo de una crisis se veia venir pero no se sabia como
+
+00:30:03.000 --> 00:30:03.900
+<v Jean Pierre Espinoza Rest>entonces lo tomas porque reduce el riesgo total del portafolio?
+
+00:30:08.000 --> 00:30:08.900
+<v Andres Vilcahuaman Zermeno>claro
+
+00:30:13.000 --> 00:30:13.900
+<v Andres Vilcahuaman Zermeno>vegas tiene razón
+
+00:30:26.000 --> 00:30:26.900
+<v Andres Vilcahuaman Zermeno>la gente no la veía venir así
+
+00:30:30.000 --> 00:30:30.900
+<v Andres Vilcahuaman Zermeno>creo
+
+00:31:14.000 --> 00:31:14.900
+<v Sofia Carolina Jo Brun>tambien puede ser que sabes del riesgo y que puede suceder pero prefiere ahorrarte la prima porque el evento catrastofico es de baja probabilidad o no te afecta
+
+00:31:39.000 --> 00:31:39.900
+<v Sofia Carolina Jo Brun>osea si
+
+00:31:56.000 --> 00:31:56.900
+<v Sofia Carolina Jo Brun>osea no emites el bono
+
+00:52:35.000 --> 00:52:35.900
+<v Andres Vilcahuaman Zermeno>limitas la perdida
+
+00:52:41.000 --> 00:52:41.900
+<v Sebastian Silva Ramal>call
+
+00:52:42.000 --> 00:52:42.900
+<v Andres Vilcahuaman Zermeno>le metes un call
+
+00:52:46.000 --> 00:52:46.900
+<v Estuardo Ivan Chalan Marreros>call
+
+00:52:49.000 --> 00:52:49.900
+<v Sofia Carolina Jo Brun>long call
+
+00:52:54.000 --> 00:52:54.900
+<v Nicolas Vegas Trivelli>1977
+
+00:53:05.000 --> 00:53:05.900
+<v Andres Vilcahuaman Zermeno>out 
+
+00:53:10.000 --> 00:53:10.900
+<v Andres Vilcahuaman Zermeno>the plata
+
+00:53:26.000 --> 00:53:26.900
+<v Nicolas Vegas Trivelli>cuando llamabas a movistar
+
+00:53:29.000 --> 00:53:29.900
+<v Nicolas Vegas Trivelli>un call
+
+00:53:34.000 --> 00:53:34.900
+<v Andres Vilcahuaman Zermeno>que monse
+
+00:53:38.000 --> 00:53:38.900
+<v Edwin Miguel Prado Quispe>lol
+
+00:53:39.000 --> 00:53:39.900
+<v Luciene Nicole Courquin Tejada>un sol para tu chiste
+
+00:53:40.000 --> 00:53:40.900
+<v Magaly Julisa Acuna Condori>jaja
+
+00:53:41.000 --> 00:53:41.900
+<v Luciene Nicole Courquin Tejada>jajaj
+<v Andres Vilcahuaman Zermeno>jajajajajaja
+
+00:53:42.000 --> 00:53:42.900
+<v Sofia Carolina Jo Brun>jajjaja}
+
+00:53:43.000 --> 00:53:43.900
+<v Sebastian Alfonso Herrera Eyzaguirre>jajajaja
+
+00:53:44.000 --> 00:53:44.900
+<v Estuardo Ivan Chalan Marreros>jajajajajaja
+
+00:53:45.000 --> 00:53:45.900
+<v Sofia Carolina Jo Brun>se frego 
+<v Sebastian Aybar Guerrero>jajajajaj
+
+00:53:47.000 --> 00:53:47.900
+<v Andres Vilcahuaman Zermeno>-1 profe
+
+01:01:43.000 --> 01:01:43.900
+<v Sergio Sebastian Salazar Relayze>capeas tu ganancia
+
+01:04:42.000 --> 01:04:42.900
+<v Andres Vilcahuaman Zermeno>te quedas ahí nomas 
+
+01:19:48.000 --> 01:19:48.900
+<v Magaly Julisa Acuna Condori>jajajja
+
+01:19:51.000 --> 01:19:51.900
+<v Edwin Miguel Prado Quispe>jajaja
+
+01:20:05.000 --> 01:20:05.900
+<v Edwin Miguel Prado Quispe>🐂
+
+01:26:15.000 --> 01:26:15.900
+<v Edwin Miguel Prado Quispe>Ok
+
+01:26:19.000 --> 01:26:19.900
+<v Sebastian Alfonso Herrera Eyzaguirre>gracias!
+
+01:26:21.000 --> 01:26:21.900
+<v Luciene Nicole Courquin Tejada>gracias profe
+<v Estuardo Ivan Chalan Marreros> Gracias profe!
+
+01:26:22.000 --> 01:26:22.900
+<v Sofia Carolina Jo Brun>gracias profe
+
+01:26:23.000 --> 01:26:23.900
+<v Diego Satornicio Melgarejo>Gracias profe! 
+<v Alejandra Sofia Solis Rodriguez>Gracias profe!
+
+01:26:24.000 --> 01:26:24.900
+<v Sebastian Aybar Guerrero>Gracias profe!
+
+01:26:25.000 --> 01:26:25.900
+<v Sebastian Silva Ramal>gracias!
+
+01:26:26.000 --> 01:26:26.900
+<v Roy Ernie Portilla Manzanares>Chau profe
+<v Nicolas Vegas Trivelli>Gracias
+
+01:26:27.000 --> 01:26:27.900
+<v Jose Eduardo Arcos Ayala>gracias profe 
+
+01:26:28.000 --> 01:26:28.900
+<v Nicole Marcella Condori Cubillas>gracias profe
+<v Silvana Lucia Orihuela Acosta>gracias
+
+01:26:29.000 --> 01:26:29.900
+<v Edwin Miguel Prado Quispe>Gracias Profe !!!
+<v Alexander Johan Pacaya Samame>gracias profe
+<v Diana Carolina Ponte Villalaz>gracias profe
+
+01:26:32.000 --> 01:26:32.900
+<v Jean Pierre Espinoza Rest>gracias

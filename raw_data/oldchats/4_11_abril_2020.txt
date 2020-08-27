@@ -1,0 +1,309 @@
+WEBVTT
+
+00:01:21.000 --> 00:01:21.900
+<v Andres Vilcahuaman Zermeno>con todo
+
+00:02:05.000 --> 00:02:05.900
+<v Jean Pierre Espinoza Rest>no sale el titulo
+
+00:02:07.000 --> 00:02:07.900
+<v Jheysson Andre Roncal Valdivia>cual es la pregunta??'
+
+00:02:09.000 --> 00:02:09.900
+<v Andres Vilcahuaman Zermeno>no se puede responder
+
+00:02:12.000 --> 00:02:12.900
+<v Maria Gracia Garcia Garces>no se puede responder
+
+00:02:15.000 --> 00:02:15.900
+<v Jose Eduardo Arcos Ayala>nop
+
+00:02:17.000 --> 00:02:17.900
+<v Marcelo Andres Villar Meza>no puedo marcar
+<v Roy Ernie Portilla Manzanares>Ya mostro los resultados
+
+00:02:20.000 --> 00:02:20.900
+<v Diego Satornicio Melgarejo>Salen las rsptas
+
+00:02:21.000 --> 00:02:21.900
+<v Andres Vilcahuaman Zermeno>ponga de nuevo
+
+00:02:22.000 --> 00:02:22.900
+<v Roy Ernie Portilla Manzanares>solo 2 marcaron
+
+00:02:30.000 --> 00:02:30.900
+<v Roy Ernie Portilla Manzanares>De nuevo
+
+00:03:18.000 --> 00:03:18.900
+<v Sofia Carolina Jo Brun>jajaja
+
+00:03:48.000 --> 00:03:48.900
+<v Andres Vilcahuaman Zermeno>floraso esos 6
+
+00:17:28.000 --> 00:17:28.900
+<v Andres Vilcahuaman Zermeno>si
+
+00:17:30.000 --> 00:17:30.900
+<v Sebastian Silva Ramal>si
+
+00:17:31.000 --> 00:17:31.900
+<v Jean Pierre Espinoza Rest>si
+
+00:17:32.000 --> 00:17:32.900
+<v Silvana Lucia Orihuela Acosta>si
+
+00:17:34.000 --> 00:17:34.900
+<v Edwin Miguel Prado Quispe>Si
+<v Marcelo Andres Villar Meza>si
+
+00:19:49.000 --> 00:19:49.900
+<v Sergio Sebastian Salazar Relayze>Menor
+
+00:19:54.000 --> 00:19:54.900
+<v Estuardo Ivan Chalan Marreros>Menor
+
+00:19:55.000 --> 00:19:55.900
+<v Silvana Lucia Orihuela Acosta>menor
+
+00:20:00.000 --> 00:20:00.900
+<v Jean Pierre Espinoza Rest>depende
+
+00:20:17.000 --> 00:20:17.900
+<v Jean Pierre Espinoza Rest>de a cuanto este una tasa del plazo mayor
+
+00:20:28.000 --> 00:20:28.900
+<v Jean Pierre Espinoza Rest>si es menor que la fixed rate 1
+
+00:20:37.000 --> 00:20:37.900
+<v Jean Pierre Espinoza Rest>la fixed rate 2 deberia ser menor que la fixed rate 1
+
+00:20:39.000 --> 00:20:39.900
+<v Jean Pierre Espinoza Rest>para promediar menos
+
+00:21:00.000 --> 00:21:00.900
+<v Andres Vilcahuaman Zermeno>de las expectativas de la tasa
+
+00:26:08.000 --> 00:26:08.900
+<v Jean Pierre Espinoza Rest>esto se cumple solo si no te sales del contrato?
+
+00:29:35.000 --> 00:29:35.900
+<v Sergio Sebastian Salazar Relayze>4.5?
+
+00:29:37.000 --> 00:29:37.900
+<v Roy Ernie Portilla Manzanares>4.5%?
+
+00:30:35.000 --> 00:30:35.900
+<v Roy Ernie Portilla Manzanares>Porque espera tener mejorse ingresos en el futuro
+
+00:33:14.000 --> 00:33:14.900
+<v Roy Ernie Portilla Manzanares>6.5
+
+00:33:15.000 --> 00:33:15.900
+<v Jean Pierre Espinoza Rest>7%
+
+00:33:20.000 --> 00:33:20.900
+<v Estuardo Ivan Chalan Marreros>7%?
+
+00:33:24.000 --> 00:33:24.900
+<v Roy Ernie Portilla Manzanares>7
+
+00:33:31.000 --> 00:33:31.900
+<v Andres Vilcahuaman Zermeno>lo que lo promedie a 4.5
+
+00:34:04.000 --> 00:34:04.900
+<v Sergio Sebastian Salazar Relayze>Si
+
+00:34:05.000 --> 00:34:05.900
+<v Jean Pierre Espinoza Rest>si
+
+00:34:10.000 --> 00:34:10.900
+<v Roy Ernie Portilla Manzanares>9
+
+00:34:11.000 --> 00:34:11.900
+<v Jean Pierre Espinoza Rest>9%
+
+00:34:12.000 --> 00:34:12.900
+<v Marcelo Andres Villar Meza>9
+
+00:34:13.000 --> 00:34:13.900
+<v Luciene Nicole Courquin Tejada>9
+
+00:34:14.000 --> 00:34:14.900
+<v Sofia Carolina Jo Brun>9
+
+00:34:15.000 --> 00:34:15.900
+<v Estuardo Ivan Chalan Marreros>9%?
+
+00:34:21.000 --> 00:34:21.900
+<v Andres Vilcahuaman Zermeno>lo van a matar en la tasa2
+
+01:15:21.000 --> 01:15:21.900
+<v Sofia Carolina Jo Brun>capacidad de analisis y entender el comportamiento del mercado 
+
+01:19:12.000 --> 01:19:12.900
+<v Sebastian Silva Ramal>no
+
+01:19:13.000 --> 01:19:13.900
+<v Sofia Carolina Jo Brun>yo creo que no 
+<v Jheysson Andre Roncal Valdivia>no
+
+01:19:18.000 --> 01:19:18.900
+<v Edwin Miguel Prado Quispe> No
+
+01:19:20.000 --> 01:19:20.900
+<v Andres Vilcahuaman Zermeno>no
+
+01:19:25.000 --> 01:19:25.900
+<v Diana Carolina Ponte Villalaz>no
+
+01:19:26.000 --> 01:19:26.900
+<v Andres Vilcahuaman Zermeno>igual todo
+
+01:21:37.000 --> 01:21:37.900
+<v Roy Ernie Portilla Manzanares>Esa "intuicion" no se ganaria con el tiempo trabajando el la industria?
+
+01:26:21.000 --> 01:26:21.900
+<v Andres Vilcahuaman Zermeno>no entendi profe
+
+01:26:24.000 --> 01:26:24.900
+<v Roy Ernie Portilla Manzanares>No, pero tal vez la cultura del pais si lo afecten
+
+01:28:31.000 --> 01:28:31.900
+<v Sofia Carolina Jo Brun>hay full hombres 
+
+01:28:41.000 --> 01:28:41.900
+<v Jheysson Andre Roncal Valdivia>son todos hombres
+
+01:28:46.000 --> 01:28:46.900
+<v Andres Vilcahuaman Zermeno>por la cultura
+
+01:28:57.000 --> 01:28:57.900
+<v Andres Vilcahuaman Zermeno>opresora falocentrista
+
+01:29:01.000 --> 01:29:01.900
+<v Jheysson Andre Roncal Valdivia>o por costumbre
+
+01:29:12.000 --> 01:29:12.900
+<v Nicolas Vegas Trivelli>Patriarcado dice
+
+01:29:35.000 --> 01:29:35.900
+<v Roy Ernie Portilla Manzanares>Costumbre. Acceso a la educacion. Un cilco vicioso.
+
+01:32:22.000 --> 01:32:22.900
+<v Magaly Julisa Acuna Condori>son estereotipos
+
+01:37:23.000 --> 01:37:23.900
+<v Magaly Julisa Acuna Condori>jajajajjajajaja
+
+01:37:36.000 --> 01:37:36.900
+<v Sergio Sebastian Salazar Relayze>En BBVA solia haber 1
+
+01:37:43.000 --> 01:37:43.900
+<v Sergio Sebastian Salazar Relayze>pero se fue a su masters
+
+01:37:46.000 --> 01:37:46.900
+<v Andres Vilcahuaman Zermeno>no se acuerda creo
+
+01:38:53.000 --> 01:38:53.900
+<v Jheysson Andre Roncal Valdivia>el tema es que son pocas en comparación a la cantidad de hombres
+
+01:39:03.000 --> 01:39:03.900
+<v Alejandra Cristina Samame Dulanto>la de credicrop es mujer
+
+01:39:09.000 --> 01:39:09.900
+<v Alejandra Cristina Samame Dulanto>o sea la trader de renta dija
+
+01:39:17.000 --> 01:39:17.900
+<v Magaly Julisa Acuna Condori>habla ale
+
+01:39:59.000 --> 01:39:59.900
+<v Andres Vilcahuaman Zermeno>mire el salón profe
+
+01:40:08.000 --> 01:40:08.900
+<v Estuardo Ivan Chalan Marreros>😂
+
+01:40:17.000 --> 01:40:17.900
+<v Jose Eduardo Arcos Ayala>jajaja
+
+01:40:20.000 --> 01:40:20.900
+<v Marcelo Andres Villar Meza>😂
+
+01:40:21.000 --> 01:40:21.900
+<v Edwin Miguel Prado Quispe>jaajaj
+
+01:40:30.000 --> 01:40:30.900
+<v Sofia Carolina Jo Brun>jaja 😢
+
+01:40:43.000 --> 01:40:43.900
+<v Sebastian Enrique Collantes Liendo>jaja
+
+01:41:34.000 --> 01:41:34.900
+<v Jheysson Andre Roncal Valdivia>jajajajajaja
+
+01:41:39.000 --> 01:41:39.900
+<v Roy Ernie Portilla Manzanares>Jajaja
+
+01:42:38.000 --> 01:42:38.900
+<v Andres Vilcahuaman Zermeno>está muy mal repartido en la carrera conocí nomas a sofia y a chivi
+
+01:42:43.000 --> 01:42:43.900
+<v Andres Vilcahuaman Zermeno>y de ahí 200 manes
+
+01:42:49.000 --> 01:42:49.900
+<v Sofia Carolina Jo Brun>jajaja
+
+01:42:51.000 --> 01:42:51.900
+<v Jheysson Andre Roncal Valdivia>jajajajajajajjaja
+
+01:42:55.000 --> 01:42:55.900
+<v Edwin Miguel Prado Quispe>jjajajjajaja
+
+01:42:56.000 --> 01:42:56.900
+<v Marcelo Andres Villar Meza>jajajajaja
+
+01:43:17.000 --> 01:43:17.900
+<v Jose Eduardo Arcos Ayala>jajajaja
+
+01:44:07.000 --> 01:44:07.900
+<v Sebastian Silva Ramal>Tesoreria
+
+01:44:13.000 --> 01:44:13.900
+<v Estuardo Ivan Chalan Marreros>Adriana
+
+01:49:10.000 --> 01:49:10.900
+<v Sebastian Enrique Collantes Liendo>chau profe, gracias!
+<v Sofia Carolina Jo Brun>gracias
+
+01:49:12.000 --> 01:49:12.900
+<v Jean Pierre Espinoza Rest>gracias profe
+<v Sebastian Aybar Guerrero>gracias!
+<v Sebastian Silva Ramal>gracias
+<v Andres Vilcahuaman Zermeno>hay fincuanti 
+
+01:49:13.000 --> 01:49:13.900
+<v Jheysson Andre Roncal Valdivia>gracias profe!!
+<v Alejandra Cristina Samame Dulanto>Graciaaas
+
+01:49:14.000 --> 01:49:14.900
+<v Andres Vilcahuaman Zermeno>😞
+
+01:49:15.000 --> 01:49:15.900
+<v Alexander Johan Pacaya Samame>graciasa
+<v Silvana Lucia Orihuela Acosta>gracias
+
+01:49:16.000 --> 01:49:16.900
+<v Roy Ernie Portilla Manzanares>Chau profe
+
+01:49:17.000 --> 01:49:17.900
+<v Luciene Nicole Courquin Tejada>chau profe!!
+
+01:49:18.000 --> 01:49:18.900
+<v Jose Eduardo Arcos Ayala>gracias profe
+<v Diana Carolina Ponte Villalaz>gracias
+
+01:49:21.000 --> 01:49:21.900
+<v Alejandra Sofia Solis Rodriguez>gracias!
+<v Estuardo Ivan Chalan Marreros>Gracias profe!
+
+01:49:22.000 --> 01:49:22.900
+<v Diego Satornicio Melgarejo>gracias

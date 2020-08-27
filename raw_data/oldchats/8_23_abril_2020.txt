@@ -1,0 +1,574 @@
+WEBVTT
+
+00:01:08.000 --> 00:01:08.900
+<v Nicolas Vegas Trivelli>profe donde consiguio peluquero??
+
+00:01:12.000 --> 00:01:12.900
+<v Edwin Miguel Prado Quispe>Hola profe ! 
+
+00:01:14.000 --> 00:01:14.900
+<v Maria Gracia Garcia Garces>hola profe
+
+00:01:16.000 --> 00:01:16.900
+<v Santiago Jose Fernandez Pizarro>JAJAJAJA
+
+00:01:26.000 --> 00:01:26.900
+<v Marcelo Andres Villar Meza>no se  olvide grabar la clase profe
+<v Santiago Jose Fernandez Pizarro>máquina no más pe
+
+00:01:35.000 --> 00:01:35.900
+<v Jheysson Andre Roncal Valdivia>jajajajajajajaja
+
+00:01:38.000 --> 00:01:38.900
+<v Edwin Miguel Prado Quispe>jajajajaj
+<v Santiago Jose Fernandez Pizarro>lo que hace uno por amor
+
+00:01:44.000 --> 00:01:44.900
+<v Luciene Nicole Courquin Tejada>jajajajaja
+
+00:01:57.000 --> 00:01:57.900
+<v Santiago Jose Fernandez Pizarro>profe, métele la de daddy yankee
+
+00:01:58.000 --> 00:01:58.900
+<v Nicolas Vegas Trivelli>jajajaja
+
+00:02:19.000 --> 00:02:19.900
+<v Andres Vilcahuaman Zermeno>hola
+
+00:03:03.000 --> 00:03:03.900
+<v Nicolas Vegas Trivelli>Hasta que hora se entrega lo de hoy?
+
+00:08:32.000 --> 00:08:32.900
+<v Fernando Bravo Benavides>no dice el nombre
+<v Fabio Yoshiki Kadena Matsuda>si
+
+00:08:33.000 --> 00:08:33.900
+<v Sebastian Enrique Collantes Liendo>it only says "the company" i think
+
+00:08:36.000 --> 00:08:36.900
+<v Maria Gracia Garcia Garces>no decia
+
+00:09:19.000 --> 00:09:19.900
+<v Marcelo Andres Villar Meza>pachinko no?
+
+00:09:21.000 --> 00:09:21.900
+<v Maria Gracia Garcia Garces>pachinko parlors
+
+00:09:33.000 --> 00:09:33.900
+<v Sergio Sebastian Salazar Relayze>no
+
+00:09:37.000 --> 00:09:37.900
+<v Andres Vilcahuaman Zermeno>no
+
+00:09:38.000 --> 00:09:38.900
+<v Estuardo Ivan Chalan Marreros>No
+
+00:09:42.000 --> 00:09:42.900
+<v Nicole Marcella Condori Cubillas>juegos como paintball?
+
+00:09:44.000 --> 00:09:44.900
+<v Fabio Yoshiki Kadena Matsuda>pachinko no es tragamonedas? jaja
+
+00:09:48.000 --> 00:09:48.900
+<v Nicole Marcella Condori Cubillas>pinball*
+
+00:12:29.000 --> 00:12:29.900
+<v Santiago Jose Fernandez Pizarro>esos chinos raros
+
+00:13:16.000 --> 00:13:16.900
+<v Estuardo Ivan Chalan Marreros>Is not
+
+00:13:18.000 --> 00:13:18.900
+<v Edwin Miguel Prado Quispe>no
+
+00:13:19.000 --> 00:13:19.900
+<v Sebastian Silva Ramal>nara
+
+00:13:24.000 --> 00:13:24.900
+<v Marcelo Andres Villar Meza>nada
+
+00:13:49.000 --> 00:13:49.900
+<v Sebastian Silva Ramal>IRS
+
+00:13:55.000 --> 00:13:55.900
+<v Estuardo Ivan Chalan Marreros>swap
+
+00:13:58.000 --> 00:13:58.900
+<v Sebastian Enrique Collantes Liendo>swap
+
+00:14:01.000 --> 00:14:01.900
+<v Edwin Miguel Prado Quispe>interest rate swap
+
+00:14:10.000 --> 00:14:10.900
+<v Marcelo Andres Villar Meza>fixed rate
+
+00:14:15.000 --> 00:14:15.900
+<v Sebastian Alfonso Herrera Eyzaguirre>variable to fix?
+
+00:14:16.000 --> 00:14:16.900
+<v Maria Gracia Garcia Garces>protegerse de tasas altas
+
+00:14:27.000 --> 00:14:27.900
+<v Estuardo Ivan Chalan Marreros>hedge a altas tasas
+
+00:14:43.000 --> 00:14:43.900
+<v Andres Vilcahuaman Zermeno>tokyo
+
+00:14:45.000 --> 00:14:45.900
+<v Andres Vilcahuaman Zermeno>interbank
+
+00:14:50.000 --> 00:14:50.900
+<v Andres Vilcahuaman Zermeno>y lo demas
+
+00:15:37.000 --> 00:15:37.900
+<v Marcelo Andres Villar Meza>TIBOR
+
+00:16:37.000 --> 00:16:37.900
+<v Estuardo Ivan Chalan Marreros>Yes
+
+00:16:39.000 --> 00:16:39.900
+<v Sebastian Silva Ramal>yes
+
+00:17:59.000 --> 00:17:59.900
+<v Santiago Jose Fernandez Pizarro>inglés pe
+
+00:18:02.000 --> 00:18:02.900
+<v Santiago Jose Fernandez Pizarro>no seas sano
+
+00:21:05.000 --> 00:21:05.900
+<v Fernando Bravo Benavides>era un forward swap a un año
+
+00:21:43.000 --> 00:21:43.900
+<v Marcelo Andres Villar Meza>about the clasification of the bank and the company i think. they have different fixed and floating rates
+
+00:21:54.000 --> 00:21:54.900
+<v Andres Vilcahuaman Zermeno>eso no me quedó claro
+
+00:22:05.000 --> 00:22:05.900
+<v Andres Vilcahuaman Zermeno>diferencia entre spot start y forward start
+
+00:25:26.000 --> 00:25:26.900
+<v Andres Vilcahuaman Zermeno>04 is 2004
+
+00:25:57.000 --> 00:25:57.900
+<v Andres Vilcahuaman Zermeno>ok
+
+00:26:43.000 --> 00:26:43.900
+<v Andres Vilcahuaman Zermeno>pateas los flujos fijos
+
+00:26:45.000 --> 00:26:45.900
+<v Andres Vilcahuaman Zermeno>no?
+
+00:26:52.000 --> 00:26:52.900
+<v Andres Vilcahuaman Zermeno>oka
+
+00:27:15.000 --> 00:27:15.900
+<v Sebastian Silva Ramal>you are not expecting rates to rise during the 1st year
+
+00:27:16.000 --> 00:27:16.900
+<v Alvaro Ricardo Adrianzen Puccio>expectativas de tasa
+
+00:28:04.000 --> 00:28:04.900
+<v Andres Vilcahuaman Zermeno>hay una "penalidad" por patear esa tasa?
+
+00:33:43.000 --> 00:33:43.900
+<v Andres Vilcahuaman Zermeno>claro
+
+00:33:48.000 --> 00:33:48.900
+<v Andres Vilcahuaman Zermeno>no hay sanguche gratis
+
+00:35:50.000 --> 00:35:50.900
+<v Andres Vilcahuaman Zermeno>ok
+
+00:40:24.000 --> 00:40:24.900
+<v Sebastian Silva Ramal>😨
+
+00:40:28.000 --> 00:40:28.900
+<v Santiago Jose Fernandez Pizarro>si no entiendo algo te interrumpo profe, no te preocupes
+
+00:40:32.000 --> 00:40:32.900
+<v Santiago Jose Fernandez Pizarro>pero tod claro por ahora
+
+00:40:35.000 --> 00:40:35.900
+<v Nicolas Vegas Trivelli>una encuesta
+
+00:40:42.000 --> 00:40:42.900
+<v Nicolas Vegas Trivelli>cuando es medio yuca
+
+00:40:43.000 --> 00:40:43.900
+<v Roy Ernie Portilla Manzanares>Las caritas de comentarios?
+
+00:40:44.000 --> 00:40:44.900
+<v Edwin Miguel Prado Quispe>la encuesta
+
+00:40:45.000 --> 00:40:45.900
+<v Santiago Jose Fernandez Pizarro>o sea si yo no entiendo algo pregunto
+
+00:40:50.000 --> 00:40:50.900
+<v Santiago Jose Fernandez Pizarro>qué caritas
+
+00:40:52.000 --> 00:40:52.900
+<v Santiago Jose Fernandez Pizarro>JAJAJAJAJA
+
+00:40:55.000 --> 00:40:55.900
+<v Andres Vilcahuaman Zermeno>encuestasa
+<v Santiago Jose Fernandez Pizarro>no seas bravo
+
+00:41:01.000 --> 00:41:01.900
+<v Alejandra Cristina Samame Dulanto>🤯 asii jajaja
+
+00:41:04.000 --> 00:41:04.900
+<v Roy Ernie Portilla Manzanares>mira los participantees
+
+00:41:20.000 --> 00:41:20.900
+<v Edwin Miguel Prado Quispe>🤯 
+
+00:41:25.000 --> 00:41:25.900
+<v Sergio Sebastian Salazar Relayze>como se hacen esas caritas?
+
+00:41:30.000 --> 00:41:30.900
+<v Sebastian Silva Ramal>😵
+
+00:41:32.000 --> 00:41:32.900
+<v Jheysson Andre Roncal Valdivia>😔
+
+00:41:34.000 --> 00:41:34.900
+<v Luciene Nicole Courquin Tejada>😅
+
+00:41:36.000 --> 00:41:36.900
+<v Edwin Miguel Prado Quispe>🐂
+
+00:41:38.000 --> 00:41:38.900
+<v Roy Ernie Portilla Manzanares>en tu imagen
+
+00:41:41.000 --> 00:41:41.900
+<v Jean Pierre Espinoza Rest>tal vez puedes escoger a alguien random para que lo explique brevemente. En ese caso hay mas incentivos para preguntar jaja
+<v Sebastian Alfonso Herrera Eyzaguirre>☠
+
+00:41:42.000 --> 00:41:42.900
+<v Sergio Sebastian Salazar Relayze>yra
+
+00:41:44.000 --> 00:41:44.900
+<v Nicolas Vegas Trivelli>Profe si apretas agree que pasa?
+
+00:41:55.000 --> 00:41:55.900
+<v Magaly Julisa Acuna Condori>puedes preguntarnos algo de lo que explicas por la encuesta
+
+00:42:31.000 --> 00:42:31.900
+<v Edwin Miguel Prado Quispe>solo te sale un check
+
+00:42:35.000 --> 00:42:35.900
+<v Alejandra Cristina Samame Dulanto>como hacen  para tener esas cosas en la foto?
+<v Roy Ernie Portilla Manzanares>Apretar "De acuerdo"
+
+00:42:36.000 --> 00:42:36.900
+<v Santiago Jose Fernandez Pizarro>"de acuerdo"
+
+00:42:41.000 --> 00:42:41.900
+<v Santiago Jose Fernandez Pizarro>para computadoras tercermundistas
+
+00:42:42.000 --> 00:42:42.900
+<v Andres Vilcahuaman Zermeno>conforme
+
+00:42:52.000 --> 00:42:52.900
+<v Santiago Jose Fernandez Pizarro>jejeje
+
+00:43:09.000 --> 00:43:09.900
+<v Andres Vilcahuaman Zermeno>pero profe fácil a la gente le da roche
+
+00:43:12.000 --> 00:43:12.900
+<v Sebastian Alfonso Herrera Eyzaguirre>como se hace eso
+
+00:43:14.000 --> 00:43:14.900
+<v Roy Ernie Portilla Manzanares>Se suman los agree
+
+00:43:21.000 --> 00:43:21.900
+<v Andres Vilcahuaman Zermeno>la encuesta es anonima
+
+00:43:32.000 --> 00:43:32.900
+<v Sebastian Enrique Collantes Liendo>como se hace?
+
+00:43:33.000 --> 00:43:33.900
+<v Sebastian Alfonso Herrera Eyzaguirre>como pongo agree
+
+00:43:34.000 --> 00:43:34.900
+<v Nicole Marcella Condori Cubillas>yo no se como ponerlo profe
+<v Alejandra Cristina Samame Dulanto>como se ponee?? 😭
+
+00:43:35.000 --> 00:43:35.900
+<v Sergio Sebastian Salazar Relayze>donde?
+
+00:43:41.000 --> 00:43:41.900
+<v Marcelo Andres Villar Meza>como?
+<v Magaly Julisa Acuna Condori>yo tmp sé
+
+00:43:42.000 --> 00:43:42.900
+<v Nicolas Vegas Trivelli>en la foto debajo de la pantalla
+
+00:43:43.000 --> 00:43:43.900
+<v Magaly Julisa Acuna Condori>ajjaja
+
+00:43:51.000 --> 00:43:51.900
+<v Roy Ernie Portilla Manzanares>Al costadeo del microfono
+
+00:44:07.000 --> 00:44:07.900
+<v Estuardo Ivan Chalan Marreros>jajajajajaja
+
+00:44:09.000 --> 00:44:09.900
+<v Roy Ernie Portilla Manzanares>tJajaja
+
+00:44:12.000 --> 00:44:12.900
+<v Alejandra Cristina Samame Dulanto>yee ya salio
+
+00:44:22.000 --> 00:44:22.900
+<v Sebastian Alfonso Herrera Eyzaguirre>a y puedes poner mas cosas tmbn
+
+00:44:25.000 --> 00:44:25.900
+<v Andres Vilcahuaman Zermeno>profe
+
+00:44:26.000 --> 00:44:26.900
+<v Edwin Miguel Prado Quispe>siii mucha cosa jajaj
+
+00:44:27.000 --> 00:44:27.900
+<v Andres Vilcahuaman Zermeno>en encuesta
+
+00:44:31.000 --> 00:44:31.900
+<v Andres Vilcahuaman Zermeno>todos responden
+
+00:44:35.000 --> 00:44:35.900
+<v Andres Vilcahuaman Zermeno>Herrera está jataso
+
+00:44:36.000 --> 00:44:36.900
+<v Marcelo Andres Villar Meza>no se como jjaja
+
+00:44:38.000 --> 00:44:38.900
+<v Fabio Yoshiki Kadena Matsuda>no lo encuentro
+
+00:44:39.000 --> 00:44:39.900
+<v Estuardo Ivan Chalan Marreros>jajajajaja
+
+00:44:44.000 --> 00:44:44.900
+<v Santiago Jose Fernandez Pizarro>profe
+
+00:44:47.000 --> 00:44:47.900
+<v Santiago Jose Fernandez Pizarro>creo que lo ideal
+
+00:44:50.000 --> 00:44:50.900
+<v Jheysson Andre Roncal Valdivia>se demora en cargar
+
+00:44:53.000 --> 00:44:53.900
+<v Santiago Jose Fernandez Pizarro>es darles la confianza para que pregunten
+
+00:44:55.000 --> 00:44:55.900
+<v Edwin Miguel Prado Quispe>todos con webcam
+
+00:45:13.000 --> 00:45:13.900
+<v Jean Pierre Espinoza Rest>agree
+
+00:56:44.000 --> 00:56:44.900
+<v Andres Vilcahuaman Zermeno>oka 
+
+00:56:46.000 --> 00:56:46.900
+<v Andres Vilcahuaman Zermeno>profe
+
+00:56:48.000 --> 00:56:48.900
+<v Andres Vilcahuaman Zermeno>el 0.1
+
+00:56:51.000 --> 00:56:51.900
+<v Andres Vilcahuaman Zermeno>de donde salía
+
+00:56:56.000 --> 00:56:56.900
+<v Andres Vilcahuaman Zermeno>?
+
+00:58:04.000 --> 00:58:04.900
+<v Andres Vilcahuaman Zermeno>oook
+
+00:58:12.000 --> 00:58:12.900
+<v Andres Vilcahuaman Zermeno>😎
+
+00:58:24.000 --> 00:58:24.900
+<v Roy Ernie Portilla Manzanares>for the effective rate shouldnt we include the exit penalty and delayed int penalty?
+
+00:59:22.000 --> 00:59:22.900
+<v Roy Ernie Portilla Manzanares>yes
+
+01:05:50.000 --> 01:05:50.900
+<v Sebastian Silva Ramal>por que 90/360?
+
+01:06:31.000 --> 01:06:31.900
+<v Sebastian Silva Ramal>120/360
+
+01:10:11.000 --> 01:10:11.900
+<v Jean Pierre Espinoza Rest>yes
+
+01:10:15.000 --> 01:10:15.900
+<v Sebastian Enrique Collantes Liendo>agree
+
+01:10:18.000 --> 01:10:18.900
+<v Marcelo Andres Villar Meza>agree
+
+01:15:20.000 --> 01:15:20.900
+<v Marcelo Andres Villar Meza>yes
+
+01:18:10.000 --> 01:18:10.900
+<v Marcelo Andres Villar Meza>agree
+
+01:18:11.000 --> 01:18:11.900
+<v Estuardo Ivan Chalan Marreros>yes
+
+01:18:12.000 --> 01:18:12.900
+<v Andres Vilcahuaman Zermeno>oka
+
+01:18:13.000 --> 01:18:13.900
+<v Sebastian Aybar Guerrero>agree
+
+01:18:16.000 --> 01:18:16.900
+<v Alejandra Cristina Samame Dulanto>agree
+
+01:18:33.000 --> 01:18:33.900
+<v Sebastian Enrique Collantes Liendo>we don't need to multiply the notional?
+
+01:18:50.000 --> 01:18:50.900
+<v Sebastian Enrique Collantes Liendo>ahhh 
+
+01:18:51.000 --> 01:18:51.900
+<v Sebastian Enrique Collantes Liendo>okk
+
+01:19:14.000 --> 01:19:14.900
+<v Marcelo Andres Villar Meza>If 2.445-Sr is negative the company have to pay to the bank?
+
+01:22:17.000 --> 01:22:17.900
+<v Marcelo Andres Villar Meza>Ahhh ya listo gracias
+
+01:22:22.000 --> 01:22:22.900
+<v Marcelo Andres Villar Meza>agree
+<v Estuardo Ivan Chalan Marreros>Sii
+
+01:26:54.000 --> 01:26:54.900
+<v Estuardo Ivan Chalan Marreros>old and chinese
+
+01:26:56.000 --> 01:26:56.900
+<v Andres Vilcahuaman Zermeno>fat
+<v Edwin Miguel Prado Quispe>😑 
+
+01:27:00.000 --> 01:27:00.900
+<v Sebastian Silva Ramal>-.-
+
+01:27:02.000 --> 01:27:02.900
+<v Roy Ernie Portilla Manzanares>A serious guy
+
+01:27:15.000 --> 01:27:15.900
+<v Marcelo Andres Villar Meza>70
+
+01:27:18.000 --> 01:27:18.900
+<v Edwin Miguel Prado Quispe>😑
+<v Estuardo Ivan Chalan Marreros>60 years old
+<v Roy Ernie Portilla Manzanares>50-60?
+
+01:27:21.000 --> 01:27:21.900
+<v Alejandra Cristina Samame Dulanto>60
+<v Sebastian Silva Ramal>65
+
+01:27:22.000 --> 01:27:22.900
+<v Andres Vilcahuaman Zermeno>the one that says boring things at a party
+
+01:27:30.000 --> 01:27:30.900
+<v Marcelo Andres Villar Meza>canoso
+
+01:27:32.000 --> 01:27:32.900
+<v Nicolas Vegas Trivelli>CHIFERO
+
+01:27:40.000 --> 01:27:40.900
+<v Edwin Miguel Prado Quispe>doing makis
+
+01:27:52.000 --> 01:27:52.900
+<v Sebastian Silva Ramal>doesn't know how to turn on a projector
+
+01:27:58.000 --> 01:27:58.900
+<v Alejandra Cristina Samame Dulanto>JAJAJAJA
+
+01:28:11.000 --> 01:28:11.900
+<v Sebastian Enrique Collantes Liendo>traditional
+
+01:28:12.000 --> 01:28:12.900
+<v Edwin Miguel Prado Quispe>business guy from the old ages 
+
+01:28:24.000 --> 01:28:24.900
+<v Sebastian Aybar Guerrero>stubborn
+
+01:28:46.000 --> 01:28:46.900
+<v Marcelo Andres Villar Meza>baby boomer
+
+01:29:51.000 --> 01:29:51.900
+<v Andres Vilcahuaman Zermeno>yu need to have the contract clear
+
+01:30:26.000 --> 01:30:26.900
+<v Andres Vilcahuaman Zermeno>also protecting from higer
+<v Sebastian Silva Ramal>it's the price of hedging
+
+01:35:05.000 --> 01:35:05.900
+<v Jean Pierre Espinoza Rest>yes?
+
+01:35:06.000 --> 01:35:06.900
+<v Andres Vilcahuaman Zermeno>ese es  un 9?
+
+01:35:13.000 --> 01:35:13.900
+<v Andres Vilcahuaman Zermeno>2.945?
+
+01:36:07.000 --> 01:36:07.900
+<v Sebastian Enrique Collantes Liendo>but the swap doesn't cover the whole loan right? only 0.3bilion
+
+01:36:10.000 --> 01:36:10.900
+<v Sebastian Enrique Collantes Liendo>billion
+
+01:41:12.000 --> 01:41:12.900
+<v Andres Vilcahuaman Zermeno>ok
+
+01:41:13.000 --> 01:41:13.900
+<v Sebastian Aybar Guerrero>clear
+
+01:41:14.000 --> 01:41:14.900
+<v Andres Vilcahuaman Zermeno>entonces
+
+01:41:17.000 --> 01:41:17.900
+<v Andres Vilcahuaman Zermeno>no es igual
+
+01:41:25.000 --> 01:41:25.900
+<v Andres Vilcahuaman Zermeno>subir y bajar 50bps
+
+01:41:32.000 --> 01:41:32.900
+<v Andres Vilcahuaman Zermeno>no?
+
+01:44:26.000 --> 01:44:26.900
+<v Edwin Miguel Prado Quispe>nop 
+<v Alejandra Cristina Samame Dulanto>all clear
+
+01:44:35.000 --> 01:44:35.900
+<v Sebastian Silva Ramal>grcs
+
+01:44:36.000 --> 01:44:36.900
+<v Alejandra Cristina Samame Dulanto>graciaaas
+
+01:44:37.000 --> 01:44:37.900
+<v Estuardo Ivan Chalan Marreros>Gracias profe!
+<v Alvaro Ricardo Adrianzen Puccio>Thanks
+<v Roy Ernie Portilla Manzanares>bye profe
+
+01:44:38.000 --> 01:44:38.900
+<v Fernando Bravo Benavides>chau
+<v Sebastian Aybar Guerrero>gracias
+
+01:44:42.000 --> 01:44:42.900
+<v Sebastian Enrique Collantes Liendo>chau profe ,gracias!
+<v Edwin Miguel Prado Quispe>Bye
+
+01:44:44.000 --> 01:44:44.900
+<v Nicole Marcella Condori Cubillas>gracias profe
+<v Jheysson Andre Roncal Valdivia>gracias!
+<v Luciene Nicole Courquin Tejada>gracias!
+
+01:44:45.000 --> 01:44:45.900
+<v Diana Carolina Ponte Villalaz>gracias
+
+01:44:47.000 --> 01:44:47.900
+<v Alejandra Sofia Solis Rodriguez>Gracias

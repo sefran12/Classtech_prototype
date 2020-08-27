@@ -1,0 +1,175 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:00.900
+<v Roy Ernie Portilla Manzanares>Hola profe
+
+00:00:05.000 --> 00:00:05.900
+<v Estuardo Ivan Chalan Marreros>Hola profe
+
+00:00:24.000 --> 00:00:24.900
+<v Edwin Miguel Prado Quispe>Hola profe
+
+00:00:29.000 --> 00:00:29.900
+<v Jheysson Andre Roncal Valdivia>Muy temprano profe
+
+00:01:04.000 --> 00:01:04.900
+<v Ruben Angel Montenegro Lee>pa q se meten a un curso tan temprano pues....
+
+00:03:59.000 --> 00:03:59.900
+<v Roy Ernie Portilla Manzanares>😆
+
+00:19:52.000 --> 00:19:52.900
+<v Estuardo Ivan Chalan Marreros>Si profe
+
+00:19:53.000 --> 00:19:53.900
+<v Luciene Nicole Courquin Tejada>sii
+
+00:19:54.000 --> 00:19:54.900
+<v Edwin Miguel Prado Quispe>siii
+
+00:19:55.000 --> 00:19:55.900
+<v Silvana Lucia Orihuela Acosta>si
+
+00:23:03.000 --> 00:23:03.900
+<v Jean Pierre Espinoza Rest>si
+
+00:36:44.000 --> 00:36:44.900
+<v Jean Pierre Espinoza Rest>negociacion con el banco_
+
+00:36:45.000 --> 00:36:45.900
+<v Jean Pierre Espinoza Rest>?
+
+00:36:53.000 --> 00:36:53.900
+<v Nicolas Vegas Trivelli>Por el COF o las mismas politicas del banco que te pidan spread minimo para sacar operwciones
+
+00:38:44.000 --> 00:38:44.900
+<v Jean Pierre Espinoza Rest>las ganancias que puedes registrar
+
+00:39:00.000 --> 00:39:00.900
+<v Andres Vilcahuaman Zermeno>porque en el spread haces más plata y el monto es mayor pa citi
+
+00:39:28.000 --> 00:39:28.900
+<v Roy Ernie Portilla Manzanares>q en uno registraba ahora y en el otro lo diferia en el tiempo del prestamo
+
+00:47:42.000 --> 00:47:42.900
+<v Edwin Miguel Prado Quispe>si profe
+
+00:47:43.000 --> 00:47:43.900
+<v Sebastian Aybar Guerrero>si
+
+00:47:47.000 --> 00:47:47.900
+<v Nicolas Vegas Trivelli>Profe y podías meter derivados a la hora de reprogramar por COVID?
+
+00:48:29.000 --> 00:48:29.900
+<v Andres Vilcahuaman Zermeno>profe porque en año 2 marcabas 0 de ganancia en swap Spread
+
+00:48:48.000 --> 00:48:48.900
+<v Roy Ernie Portilla Manzanares>profe si en los siguientes anios el mtm va en contra del banco, para el 175,  tambien acelerarias perdidas no?
+
+00:50:03.000 --> 00:50:03.900
+<v Andres Vilcahuaman Zermeno>oka
+
+00:50:39.000 --> 00:50:39.900
+<v Roy Ernie Portilla Manzanares>reconocer anticipadamente
+
+00:51:33.000 --> 00:51:33.900
+<v Roy Ernie Portilla Manzanares>ah, pero si la empresa hace unwind, ahi si no?
+
+00:53:12.000 --> 00:53:12.900
+<v Roy Ernie Portilla Manzanares>👍
+
+00:57:23.000 --> 00:57:23.900
+<v Roy Ernie Portilla Manzanares>por que x20, no es de 50 MM?
+
+00:57:33.000 --> 00:57:33.900
+<v Roy Ernie Portilla Manzanares>ah
+
+01:09:29.000 --> 01:09:29.900
+<v Andres Vilcahuaman Zermeno>te hubiera dejado expuesto al TC
+
+01:09:37.000 --> 01:09:37.900
+<v Estuardo Ivan Chalan Marreros>Riesgo cambiario
+
+01:10:18.000 --> 01:10:18.900
+<v Andres Vilcahuaman Zermeno>tasa baratita
+
+01:12:31.000 --> 01:12:31.900
+<v Roy Ernie Portilla Manzanares>4.4
+
+01:16:24.000 --> 01:16:24.900
+<v Andres Vilcahuaman Zermeno>no eran 2 años?
+
+01:16:32.000 --> 01:16:32.900
+<v Andres Vilcahuaman Zermeno>dijo 4 años
+
+01:16:37.000 --> 01:16:37.900
+<v Andres Vilcahuaman Zermeno>el bono
+
+01:17:04.000 --> 01:17:04.900
+<v Andres Vilcahuaman Zermeno>oka
+
+01:19:06.000 --> 01:19:06.900
+<v Sebastian Enrique Collantes Liendo>los spreads
+
+01:19:09.000 --> 01:19:09.900
+<v Sebastian Enrique Collantes Liendo>del banco
+
+01:19:28.000 --> 01:19:28.900
+<v Jean Pierre Espinoza Rest>primas?
+
+01:19:49.000 --> 01:19:49.900
+<v Andres Vilcahuaman Zermeno>te van a cobrar por eso tbm
+
+01:21:07.000 --> 01:21:07.900
+<v Andres Vilcahuaman Zermeno>ya volaste 
+
+01:21:38.000 --> 01:21:38.900
+<v Andres Vilcahuaman Zermeno>aparte de la tasa 
+
+01:21:56.000 --> 01:21:56.900
+<v Andres Vilcahuaman Zermeno>no termina siendo más lata
+
+01:21:59.000 --> 01:21:59.900
+<v Andres Vilcahuaman Zermeno>?
+
+01:23:50.000 --> 01:23:50.900
+<v Andres Vilcahuaman Zermeno>ok
+
+01:24:33.000 --> 01:24:33.900
+<v Roy Ernie Portilla Manzanares>q pasaria si hubiese sido con el prestamo de L + 175?
+
+01:25:36.000 --> 01:25:36.900
+<v Andres Vilcahuaman Zermeno>el spread
+
+01:25:37.000 --> 01:25:37.900
+<v Sebastian Enrique Collantes Liendo>el spread en el swap?
+
+01:26:18.000 --> 01:26:18.900
+<v Roy Ernie Portilla Manzanares>o sea el resultado era el mismo
+
+01:26:35.000 --> 01:26:35.900
+<v Roy Ernie Portilla Manzanares>👍
+
+01:28:09.000 --> 01:28:09.900
+<v Ruben Angel Montenegro Lee>https://app.sli.do/event/e8avg8gm/embed/polls/9bd53a0e-521e-4479-b24d-1564e99c0b75
+
+01:28:37.000 --> 01:28:37.900
+<v Fabio Yoshiki Kadena Matsuda>chau profe
+
+01:28:41.000 --> 01:28:41.900
+<v Sebastian Enrique Collantes Liendo>chau profe
+
+01:28:42.000 --> 01:28:42.900
+<v Alejandra Cristina Samame Dulanto>gracias profee
+<v Estuardo Ivan Chalan Marreros>Gracias profe!
+
+01:28:44.000 --> 01:28:44.900
+<v Diana Carolina Ponte Villalaz>gracias
+
+01:28:45.000 --> 01:28:45.900
+<v Alvaro Ricardo Adrianzen Puccio>Gracias profe
+
+01:28:46.000 --> 01:28:46.900
+<v Edwin Miguel Prado Quispe>Listo ! Gracias profe !
+<v Marcelo Andres Villar Meza>Listo
+<v Silvana Lucia Orihuela Acosta>chau gracais profe

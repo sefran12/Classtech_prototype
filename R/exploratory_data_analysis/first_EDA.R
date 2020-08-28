@@ -6,6 +6,7 @@ library(tidyverse)
 # extra tidying
 library(lubridate)
 library(stringi)
+library(xts)
 
 # graphics
 library(patchwork)
@@ -18,19 +19,24 @@ library(plotly)
 # NLP
 library(tidytext)
 library(tokenizers)
+library(syuzhet)
+library(hunspell)
 
 # misc
 library(skimr) # summarise dataframes
 
-
 ##### OPTION SETTING #####
 
-theme_set(theme_clean())
+theme_set(theme_minimal())
 
 ##### READING DATA #####
 
 chat <- read.csv('processed_data/clean_chat_data.csv', stringsAsFactors = FALSE)
+
+# formatting as needed
+
 chat$date <- chat$date %>% ymd
+
 ##### INITIAL SKIMMING #####
 
 skim(chat)
@@ -61,7 +67,7 @@ chat %>%
 chat$numero_de_palabras <- str_count(chat$message, "\\S+")
 chat$unique_letters <- sapply(chat$message,
                               function(x){nchar(rawToChar(unique(charToRaw(str_remove(x, ' ')))))}
-                              )
+)
 chat$message_complexity <- (chat$numero_de_palabras > 2)*1 +
     (chat$unique_letters > 5)*1 + 
     chat$unique_letters*0.1 + 
@@ -130,8 +136,8 @@ scatterplot_intervenciones_vs_complejidad_usuario <-
     chat %>% 
     group_by(user) %>% 
     summarise(complejidad_media = mean(message_complexity, na.rm = TRUE),
-           total_de_palabras = sum(numero_de_palabras, na.rm = TRUE),
-           total_de_intervenciones = n()) %>% 
+              total_de_palabras = sum(numero_de_palabras, na.rm = TRUE),
+              total_de_intervenciones = n()) %>% 
     mutate(first_name = str_split(user, ' ', simplify = TRUE)[,1],
            second_name = str_split(user, ' ', simplify = TRUE)[,2]) %>%
     unite(short_name, c('first_name', 'second_name'), sep = ' ') %>% 
@@ -144,3 +150,129 @@ scatterplot_intervenciones_vs_complejidad_usuario <-
 
 scatterplot_intervenciones_vs_complejidad_usuario
 ggplotly(scatterplot_intervenciones_vs_complejidad_usuario)
+
+chat %>% 
+    group_by(date, language) %>% 
+    summarise(total_de_intervenciones = n()) %>% 
+    ggplot(aes(x = factor(date),
+               y = total_de_intervenciones,
+               fill = language)) +
+    geom_col() +
+    coord_flip() +
+    labs(title = 'Intervenciones por clase',
+         x = NULL,
+         y = 'Intervenciones')
+
+intervention_amount_per_class_language <- chat %>% 
+    group_by(date, user, language) %>% 
+    summarise(number_of_user_interventions = n()) %>% 
+    ggplot(aes(x = number_of_user_interventions,
+               fill = factor(language, labels = c('español', 'inglés')))) +
+    geom_density(alpha = 0.7) +
+    labs(title = 'Intervenciones por clase',
+         x = 'Número de intervenciones',
+         y = 'Densidad',
+         fill = 'Lenguaje')
+
+intervention_amount_per_class_language_boxplot <- chat %>% 
+    group_by(date, user, language) %>% 
+    summarise(number_of_user_interventions = n()) %>% 
+    ggplot(aes(y = number_of_user_interventions,
+               group = factor(language, labels = c('español', 'inglés')),
+               fill = factor(language, labels = c('español', 'inglés')))
+    ) +
+    geom_boxplot(alpha = 0.7) +
+    labs(title = 'Intervenciones por clase',
+         y = 'Número de intervenciones',
+         x = 'Lenguage',
+         fill = 'Lenguaje') 
+
+intervention_complexity_per_class_language <- chat %>% 
+    group_by(date, user, language) %>% 
+    summarise(mean_complexity = mean(message_complexity, na.rm = TRUE)) %>% 
+    ggplot(aes(x = mean_complexity,
+               fill = factor(language, labels = c('español', 'inglés')))) +
+    geom_density(alpha = 0.7) +
+    labs(title = 'Complejidad de las intervenciones por clase',
+         x = 'Complejidad de las intervenciones',
+         y = 'Densidad',
+         fill = 'Lenguaje') 
+
+intervention_complexity_per_class_language_boxplot <- chat %>% 
+    group_by(date, user, language) %>% 
+    summarise(mean_complexity = mean(message_complexity, na.rm = TRUE)) %>% 
+    ggplot(aes(y = mean_complexity,
+               group = factor(language, labels = c('español', 'inglés')),
+               fill = factor(language, labels = c('español', 'inglés')))) +
+    geom_boxplot(alpha = 0.7) +
+    labs(title = 'Complejidad de las intervenciones por clase',
+         y = 'Complejidad de las intervenciones',
+         x = 'Lenguaje',
+         fill = 'Lenguaje') 
+
+intervention_amount_per_class_language + intervention_complexity_per_class_language +
+    intervention_amount_per_class_language_boxplot + intervention_complexity_per_class_language_boxplot +
+    plot_layout(guides = 'collect')
+
+##### SENTIMENT ANALYSIS ON CHAT DATA #####
+
+## suggesting corrected words
+
+corpus_ <- chat %>% 
+    select(date, X, timestamp.start, timestamp.end, user, message)
+
+tokenized_corpus <- corpus_ %>% 
+    unnest_tokens(output = word, input = message)
+
+tokenized_corpus$word[1:100] %>% 
+    get_sentiment(method = "nrc", language = "spanish")
+
+esp <- dictionary("Spanish")                                                                
+
+semiclean_corpus <- tokenized_corpus$word %>% 
+    hunspell_suggest(dict = esp) 
+
+corrected_corpus <- semiclean_corpus %>% 
+    sapply(function(x){x[1]})
+
+corrected_corpus %>% 
+    hunspell_stem(dict = esp) %>% 
+    sapply(function(x){ifelse(is.null(x[1]), NA, x[1])})
+
+##
+
+tokenized_corpus$suggested_stem <- corrected_corpus
+
+tokenized_corpus$suggested_score <- tokenized_corpus$suggested_stem %>% 
+    get_sentiment(method = "nrc", "spanish")
+
+tokenized_corpus$suggested_score2 <- apply(tokenized_corpus[,c("word", "suggested_score")], MARGIN = 1,
+                                           function(x) ifelse(str_detect(x[1], pattern = "jaj"), 1, x[2]))
+
+tokenized_corpus$suggested_score2 <- as.numeric(tokenized_corpus$suggested_score2)
+
+#### How did emotions evolve with time?
+
+class_beginnings <- tokenized_corpus %>% 
+    count(date) %>% 
+    pull(n) %>% 
+    cumsum()
+
+plot.ts(rollapply(tokenized_corpus$suggested_score2, FUN =  mean, width = 150),
+        ylim = c(-0.1, 0.3),
+        xlim = c(-4000, 17000),
+        xlab = "Desarrollo del curso",
+        ylab = "Sentimiento promedio de la clase")
+abline(a = 0, b = 0, col = "red")
+abline(a = 0.05, b = 0, col = "orange")
+abline(a = 0.1, b = 0, col = "green")
+text(x = -3000, y = -0.05, label = "Negativo", col = "red")
+text(x = -3000, y = 0.025, label = "Neutral", col = "orange")
+text(x = -3000, y = 0.075, label = "Positivo", col = "green")
+text(x = -3000, y = 0.15, label = "Muy Positivo", col = "dark green")
+abline(v = class_beginnings, lty = 2, col = "gray")
+
+
+simple_plot(tokenized_corpus$suggested_score2)
+
+

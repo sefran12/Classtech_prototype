@@ -22,7 +22,6 @@ theme_set(theme_clean())
 ##### READING DATA #####
 
 chat <- read.csv('processed_data/chat_data.csv')
-chat$X <- NULL
 
 ##### INCONSISTENCIES IN NAMES #####
 
@@ -77,17 +76,19 @@ chat$date <- chat$filename %>%
     str_replace_all(monthnames) %>% 
     dmy()
 
-##### SAVE CLEAN FILE ######
 
-write.csv(chat, 'processed_data/clean_chat_data.csv', row.names = FALSE)
-
-##### sUPPORT DATABASES ######
+##### SUPPORT DATABASES ######
 
 # Language of each session
 
-session_language <- data.frame(
-    session = unique(chat$date),
-    language = 'ingles'
-)
+session_language <- read.csv('raw_data/oldchats/idioma_de_clase.csv', stringsAsFactors = FALSE)
+session_language$date <- as.Date(session_language$date, format = '%m/%d/%Y')
 
-#write.csv(session_language, 'AGRI/oldchats/idioma_de_clase.csv', row.names = FALSE)
+# merging with final df
+
+chat <- merge(chat, session_language)
+chat$language <- as.factor(chat$language)
+
+##### SAVE CLEAN FILE ######
+
+write.csv(chat, 'processed_data/clean_chat_data.csv', row.names = FALSE)

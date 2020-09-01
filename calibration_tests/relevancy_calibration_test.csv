@@ -1,0 +1,151 @@
+,V1,date,X,timestamp.start,timestamp.end,user,message,filename,language,numero_de_palabras,unique_letters,message_complexity
+1,1288,4/23/2020,70,40:50.0,40:50.9,Santiago Jose Fernandez Pizarro,qué caritas,raw_data/oldchats/8_23_abril_2020.txt,ingles,2,12,2.45
+2,701,4/18/2020,52,05:16.0,05:16.9,Jean Pierre Espinoza Rest,ipts announced,raw_data/oldchats/6_18_abril_2020.txt,espanol,2,11,2.35
+3,4067,7/2/2020,94,35:24.0,35:24.9,Nicole Marcella Condori Cubillas,prox ciclo?,raw_data/oldchats/24_02_julio_2020.txt,espanol,3,16,3.996240625
+4,2512,5/28/2020,85,10:03.0,10:03.9,Sofia Carolina Jo Brun,alguien esta hablando ?,raw_data/oldchats/16_28_mayo_2020.txt,espanol,4,15,4
+5,2775,6/1/2020,82,43:12.0,43:12.9,Jean Pierre Espinoza Rest,es una pregunta tricky profe,raw_data/oldchats/17_01_junio_2020.txt,espanol,5,16,4.180482024
+6,2801,6/1/2020,108,47:06.0,47:06.9,Andres Vilcahuaman Zermeno,profe leimos casos diferentes creo,raw_data/oldchats/17_01_junio_2020.txt,espanol,5,15,4.080482024
+7,2307,5/14/2020,234,11:13.0,11:13.9,Not identifiable,yo voté por el sí,raw_data/oldchats/14_14_mayo_2020.txt,espanol,5,15,4.080482024
+8,1563,4/27/2020,140,19:49.0,19:49.9,Sofia Carolina Jo Brun,profe a mi me cancelaron un seminario,raw_data/oldchats/9_27_abril_2020.txt,espanol,7,14,4.101838731
+9,3574,6/13/2020,75,27:28.0,27:28.9,Nicole Marcella Condori Cubillas,entonces mejor el lunes profe,raw_data/oldchats/20_13_junio_2020.txt,espanol,5,14,3.980482024
+10,2264,5/14/2020,191,43:48.0,43:48.9,Edwin Miguel Prado Quispe,"facil nos volvemos como el sudeste asiatico, donde todos tienen motos y hay harto trafico.",raw_data/oldchats/14_14_mayo_2020.txt,espanol,15,21,5.076722649
+11,2462,5/28/2020,35,04:24.0,04:24.9,Santiago Jose Fernandez Pizarro,el profe va a ser un show,raw_data/oldchats/16_28_mayo_2020.txt,espanol,7,14,4.101838731
+12,2177,5/14/2020,104,28:43.0,28:43.9,Nicole Marcella Condori Cubillas,siiii se entrecorta,raw_data/oldchats/14_14_mayo_2020.txt,espanol,3,10,3.396240625
+13,989,4/20/2020,221,05:03.0,05:03.9,Magaly Julisa Acuna Condori,y no resulta una buena inversión,raw_data/oldchats/7_20_abril_2020.txt,espanol,6,18,4.446240625
+14,2274,5/14/2020,201,45:59.0,45:59.9,Andres Vilcahuaman Zermeno,lima no tiene la infraestructura para bicis igual,raw_data/oldchats/14_14_mayo_2020.txt,espanol,8,18,4.55
+15,4398,7/9/2020,50,40:37.0,40:37.9,Nicolas Vegas Trivelli,que no sean diferentes,raw_data/oldchats/26_09_julio_2020.txt,espanol,4,20,4.5
+16,3010,6/6/2020,42,38:28.0,38:28.9,Alexander Johan Pacaya Samame, low-cost carriers ?,raw_data/oldchats/18_06_junio_2020.txt,espanol,3,13,3.696240625
+17,4497,7/9/2020,149,45:54.0,45:54.9,Marcelo Andres Villar Meza,esta cenando,raw_data/oldchats/26_09_julio_2020.txt,espanol,2,9,2.15
+18,3185,6/8/2020,142,14:39.0,14:39.9,Fabio Yoshiki Kadena Matsuda,ahora q la use en una oracion,raw_data/oldchats/19_08_junio_2020.txt,espanol,7,13,4.001838731
+19,3675,6/15/2020,86,04:18.0,04:18.9,Ruben Angel Montenegro Lee,https://nam11.safelinks.protection.outlook.com/?url=https%3a%2f%2fapp.sli.do%2fevent%2fe8avg8gm%2fembed%2fpolls%2ff4a3d10f-ead1-459d-95d5-f63353857776&data=02%7c01%7c%7ce6f0b66f3754436621ef08d8117f9839%7c84df9e7fe9f640afb435aaaaaaaaaaaa%7c1%7c0%7c637278586990585818&sdata=ko4pfcujjeww7hrjjlb%2bhpwkj5pjzv6gmq2cb6mge08%3d&reserved=0,raw_data/oldchats/21_15_junio_2020.txt,espanol,1,57,6.7
+20,3943,6/22/2020,122,57:08.0,57:08.9,Nicolas Vegas Trivelli,profe yo quiero un sblc,raw_data/oldchats/23_22_junio_2020.txt,espanol,5,15,4.080482024
+21,724,4/18/2020,75,09:55.0,09:55.9,Estuardo Ivan Chalan Marreros, aún hay confianza en la hegemonía del dolar ,raw_data/oldchats/6_18_abril_2020.txt,espanol,8,22,4.95
+22,3560,6/13/2020,61,16:59.0,16:59.9,Nicole Marcella Condori Cubillas,high freq high sev,raw_data/oldchats/20_13_junio_2020.txt,espanol,4,10,3.5
+23,1341,4/23/2020,123,44:50.0,44:50.9,Jheysson Andre Roncal Valdivia,se demora en cargar,raw_data/oldchats/8_23_abril_2020.txt,ingles,4,11,3.6
+24,4197,7/6/2020,30,07:47.0,07:47.9,Marcelo Andres Villar Meza,ya no escucho,raw_data/oldchats/25_06_julio_2020.txt,espanol,3,10,3.396240625
+25,1021,4/20/2020,253,11:36.0,11:36.9,Xiomi Anny Garcia Palomino,así aseguramos un mejor precio a futuro,raw_data/oldchats/7_20_abril_2020.txt,espanol,7,21,4.801838731
+26,2560,5/28/2020,133,55:46.0,55:46.9,Andres Vilcahuaman Zermeno,osea le pides plata al banco para ponerlo en otro,raw_data/oldchats/16_28_mayo_2020.txt,espanol,10,14,4.230482024
+27,3957,6/22/2020,136,00:10.0,00:10.9,Sebastian Alfonso Herrera Eyzaguirre,profe si duplicas la nota del parcia?,raw_data/oldchats/23_22_junio_2020.txt,espanol,7,16,4.301838731
+28,2091,5/14/2020,18,06:07.0,06:07.9,Andres Vilcahuaman Zermeno,soy andres,raw_data/oldchats/14_14_mayo_2020.txt,espanol,2,8,2.05
+29,4112,7/2/2020,139,40:15.0,40:15.9,Sebastian Silva Ramal,se distrajeron,raw_data/oldchats/24_02_julio_2020.txt,espanol,2,10,2.25
+30,2323,5/14/2020,250,15:37.0,15:37.9,Andres Vilcahuaman Zermeno,por más hedge ,raw_data/oldchats/14_14_mayo_2020.txt,espanol,3,14,3.796240625
+31,935,4/20/2020,167,36:10.0,36:10.9,Santiago Jose Fernandez Pizarro,3) no dividends,raw_data/oldchats/7_20_abril_2020.txt,espanol,3,11,3.496240625
+32,2756,6/1/2020,63,24:54.0,24:54.9,Jheysson Andre Roncal Valdivia,"los humanos van a marte y lo destruyen tambien, a donde iriamos luego??",raw_data/oldchats/17_01_junio_2020.txt,espanol,13,20,4.92510993
+33,612,4/13/2020,50,53:26.0,53:26.9,Nicolas Vegas Trivelli,cuando llamabas a movistar,raw_data/oldchats/5_13_abril_2020.txt,espanol,4,15,4
+34,734,4/18/2020,85,26:57.0,26:57.9,Sebastian Alfonso Herrera Eyzaguirre,por el apetito de mercado?,raw_data/oldchats/6_18_abril_2020.txt,espanol,5,13,3.880482024
+35,2882,6/1/2020,189,02:21.0,02:21.9,Marcelo Andres Villar Meza,volumen  y precios competitivos,raw_data/oldchats/17_01_junio_2020.txt,espanol,4,15,4
+36,1446,4/27/2020,23,05:01.0,05:01.9,Diego Satornicio Melgarejo,no me terror profe,raw_data/oldchats/9_27_abril_2020.txt,espanol,4,9,3.4
+37,3539,6/13/2020,40,09:44.0,09:44.9,Nicole Marcella Condori Cubillas,son cuadrantes ,raw_data/oldchats/20_13_junio_2020.txt,espanol,2,11,2.35
+38,572,4/13/2020,10,01:40.0,01:40.9,Andres Vilcahuaman Zermeno,full ben hur,raw_data/oldchats/5_13_abril_2020.txt,espanol,3,9,3.296240625
+39,1677,4/27/2020,254,38:14.0,38:14.9,Jaime Alexander Olaya Vilela,"son públicos. las notas no, pero los eeff sí",raw_data/oldchats/9_27_abril_2020.txt,espanol,9,24,5.19248125
+40,587,4/13/2020,25,23:17.0,23:17.9,Santiago Jose Fernandez Pizarro,es como apostar a que alianza campeone,raw_data/oldchats/5_13_abril_2020.txt,espanol,7,16,4.301838731
+41,905,4/20/2020,137,33:33.0,33:33.9,Sebastian Enrique Collantes Liendo,ya pero cuales eran las opciones,raw_data/oldchats/7_20_abril_2020.txt,espanol,6,13,3.946240625
+42,875,4/20/2020,107,30:59.0,30:59.9,Alonso Torres Leon,en breves nos dice creo,raw_data/oldchats/7_20_abril_2020.txt,espanol,5,11,3.680482024
+43,3270,6/8/2020,227,18:54.0,18:54.9,Andres Vilcahuaman Zermeno,corazon que no siente,raw_data/oldchats/19_08_junio_2020.txt,espanol,4,13,3.8
+44,265,4/2/2020,19,12:23.0,12:23.9,Nicolas Vegas Trivelli,depende del seguro tambien,raw_data/oldchats/2_02_abril_2020.txt,ingles,4,17,4.2
+45,943,4/20/2020,175,46:26.0,46:26.9,Fabio Yoshiki Kadena Matsuda,https://www.streetwisereports.com/article/2020/04/08/tankers-are-the-big-winners-of-the-2020-oil-crash.html,raw_data/oldchats/7_20_abril_2020.txt,espanol,1,26,3.6
+46,2596,5/28/2020,169,10:01.0,10:01.9,Jheysson Andre Roncal Valdivia,estaba comiendo su sublime,raw_data/oldchats/16_28_mayo_2020.txt,espanol,4,14,3.9
+47,1744,5/2/2020,15,39:00.0,39:00.9,Andres Vilcahuaman Zermeno,porque en el spread haces más plata y el monto es mayor pa citi,raw_data/oldchats/10_02_mayo_2020.txt,espanol,14,22,5.151838731
+48,1022,4/20/2020,254,11:52.0,11:52.9,Nicolas Vegas Trivelli,y hacemos reprogramaciones de las cuotas de los 3 primeros meses,raw_data/oldchats/7_20_abril_2020.txt,espanol,11,19,4.764857905
+49,4637,7/9/2020,289,02:30.0,02:30.9,Marcelo Andres Villar Meza,lo veo en su proximo seminario,raw_data/oldchats/26_09_julio_2020.txt,espanol,6,14,4.046240625
+50,4428,7/9/2020,80,41:56.0,41:56.9,Jheysson Andre Roncal Valdivia,lo reventabamos,raw_data/oldchats/26_09_julio_2020.txt,espanol,2,11,2.35
+51,4508,7/9/2020,160,47:19.0,47:19.9,Edwin Miguel Prado Quispe,osea más facil escanear un papel,raw_data/oldchats/26_09_julio_2020.txt,espanol,6,18,4.446240625
+52,1274,4/23/2020,56,27:15.0,27:15.9,Sebastian Silva Ramal,you are not expecting rates to rise during the 1st year,raw_data/oldchats/8_23_abril_2020.txt,ingles,11,18,4.664857905
+53,70,3/30/2020,69,22:15.0,22:15.9,Diego Satornicio Melgarejo,si se ve,raw_data/oldchats/1_30_marzo_2020.txt,espanol,3,6,2.996240625
+54,4438,7/9/2020,90,42:44.0,42:44.9,Edwin Miguel Prado Quispe,profe la primera opción era mejor,raw_data/oldchats/26_09_julio_2020.txt,espanol,7,23,5.001838731
+55,4230,7/6/2020,63,09:49.0,09:49.9,Sofia Carolina Jo Brun,profe lo tiene en el cel,raw_data/oldchats/25_06_julio_2020.txt,espanol,6,11,3.746240625
+56,1749,5/2/2020,20,48:29.0,48:29.9,Andres Vilcahuaman Zermeno,profe porque en año 2 marcabas 0 de ganancia en swap spread,raw_data/oldchats/10_02_mayo_2020.txt,espanol,12,25,5.396240625
+57,2917,6/1/2020,224,24:23.0,24:23.9,Edwin Miguel Prado Quispe,con el perro?,raw_data/oldchats/17_01_junio_2020.txt,espanol,3,9,3.296240625
+58,2460,5/28/2020,33,04:20.0,04:20.9,Santiago Jose Fernandez Pizarro,tení­a razón,raw_data/oldchats/16_28_mayo_2020.txt,espanol,2,11,2.35
+59,2258,5/14/2020,185,42:29.0,42:29.9,Not identifiable,pero en este paí­s no se puede fomentar el uso de bicicletas,raw_data/oldchats/14_14_mayo_2020.txt,espanol,12,21,4.996240625
+60,3180,6/8/2020,137,13:54.0,13:54.9,Santiago Jose Fernandez Pizarro,mi pronunciación mejor a la de hitler,raw_data/oldchats/19_08_junio_2020.txt,espanol,7,21,4.801838731
+61,1572,4/27/2020,149,20:13.0,20:13.9,Edwin Miguel Prado Quispe,el choche,raw_data/oldchats/9_27_abril_2020.txt,espanol,3,13,3.696240625
+62,2495,5/28/2020,68,07:16.0,07:16.9,Sofia Carolina Jo Brun,para que pueda escuchar,raw_data/oldchats/16_28_mayo_2020.txt,espanol,4,11,3.6
+63,2395,5/25/2020,40,33:43.0,33:43.9,Fabio Yoshiki Kadena Matsuda,ya lo vi,raw_data/oldchats/15_25_mayo_2020.txt,espanol,3,7,3.096240625
+64,3318,6/8/2020,275,21:00.0,21:00.9,Santiago Jose Fernandez Pizarro,miren the man in the high castle,raw_data/oldchats/19_08_junio_2020.txt,espanol,7,13,4.001838731
+65,4249,7/6/2020,82,17:02.0,17:02.9,Andres Vilcahuaman Zermeno,la contraparte,raw_data/oldchats/25_06_julio_2020.txt,espanol,2,9,2.15
+66,3309,6/8/2020,266,20:13.0,20:13.9,Santiago Jose Fernandez Pizarro,es tu oportunidad de dejar al patriarcado en alto,raw_data/oldchats/19_08_junio_2020.txt,espanol,9,15,4.29248125
+67,1196,4/20/2020,428,36:29.0,36:29.9,Nicolas Vegas Trivelli,tonces post almuerzo?,raw_data/oldchats/7_20_abril_2020.txt,espanol,3,15,3.896240625
+68,4221,7/6/2020,54,09:14.0,09:14.9,Estuardo Ivan Chalan Marreros,menos de tres min,raw_data/oldchats/25_06_julio_2020.txt,espanol,4,10,3.5
+69,4128,7/2/2020,155,53:35.0,53:35.9,Magaly Julisa Acuna Condori,y si hay tiempo carlos estrada,raw_data/oldchats/24_02_julio_2020.txt,espanol,6,15,4.146240625
+70,2449,5/28/2020,22,03:23.0,03:23.9,Santiago Jose Fernandez Pizarro,la belleza es interior,raw_data/oldchats/16_28_mayo_2020.txt,espanol,4,12,3.7
+71,606,4/13/2020,44,52:42.0,52:42.9,Andres Vilcahuaman Zermeno,le metes un call,raw_data/oldchats/5_13_abril_2020.txt,espanol,4,10,3.5
+72,2374,5/25/2020,19,29:59.0,29:59.9,Magaly Julisa Acuna Condori,mandenme un whats,raw_data/oldchats/15_25_mayo_2020.txt,espanol,3,11,3.496240625
+73,3027,6/6/2020,59,31:38.0,31:38.9,Edwin Miguel Prado Quispe,"profe, invertir en lobby politico tambien seria una manera de gestionar el riesgo?",raw_data/oldchats/18_06_junio_2020.txt,espanol,13,22,5.12510993
+74,1476,4/27/2020,53,09:11.0,09:11.9,Sofia Carolina Jo Brun,a mi me gusta ir a la up ,raw_data/oldchats/9_27_abril_2020.txt,espanol,8,12,3.95
+75,516,4/11/2020,64,29:35.0,29:35.9,Roy Ernie Portilla Manzanares,costumbre. acceso a la educacion. un cilco vicioso.,raw_data/oldchats/4_11_abril_2020.txt,espanol,8,20,4.75
+76,1599,4/27/2020,176,25:32.0,25:32.9,Magaly Julisa Acuna Condori,el facilitador,raw_data/oldchats/9_27_abril_2020.txt,espanol,2,10,2.25
+77,4339,7/6/2020,172,45:25.0,45:25.9,Jheysson Andre Roncal Valdivia,profe pero grabe la clase pf,raw_data/oldchats/25_06_julio_2020.txt,espanol,6,12,3.846240625
+78,2137,5/14/2020,64,12:05.0,12:05.9,Sofia Carolina Jo Brun,profe si se esta grabando?,raw_data/oldchats/14_14_mayo_2020.txt,espanol,5,15,4.080482024
+79,1990,5/7/2020,52,24:39.0,24:39.9,Jean Pierre Espinoza Rest,y bajo que te basas para decidir si incluirlo o no?,raw_data/oldchats/12_07_mayo_2020.txt,espanol,11,19,4.764857905
+80,2230,5/14/2020,157,34:54.0,34:54.9,Sebastian Alfonso Herrera Eyzaguirre,"yo creo que facil mejora por el coronavirus, la gente no va a querer ir en transporte publico",raw_data/oldchats/14_14_mayo_2020.txt,espanol,18,22,5.24248125
+81,1486,4/27/2020,63,10:07.0,10:07.9,Sebastian Silva Ramal,fernandez tu no vas a clases no mientas,raw_data/oldchats/9_27_abril_2020.txt,espanol,8,17,4.45
+82,4241,7/6/2020,74,16:15.0,16:15.9,Sofia Carolina Jo Brun,la sencibilidad de la exposicion,raw_data/oldchats/25_06_julio_2020.txt,espanol,5,13,3.880482024
+83,1192,4/20/2020,424,36:08.0,36:08.9,Magaly Julisa Acuna Condori,pero xiomi podía en la tarde,raw_data/oldchats/7_20_abril_2020.txt,espanol,6,17,4.346240625
+84,4380,7/9/2020,32,38:58.0,38:58.9,Edwin Miguel Prado Quispe,sin bromas,raw_data/oldchats/26_09_julio_2020.txt,espanol,2,8,2.05
+85,585,4/13/2020,23,23:10.0,23:10.9,Santiago Jose Fernandez Pizarro,dices algo coherente por fin,raw_data/oldchats/5_13_abril_2020.txt,espanol,5,16,4.180482024
+86,3606,6/15/2020,17,01:59.0,01:59.9,Sofia Carolina Jo Brun,profe barber company ya atiende!,raw_data/oldchats/21_15_junio_2020.txt,espanol,5,16,4.180482024
+87,2293,5/14/2020,220,09:53.0,09:53.9,Jheysson Andre Roncal Valdivia,todo por ser sinceros,raw_data/oldchats/14_14_mayo_2020.txt,espanol,4,11,3.6
+88,961,4/20/2020,193,01:31.0,01:31.9,Magaly Julisa Acuna Condori,ah y otra cosa ustedes creen que como empresa alquilemos más de estos barcos'?,raw_data/oldchats/7_20_abril_2020.txt,espanol,14,25,5.451838731
+89,4287,7/6/2020,120,02:15.0,02:15.9,Estuardo Ivan Chalan Marreros,"ya termine profe, buena canción de fondo ",raw_data/oldchats/25_06_julio_2020.txt,espanol,7,21,4.801838731
+90,2788,6/1/2020,95,45:57.0,45:57.9,Andres Vilcahuaman Zermeno,un viejo te hace todos los trips a suiza al lado de un lago donde solo se pesca trucha ,raw_data/oldchats/17_01_junio_2020.txt,espanol,19,19,4.961981878
+91,3939,6/22/2020,118,56:43.0,56:43.9,Sebastian Silva Ramal,mas de 11 es 20,raw_data/oldchats/23_22_junio_2020.txt,espanol,5,9,3.480482024
+92,2975,6/6/2020,7,12:18.0,12:18.9,Jean Pierre Espinoza Rest,profe que hay de las metricas de ccs? llegan a quitar todo ese efecto contable?,raw_data/oldchats/18_06_junio_2020.txt,espanol,15,24,5.376722649
+93,2234,5/14/2020,161,36:27.0,36:27.9,Sofia Carolina Jo Brun,el problema que tuvieron en estados unidos ,raw_data/oldchats/14_14_mayo_2020.txt,espanol,7,17,4.401838731
+94,2235,5/14/2020,162,36:31.0,36:31.9,Andres Vilcahuaman Zermeno,por eso cayó su stock,raw_data/oldchats/14_14_mayo_2020.txt,espanol,5,16,4.180482024
+95,536,4/11/2020,84,42:43.0,42:43.9,Andres Vilcahuaman Zermeno,y de ahí­ 200 manes,raw_data/oldchats/4_11_abril_2020.txt,espanol,5,15,4.080482024
+96,3898,6/22/2020,77,53:44.0,53:44.9,Sergio Sebastian Salazar Relayze,alguna recomendación para la pc?,raw_data/oldchats/23_22_junio_2020.txt,espanol,5,20,4.580482024
+97,3504,6/13/2020,5,13:18.0,13:18.9,Andres Vilcahuaman Zermeno,se hace mas chiquito,raw_data/oldchats/20_13_junio_2020.txt,espanol,4,12,3.7
+98,1447,4/27/2020,24,05:08.0,05:08.9,Magaly Julisa Acuna Condori,cuánta maldad,raw_data/oldchats/9_27_abril_2020.txt,espanol,2,12,2.45
+99,4209,7/6/2020,42,08:26.0,08:26.9,Fabio Yoshiki Kadena Matsuda,profe puedes subir el archivo,raw_data/oldchats/25_06_julio_2020.txt,espanol,5,16,4.180482024
+100,3946,6/22/2020,125,58:27.0,58:27.9,Edwin Miguel Prado Quispe,ummm profe como hago un hedge natural??,raw_data/oldchats/23_22_junio_2020.txt,espanol,7,17,4.401838731
+101,1585,4/27/2020,162,24:41.0,24:41.9,Jheysson Andre Roncal Valdivia,"lo dicho, dicho está",raw_data/oldchats/9_27_abril_2020.txt,espanol,4,15,4
+102,3591,6/15/2020,2,00:17.0,00:17.9,Maria Gracia Garcia Garces,"sí, sí",raw_data/oldchats/21_15_junio_2020.txt,espanol,2,9,2.15
+103,4469,7/9/2020,121,44:59.0,44:59.9,Fabio Yoshiki Kadena Matsuda,profe el formato del examen es en word con cuadrado azul o todo en papel escaneado?,raw_data/oldchats/26_09_julio_2020.txt,espanol,16,19,4.9
+104,3988,7/2/2020,15,06:07.0,06:07.9,Magaly Julisa Acuna Condori,asu todo eso ha hecho ya,raw_data/oldchats/24_02_julio_2020.txt,espanol,6,12,3.846240625
+105,985,4/20/2020,217,04:25.0,04:25.9,Magaly Julisa Acuna Condori,osea imaginate que emocionados por la coyuntuta compramos,raw_data/oldchats/7_20_abril_2020.txt,espanol,8,18,4.55
+106,4639,7/9/2020,291,02:30.0,02:30.9,Edwin Miguel Prado Quispe,#keepagrireal,raw_data/oldchats/26_09_julio_2020.txt,espanol,1,11,2.1
+107,4178,7/6/2020,11,03:54.0,03:54.9,Edwin Miguel Prado Quispe,puro punk aqui p,raw_data/oldchats/25_06_julio_2020.txt,espanol,4,10,3.5
+108,2612,5/28/2020,185,17:06.0,17:06.9,Marcelo Andres Villar Meza,no entiendo la letra,raw_data/oldchats/16_28_mayo_2020.txt,espanol,4,11,3.6
+109,2375,5/25/2020,20,30:04.0,30:04.9,Magaly Julisa Acuna Condori,tengo que llenar un formulario,raw_data/oldchats/15_25_mayo_2020.txt,espanol,5,14,3.980482024
+110,2047,5/11/2020,17,49:40.0,49:40.9,Santiago Jose Fernandez Pizarro,no sé cómo hacer eso,raw_data/oldchats/13_11_mayo_2020.txt,ingles,5,15,4.080482024
+111,1307,4/23/2020,89,42:35.0,42:35.9,Alejandra Cristina Samame Dulanto,como hacen  para tener esas cosas en la foto?,raw_data/oldchats/8_23_abril_2020.txt,ingles,9,15,4.29248125
+112,669,4/18/2020,20,30:07.0,30:07.9,Santiago Jose Fernandez Pizarro,más o menos,raw_data/oldchats/6_18_abril_2020.txt,espanol,3,10,3.396240625
+113,1340,4/23/2020,122,44:47.0,44:47.9,Santiago Jose Fernandez Pizarro,creo que lo ideal,raw_data/oldchats/8_23_abril_2020.txt,ingles,4,11,3.6
+114,1958,5/7/2020,20,02:39.0,02:39.9,Santiago Jose Fernandez Pizarro,excepto con ese tal sebastiã¡n herrera,raw_data/oldchats/12_07_mayo_2020.txt,espanol,6,19,4.546240625
+115,423,4/6/2020,46,03:13.0,03:13.9,Diego Satornicio Melgarejo,nosotros podemos hacer zoom,raw_data/oldchats/3_06_abril_2020.txt,espanol,4,14,3.9
+116,3438,6/8/2020,395,24:37.0,24:37.9,Jheysson Andre Roncal Valdivia,valio la pena el intercambio silvana,raw_data/oldchats/19_08_junio_2020.txt,espanol,6,15,4.146240625
+117,1503,4/27/2020,80,11:24.0,11:24.9,Andres Vilcahuaman Zermeno,llevan su locro,raw_data/oldchats/9_27_abril_2020.txt,espanol,3,11,3.496240625
+118,4328,7/6/2020,161,22:07.0,22:07.9,Jheysson Andre Roncal Valdivia,sin querer queriendo,raw_data/oldchats/25_06_julio_2020.txt,espanol,3,10,3.396240625
+119,3089,6/8/2020,46,05:09.0,05:09.9,Jean Pierre Espinoza Rest,este concurso es un hedge para nuestras notas del curso,raw_data/oldchats/19_08_junio_2020.txt,espanol,10,15,4.330482024
+120,2903,6/1/2020,210,21:32.0,21:32.9,Edwin Miguel Prado Quispe,home office*,raw_data/oldchats/17_01_junio_2020.txt,espanol,2,8,2.05
+121,1457,4/27/2020,34,06:03.0,06:03.9,Silvana Lucia Orihuela Acosta,no puedo votar,raw_data/oldchats/9_27_abril_2020.txt,espanol,3,11,3.496240625
+122,4207,7/6/2020,40,08:09.0,08:09.9,Edwin Miguel Prado Quispe,no sé,raw_data/oldchats/25_06_julio_2020.txt,espanol,2,9,2.15
+123,1652,4/27/2020,229,33:21.0,33:21.9,Andres Vilcahuaman Zermeno,mandaron un comunicado justificando las pensiones,raw_data/oldchats/9_27_abril_2020.txt,espanol,6,17,4.346240625
+124,4603,7/9/2020,255,57:36.0,57:36.9,Alejandra Cristina Samame Dulanto,"sí, claro",raw_data/oldchats/26_09_julio_2020.txt,espanol,2,9,2.15
+125,3559,6/13/2020,60,16:03.0,16:03.9,Nicole Marcella Condori Cubillas,low frequency high severity,raw_data/oldchats/20_13_junio_2020.txt,espanol,4,18,4.3
+126,3189,6/8/2020,146,14:46.0,14:46.9,Edwin Miguel Prado Quispe,una oración,raw_data/oldchats/19_08_junio_2020.txt,espanol,2,12,2.45
+127,1656,4/27/2020,233,35:00.0,35:00.9,Santiago Jose Fernandez Pizarro,cada vez la up se llena más de gente populista,raw_data/oldchats/9_27_abril_2020.txt,espanol,10,21,4.930482024
+128,3933,6/22/2020,112,56:23.0,56:23.9,Sergio Sebastian Salazar Relayze,algo es el strike,raw_data/oldchats/23_22_junio_2020.txt,espanol,4,11,3.6
+129,1660,4/27/2020,237,35:17.0,35:17.9,Sebastian Enrique Collantes Liendo,ya toca el break,raw_data/oldchats/9_27_abril_2020.txt,espanol,4,11,3.6
+130,3187,6/8/2020,144,14:41.0,14:41.9,Santiago Jose Fernandez Pizarro,vamos alexander,raw_data/oldchats/19_08_junio_2020.txt,espanol,2,12,2.45
+131,1574,4/27/2020,151,20:17.0,20:17.9,Sofia Carolina Jo Brun,fue brutal,raw_data/oldchats/9_27_abril_2020.txt,espanol,2,8,2.05
+132,2814,6/1/2020,121,48:29.0,48:29.9,Santiago Jose Fernandez Pizarro,que si archer lock,raw_data/oldchats/17_01_junio_2020.txt,espanol,4,13,3.8
+133,4049,7/2/2020,76,33:47.0,33:47.9,Magaly Julisa Acuna Condori,en teoría dos,raw_data/oldchats/24_02_julio_2020.txt,espanol,3,13,3.696240625
+134,3188,6/8/2020,145,14:46.0,14:46.9,Santiago Jose Fernandez Pizarro,defiende al patriarcado,raw_data/oldchats/19_08_junio_2020.txt,espanol,3,13,3.696240625
+135,2278,5/14/2020,205,51:06.0,51:06.9,Andres Vilcahuaman Zermeno,oe si yo te jalaba todo el 2017-ii,raw_data/oldchats/14_14_mayo_2020.txt,espanol,8,18,4.55
+136,1062,4/20/2020,294,19:26.0,19:26.9,Xiomi Anny Garcia Palomino,quizás la cláusula sea riesgos en la condición de la mercadería debido a factores no corre por nuestra cuenta,raw_data/oldchats/7_20_abril_2020.txt,espanol,19,26,5.661981878
+137,2267,5/14/2020,194,43:58.0,43:58.9,Sebastian Enrique Collantes Liendo,es demasiado costoso,raw_data/oldchats/14_14_mayo_2020.txt,espanol,3,10,3.396240625
+138,1293,4/23/2020,75,41:04.0,41:04.9,Roy Ernie Portilla Manzanares,mira los participantees,raw_data/oldchats/8_23_abril_2020.txt,ingles,3,13,3.696240625
+139,4390,7/9/2020,42,39:33.0,39:33.9,Edwin Miguel Prado Quispe,ah verdad profe quedo la pregunta no?,raw_data/oldchats/26_09_julio_2020.txt,espanol,7,17,4.401838731
+140,1032,4/20/2020,264,13:40.0,13:40.9,Magaly Julisa Acuna Condori,pero recordemos que hemos adqirido mã¡s embarcaciones,raw_data/oldchats/7_20_abril_2020.txt,espanol,7,20,4.701838731
+141,3475,6/8/2020,432,50:40.0,50:40.9,Magaly Julisa Acuna Condori,y se afectaban sus márgenes,raw_data/oldchats/19_08_junio_2020.txt,espanol,5,18,4.380482024
+142,264,4/2/2020,18,08:26.0,08:26.9,Sebastian Silva Ramal,cost-benefit trade off,raw_data/oldchats/2_02_abril_2020.txt,ingles,3,14,3.796240625
+143,4294,7/6/2020,127,03:02.0,03:02.9,Edwin Miguel Prado Quispe,oie ci,raw_data/oldchats/25_06_julio_2020.txt,espanol,3,13,3.696240625
+144,1284,4/23/2020,66,40:42.0,40:42.9,Nicolas Vegas Trivelli,cuando es medio yuca,raw_data/oldchats/8_23_abril_2020.txt,ingles,4,12,3.7
+145,1188,4/20/2020,420,35:43.0,35:43.9,Marcelo Andres Villar Meza,mavillarm39@gmail.com,raw_data/oldchats/7_20_abril_2020.txt,espanol,1,13,2.3
+146,713,4/18/2020,64,07:10.0,07:10.9,Roy Ernie Portilla Manzanares,como saldria,raw_data/oldchats/6_18_abril_2020.txt,espanol,2,9,2.15
+147,4383,7/9/2020,35,39:06.0,39:06.9,Jheysson Andre Roncal Valdivia,segundo brote,raw_data/oldchats/26_09_julio_2020.txt,espanol,2,10,2.25
+148,2525,5/28/2020,98,36:41.0,36:41.9,Andres Vilcahuaman Zermeno,pero el costo por hacer esas transacciones,raw_data/oldchats/16_28_mayo_2020.txt,espanol,7,13,4.001838731
+149,839,4/20/2020,71,28:21.0,28:21.9,Fabio Yoshiki Kadena Matsuda,profe tu estas incluido en los 34 acuerdate,raw_data/oldchats/7_20_abril_2020.txt,espanol,8,17,4.45
+150,1810,5/4/2020,21,05:23.0,05:23.9,Sofia Carolina Jo Brun,etuve cerca con apple,raw_data/oldchats/11_04_mayo_2020.txt,ingles,4,12,3.7

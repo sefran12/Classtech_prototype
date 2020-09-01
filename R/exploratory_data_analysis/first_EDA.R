@@ -16,6 +16,9 @@ library(ggthemes)
 library(ggrepel)
 library(plotly)
 
+# output tables
+library(gt)
+
 # NLP
 library(tidytext)
 library(tokenizers)
@@ -45,6 +48,7 @@ skim(chat)
 
 chat %>% 
     group_by(user) %>% 
+    
     count() %>% 
     arrange(desc(n)) %>% 
     ggplot(aes(x = fct_reorder(user, n),
@@ -99,10 +103,12 @@ chat %>%
 chat %>% 
     group_by(date) %>% 
     summarise(total_de_intervenciones = n()) %>% 
-    ggplot(aes(x = factor(date),
+    ungroup() %>% 
+    ggplot(aes(x = seq_along(date),
                y = total_de_intervenciones)) +
-    geom_col(fill = 'dark red') +
-    coord_flip() +
+    geom_line(linetype = 2) +
+    geom_point(size = 2) + 
+    scale_x_continuous(breaks = 1:26, label = unique(chat$date)) +
     labs(title = 'Intervenciones por clase',
          x = NULL,
          y = 'Intervenciones')
@@ -217,6 +223,17 @@ intervention_amount_per_class_language + intervention_complexity_per_class_langu
 ##### SENTIMENT ANALYSIS ON CHAT DATA #####
 
 ## suggesting corrected words
+tokenized_corpus %>% 
+    group_by(date) %>% 
+    summarise(mean(suggested_score2),
+             ) %>% 
+    View()
+
+tokenized_corpus %>% 
+    group_by(user) %>% 
+    summarise(mean(suggested_score2),
+              n_intervenciones = n()) %>% 
+    View()
 
 corpus_ <- chat %>% 
     select(date, X, timestamp.start, timestamp.end, user, message)
@@ -235,7 +252,7 @@ semiclean_corpus <- tokenized_corpus$word %>%
 corrected_corpus <- semiclean_corpus %>% 
     sapply(function(x){x[1]})
 
-corrected_corpus %>% 
+corrected_corpus <- corrected_corpus %>% 
     hunspell_stem(dict = esp) %>% 
     sapply(function(x){ifelse(is.null(x[1]), NA, x[1])})
 
@@ -246,10 +263,15 @@ tokenized_corpus$suggested_stem <- corrected_corpus
 tokenized_corpus$suggested_score <- tokenized_corpus$suggested_stem %>% 
     get_sentiment(method = "nrc", "spanish")
 
-tokenized_corpus$suggested_score2 <- apply(tokenized_corpus[,c("word", "suggested_score")], MARGIN = 1,
-                                           function(x) ifelse(str_detect(x[1], pattern = "jaj"), 1, x[2]))
+tokenized_corpus$suggested_score2 <-
+    apply(tokenized_corpus[,c("word", "suggested_score")], MARGIN = 1,
+          function(x) ifelse(str_detect(x[1], pattern = "jaj"), 1, x[2]))
 
 tokenized_corpus$suggested_score2 <- as.numeric(tokenized_corpus$suggested_score2)
+
+#### Save tokenized corpus ####
+
+write.csv(tokenized_corpus, "processed_data/tokenized_corpus.csv")
 
 #### How did emotions evolve with time?
 
@@ -258,7 +280,31 @@ class_beginnings <- tokenized_corpus %>%
     pull(n) %>% 
     cumsum()
 
-plot.ts(rollapply(tokenized_corpus$suggested_score2, FUN =  mean, width = 150),
+class <- sapply(1:26, FUN = function(x) rep.int(x, times = class_beginnings[x]))
+
+# we get a reasonable bandwidth for the plot by using
+# the mean words in interventions per session per user multiplied
+# by the mean number of users in any given class.
+# so approx. 25 words are written by the mean student
+# and there is an approx. mean of 25 students that participate
+# in each class
+
+reasonable_chat_bandwidth <- ( (tokenized_corpus %>% 
+    group_by(date, user) %>% 
+    summarise(interventions = n()) %>% 
+    pull(interventions) %>% 
+    mean(na.rm = TRUE)) * (tokenized_corpus %>% 
+    group_by(date) %>% 
+    summarise(distinct_users = n_distinct(user)) %>% 
+    pull(distinct_users) %>% 
+    mean(na.rm = TRUE)) ) %>% 
+    ceiling()
+
+mean_course_sentiment <-
+    rollapply(tokenized_corpus$suggested_score2, FUN =  mean,
+              width = reasonable_chat_bandwidth, fill = "extend")
+
+plot.ts(mean_course_sentiment,
         ylim = c(-0.1, 0.3),
         xlim = c(-4000, 17000),
         xlab = "Desarrollo del curso",
@@ -272,7 +318,48 @@ text(x = -3000, y = 0.075, label = "Positivo", col = "green")
 text(x = -3000, y = 0.15, label = "Muy Positivo", col = "dark green")
 abline(v = class_beginnings, lty = 2, col = "gray")
 
-
 simple_plot(tokenized_corpus$suggested_score2)
 
+chat$date %>% unique() %>% length()
 
+chat %>% 
+    select(Fecha = date, Orden = X, timestamp.start, timestamp.end, user, message, filename) %>% 
+    summarise()
+    gt() %>% 
+    fmt_missing(columns = 1:21, missing_text = '-')
+
+write.csv(tokenized_corpus, 'processed_data/tokenized_corpus.csv')
+write.csv(chat, 'processed_data/augmented_chat_data.csv')
+
+
+class_beginnings <- tokenized_corpus %>% 
+    count(date) %>% 
+    pull(n) %>% 
+    cumsum()
+
+mean_sentiment <-
+    rollapply(tokenized_corpus$suggested_score2, FUN =  mean,
+              width = 25*25, fill = "extend")
+
+mean_sentiment <- data.frame(
+    mean_sentiment = sapply(split(mean_sentiment, ceiling(seq_along(mean_sentiment)/20)),
+       mean, na.rm = TRUE)
+    )
+
+plt <- mean_sentiment %>% 
+    ggplot(aes(x = seq_along(mean_sentiment), y = mean_sentiment)) +
+    ylim(c(-0.1, 0.3))+
+    xlim(c(-300, 850)) +
+    xlab("Desarrollo del curso") +
+    ylab("Sentimiento promedio de la clase") +
+    geom_line() +
+    geom_abline(intercept = 0, slope =  0, col = "red") +
+    geom_abline(intercept =  0.05, slope = 0, col = "orange") +
+    geom_abline(intercept = 0.1, slope = 0, col = "green") +
+    geom_text(x = -200, y = -0.05, label = "Negativo", col = "red") +
+    geom_text(x = -200, y = 0.025, label = "Neutral", col = "orange") +
+    geom_text(x = -200, y = 0.075, label = "Positivo", col = "green") +
+    geom_text(x = -200, y = 0.15, label = "Muy Positivo", col = "dark green") +
+    geom_vline(xintercept = class_beginnings/20, lty = 2, col = "gray")
+
+ggplotly(plt)

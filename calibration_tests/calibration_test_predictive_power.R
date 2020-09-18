@@ -1,7 +1,9 @@
 library(readxl)
+library(ggthemes)
 library(tidyverse)
 library(broom)
 
+theme_set(theme_clean())
 calib <- read_excel("calibration_tests/Segunda encuesta de calibracion de medidas de engagement (Responses).xlsx")
 calib <- cbind(calib, read_excel("calibration_tests/Calibracion de medidas de engagement (Responses).xlsx")[,-1])
 
@@ -36,10 +38,13 @@ calib %>%
     ggplot(aes(col = value, x = unique_letters, y = numero_de_palabras, shape = value)) +
     geom_jitter() +
     geom_density2d() +
-    facet_wrap(~value)
+    facet_wrap(~value) +
+    guides(color = FALSE,
+           shape = FALSE)
 
-calib %>% 
-    glm(data = ., formula = value =='Alto' ~ message_complexity, family = binomial) %>%
+modl_ <- calib %>% 
+    glm(data = ., formula = value =='Alto' ~ message_complexity, family = binomial)
+modl_ %>%
     tidy() %>% 
     select(term, estimate) %>% 
     mutate(oddratio = exp(estimate))
@@ -61,3 +66,24 @@ calib %>%
     tidy() %>% 
     select(term, estimate) %>% 
     mutate(oddratio = exp(estimate))
+
+write.csv(calib, file = "calibration_tests/calibrated_chats.csv")
+
+data.frame(
+    predprob = predict.glm(modl_, type = 'response'),
+    predclass = predict.glm(modl_, type = 'response') > 0.,
+    truth = calib$value == 'Alto'
+) %>% 
+    count(predclass, truth)
+
+
+extreme_cases <- calib %>% 
+    mutate(diff = (as.numeric(value) + 1) - message_complexity) %>% 
+    arrange(desc(abs(diff))) %>%
+    rowwise() %>% 
+    mutate(case_when(as.numeric(value) +1 < message_complexity ~ "Alta complejidad bajo engagement",
+                     as.numeric(value) -1 > message_complexity ~ "Baja complejidad alto engagement",
+                     TRUE ~ "Complejidad media engagement medio"))
+
+write.csv(extreme_cases, file = "Classtech_prototype/Classtech_prototype/calibration_tests/extreme_cases.csv")
+    

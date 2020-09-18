@@ -363,3 +363,7 @@ plt <- mean_sentiment %>%
     geom_vline(xintercept = class_beginnings/20, lty = 2, col = "gray")
 
 ggplotly(plt)
+
+# RECALIBRACION: 3 MEDIDAS
+
+q

@@ -6,9 +6,7 @@ Created on Mon Aug 24 15:12:53 2020
 """
 from os import listdir
 
-import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 
 def reading_class(textfile: str, file_identifier: bool = True, encoding: str = 'utf8') -> pd.DataFrame:
     '''

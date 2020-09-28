@@ -1,0 +1,401 @@
+"","X1","date","X","timestamp.start","timestamp.end","user","message","filename","language","numero_de_palabras","unique_letters","message_complexity"
+"1",3106,2020-06-08,63,00:07:19,00:07:19,"Santiago Jose Fernandez Pizarro","el alumno herrera que comience por favor","raw_data/oldchats/19_08_junio_2020.txt","espanol",7,16,4.3018387305144
+"2",3705,2020-06-20,11,00:03:36,00:03:36,"Sebastian Silva Ramal","se quedo a dormir dice","raw_data/oldchats/22_20_junio_2020.txt","espanol",5,12,3.78048202372184
+"3",3428,2020-06-08,385,00:23:56,00:23:56,"Magaly Julisa Acuna Condori","y qué ganamos los que botamos??","raw_data/oldchats/19_08_junio_2020.txt","espanol",6,19,4.54624062518029
+"4",431,2020-04-06,54,01:40:33,01:40:33,"Andres Vilcahuaman Zermeno","en caso gane el banco no le cobra nada a la empresa no?","raw_data/oldchats/3_06_abril_2020.txt","espanol",13,15,4.42510992953527
+"5",1064,2020-04-20,296,01:19:45,01:19:45,"Xiomi Anny Garcia Palomino","factores exógenos","raw_data/oldchats/7_20_abril_2020.txt","espanol",2,16,2.85
+"6",824,2020-04-20,56,00:27:36,00:27:36,"Andres Vilcahuaman Zermeno","me arriesgaré a que me toque con silvana orihuela","raw_data/oldchats/7_20_abril_2020.txt","espanol",9,21,4.89248125036058
+"7",3346,2020-06-08,303,00:21:29,00:21:29,"Andres Vilcahuaman Zermeno","trigan incienso","raw_data/oldchats/19_08_junio_2020.txt","espanol",2,11,2.35
+"8",2942,2020-06-01,249,01:26:26,01:26:26,"Santiago Jose Fernandez Pizarro","así tengo excusa para no celebrar cumpleaños de mi mama","raw_data/oldchats/17_01_junio_2020.txt","espanol",10,23,5.13048202372184
+"9",2193,2020-05-14,120,00:29:28,00:29:28,"Ruben Angel Montenegro Lee","q hago ?","raw_data/oldchats/14_14_mayo_2020.txt","espanol",3,7,3.09624062518029
+"10",1316,2020-04-23,98,00:43:21,00:43:21,"Andres Vilcahuaman Zermeno","la encuesta es anonima","raw_data/oldchats/8_23_abril_2020.txt","ingles",4,12,3.7
+"11",3283,2020-06-08,240,00:19:09,00:19:09,"Andres Vilcahuaman Zermeno","caras no vemos corazones no sabemos","raw_data/oldchats/19_08_junio_2020.txt","espanol",6,12,3.84624062518029
+"12",2529,2020-05-28,102,00:36:51,00:36:51,"Andres Vilcahuaman Zermeno","porque entiendo que son varias","raw_data/oldchats/16_28_mayo_2020.txt","espanol",5,14,3.98048202372184
+"13",3312,2020-06-08,269,00:20:32,00:20:32,"Andres Vilcahuaman Zermeno","imaginate que es ricolas","raw_data/oldchats/19_08_junio_2020.txt","espanol",4,15,4
+"14",1916,2020-05-04,127,01:20:51,01:20:51,"Andres Vilcahuaman Zermeno","estoy cenando panqueques","raw_data/oldchats/11_04_mayo_2020.txt","ingles",3,13,3.69624062518029
+"15",478,2020-04-11,26,00:20:37,00:20:37,"Jean Pierre Espinoza Rest","la fixed rate 2 deberia ser menor que la fixed rate 1","raw_data/oldchats/4_11_abril_2020.txt","espanol",12,19,4.79624062518029
+"16",1467,2020-04-27,44,00:06:19,00:06:19,"Sebastian Silva Ramal","porque no llevaremos el curso el prox ciclo pues profe","raw_data/oldchats/9_27_abril_2020.txt","espanol",10,17,4.53048202372184
+"17",1182,2020-04-20,414,01:35:30,01:35:30,"Nicolas Vegas Trivelli","listo tonces el miercoles lo vemos","raw_data/oldchats/7_20_abril_2020.txt","espanol",6,12,3.84624062518029
+"18",3760,2020-06-20,66,01:07:07,01:07:07,"Diego Satornicio Melgarejo","no les favorecia el clima","raw_data/oldchats/22_20_junio_2020.txt","espanol",5,13,3.88048202372184
+"19",1457,2020-04-27,34,00:06:03,00:06:03,"Silvana Lucia Orihuela Acosta","no puedo votar","raw_data/oldchats/9_27_abril_2020.txt","espanol",3,11,3.49624062518029
+"20",1693,2020-04-27,270,00:42:54,00:42:54,"Andres Vilcahuaman Zermeno","nicolás quiere que suban la pensión","raw_data/oldchats/9_27_abril_2020.txt","espanol",6,20,4.64624062518029
+"21",2190,2020-05-14,117,00:29:15,00:29:15,"Diego Satornicio Melgarejo","facil es el internet","raw_data/oldchats/14_14_mayo_2020.txt","espanol",4,11,3.6
+"22",3431,2020-06-08,388,00:24:12,00:24:12,"Sebastian Silva Ramal","hasta alexander debe votar por silvana","raw_data/oldchats/19_08_junio_2020.txt","espanol",6,16,4.24624062518029
+"23",1440,2020-04-27,17,00:04:21,00:04:21,"Roy Ernie Portilla Manzanares","no era todo el semestre?","raw_data/oldchats/9_27_abril_2020.txt","espanol",5,12,3.78048202372184
+"24",4110,2020-07-02,137,01:39:59,01:39:59,"Nicolas Vegas Trivelli","se escucho un beso","raw_data/oldchats/24_02_julio_2020.txt","espanol",4,10,3.5
+"25",928,2020-04-20,160,00:35:12,00:35:12,"Sebastian Silva Ramal","4. discussions and negotiations with financial institutions on financing arrangements and loan repayments arising out of legacy petrotrin debt obligations.","raw_data/oldchats/7_20_abril_2020.txt","espanol",20,25,5.58048202372184
+"26",2894,2020-06-01,201,01:16:28,01:16:28,"Marcelo Andres Villar Meza","osea no te cubriste lo suficiente","raw_data/oldchats/17_01_junio_2020.txt","espanol",6,15,4.14624062518029
+"27",394,2020-04-06,17,00:11:02,00:11:02,"Andres Vilcahuaman Zermeno","eso de los cadáveres está fallando en ecuador","raw_data/oldchats/3_06_abril_2020.txt","espanol",8,19,4.65
+"28",1376,2020-04-23,158,01:27:02,01:27:02,"Roy Ernie Portilla Manzanares","a serious guy","raw_data/oldchats/8_23_abril_2020.txt","ingles",3,10,3.39624062518029
+"29",1326,2020-04-23,108,00:43:51,00:43:51,"Roy Ernie Portilla Manzanares","al costadeo del microfono","raw_data/oldchats/8_23_abril_2020.txt","ingles",4,15,4
+"30",2729,2020-06-01,36,00:15:22,00:15:22,"Roy Ernie Portilla Manzanares","cadalaneta tiene su calendario","raw_data/oldchats/17_01_junio_2020.txt","espanol",4,13,3.8
+"31",2248,2020-05-14,175,00:38:35,00:38:35,"Nicole Marcella Condori Cubillas","la mayoria hara homeofffice no mas","raw_data/oldchats/14_14_mayo_2020.txt","espanol",6,14,4.04624062518029
+"32",4455,2020-07-09,107,00:43:27,00:43:27,"Nicolas Vegas Trivelli","creo que esta en la casa de sebastian","raw_data/oldchats/26_09_julio_2020.txt","espanol",8,17,4.45
+"33",2495,2020-05-28,68,00:07:16,00:07:16,"Sofia Carolina Jo Brun","para que pueda escuchar","raw_data/oldchats/16_28_mayo_2020.txt","espanol",4,11,3.6
+"34",2544,2020-05-28,117,00:44:13,00:44:13,"Andres Vilcahuaman Zermeno","que te van a comer","raw_data/oldchats/16_28_mayo_2020.txt","espanol",5,12,3.78048202372184
+"35",2064,2020-05-11,34,01:00:39,01:00:39,"Andres Vilcahuaman Zermeno","quiero un panamera","raw_data/oldchats/13_11_mayo_2020.txt","ingles",3,11,3.49624062518029
+"36",3820,2020-06-20,126,01:36:38,01:36:38,"Diego Satornicio Melgarejo","esa es buena","raw_data/oldchats/22_20_junio_2020.txt","espanol",3,8,3.19624062518029
+"37",1976,2020-05-07,38,00:15:10,00:15:10,"Santiago Jose Fernandez Pizarro","eso vimos en eviews","raw_data/oldchats/12_07_mayo_2020.txt","espanol",4,10,3.5
+"38",521,2020-04-11,69,01:37:46,01:37:46,"Andres Vilcahuaman Zermeno","no se acuerda creo","raw_data/oldchats/4_11_abril_2020.txt","espanol",4,10,3.5
+"39",2626,2020-05-28,199,01:24:31,01:24:31,"Edwin Miguel Prado Quispe","de la nota de engagement","raw_data/oldchats/16_28_mayo_2020.txt","espanol",5,10,3.58048202372184
+"40",2342,2020-05-14,269,01:55:00,01:55:00,"Ruben Angel Montenegro Lee","https://eur01.safelinks.protection.outlook.com/?url=https%3a%2f%2fapp.sli.do%2fevent%2fe8avg8gm%2fembed%2fpolls%2f8923a356-d91c-4d51-af3d-6f28537318e5&data=02%7c01%7c%7cc77ff3d69b424ed2759908d7f8797f20%7c84df9e7fe9f640afb435aaaaaaaaaaaa%7c1%7c0%7c637251073014934554&sdata=zdh7fayekkr4t%2fll6g73vcsr0wtuzvy%2fhtb8tldq3rk%3d&reserved=0","raw_data/oldchats/14_14_mayo_2020.txt","espanol",1,56,6.6
+"41",2037,2020-05-11,7,00:48:38,00:48:38,"Santiago Jose Fernandez Pizarro","colgaste los casos","raw_data/oldchats/13_11_mayo_2020.txt","ingles",3,9,3.29624062518029
+"42",2054,2020-05-11,24,00:51:58,00:51:58,"Roy Ernie Portilla Manzanares","parece ser de su correo up: s.herrera","raw_data/oldchats/13_11_mayo_2020.txt","ingles",7,13,4.0018387305144
+"43",3290,2020-06-08,247,00:19:22,00:19:22,"Silvana Lucia Orihuela Acosta","ay no puedo","raw_data/oldchats/19_08_junio_2020.txt","espanol",3,9,3.29624062518029
+"44",1211,2020-04-20,443,01:44:02,01:44:02,"Alonso Torres Leon","hay q crear un gruo de whatsapp o algo asi","raw_data/oldchats/7_20_abril_2020.txt","espanol",10,19,4.73048202372184
+"45",4336,2020-07-06,169,01:45:17,01:45:17,"Sebastian Silva Ramal","va a estar grabada?","raw_data/oldchats/25_06_julio_2020.txt","espanol",4,11,3.6
+"46",2396,2020-05-25,41,00:33:53,00:33:53,"Sofia Carolina Jo Brun","eso de dos puede ayudar","raw_data/oldchats/15_25_mayo_2020.txt","espanol",5,10,3.58048202372184
+"47",1661,2020-04-27,238,00:35:19,00:35:19,"Sebastian Silva Ramal","la u es la u","raw_data/oldchats/9_27_abril_2020.txt","espanol",5,6,3.18048202372184
+"48",1313,2020-04-23,95,00:43:09,00:43:09,"Andres Vilcahuaman Zermeno","pero profe fácil a la gente le da roche","raw_data/oldchats/8_23_abril_2020.txt","ingles",9,19,4.69248125036058
+"49",3967,2020-06-22,146,02:02:30,02:02:30,"Ruben Angel Montenegro Lee","https://nam11.safelinks.protection.outlook.com/?url=https%3a%2f%2fapp.sli.do%2fevent%2fe8avg8gm%2fembed%2fpolls%2fc0b748a4-7e0a-4aa4-8cb7-008978d3b964&data=02%7c01%7c%7cf33d09bd7cbb4daefb4508d8170d0c91%7c84df9e7fe9f640afb435aaaaaaaaaaaa%7c1%7c0%7c637284692097156271&sdata=bcy01aodvvi3aywx42fgjnbgswy8l7j4z3%2fnom7ii5m%3d&reserved=0","raw_data/oldchats/23_22_junio_2020.txt","espanol",1,56,6.6
+"50",3619,2020-06-15,30,00:21:02,00:21:02,"Andres Vilcahuaman Zermeno","ala dio miedo","raw_data/oldchats/21_15_junio_2020.txt","espanol",3,8,3.19624062518029
+"51",1459,2020-04-27,36,00:06:06,00:06:06,"Marcelo Andres Villar Meza","no pedo votar","raw_data/oldchats/9_27_abril_2020.txt","espanol",3,10,3.39624062518029
+"52",3882,2020-06-22,61,01:40:18,01:40:18,"Fabio Yoshiki Kadena Matsuda","profe cancelar es lo mismo que unwind? tipo la traduccion?","raw_data/oldchats/23_22_junio_2020.txt","espanol",10,19,4.73048202372184
+"53",671,2020-04-18,22,00:41:43,00:41:43,"Sebastian Alfonso Herrera Eyzaguirre","bancos y sociedades de credito?","raw_data/oldchats/6_18_abril_2020.txt","espanol",5,14,3.98048202372184
+"54",3771,2020-06-20,77,01:23:04,01:23:04,"Sergio Sebastian Salazar Relayze","profe es una especie de opcion asiatica?","raw_data/oldchats/22_20_junio_2020.txt","espanol",7,15,4.2018387305144
+"55",2533,2020-05-28,106,00:37:52,00:37:52,"Santiago Jose Fernandez Pizarro","yo leí una de aifs","raw_data/oldchats/16_28_mayo_2020.txt","espanol",5,17,4.28048202372184
+"56",3543,2020-06-13,44,01:12:36,01:12:36,"Nicole Marcella Condori Cubillas","osea en el primero pueden ser catastofres","raw_data/oldchats/20_13_junio_2020.txt","espanol",7,16,4.3018387305144
+"57",2733,2020-06-01,40,00:16:16,00:16:16,"Andres Vilcahuaman Zermeno","el pirata espacial","raw_data/oldchats/17_01_junio_2020.txt","espanol",3,10,3.39624062518029
+"58",3576,2020-06-13,77,01:28:26,01:28:26,"Ruben Angel Montenegro Lee","https://eur04.safelinks.protection.outlook.com/?url=https%3a%2f%2fapp.sli.do%2fevent%2fe8avg8gm%2fembed%2fpolls%2ff092bb70-442f-471c-a82e-e50618c061a0&data=02%7c01%7c%7c3b53dcccebea479a14ab08d80f500136%7c84df9e7fe9f640afb435aaaaaaaaaaaa%7c1%7c0%7c637276183578544581&sdata=mxlnt9pm%2faafon9lcz1%2bz%2fv13hyqu0kmqnwmifkbfqc%3d&reserved=0","raw_data/oldchats/20_13_junio_2020.txt","espanol",1,58,6.8
+"59",1334,2020-04-23,116,00:44:31,00:44:31,"Andres Vilcahuaman Zermeno","todos responden","raw_data/oldchats/8_23_abril_2020.txt","ingles",2,8,2.05
+"60",1276,2020-04-23,58,00:28:04,00:28:04,"Andres Vilcahuaman Zermeno","hay una ""penalidad"" por patear esa tasa?","raw_data/oldchats/8_23_abril_2020.txt","ingles",7,17,4.4018387305144
+"61",1732,2020-05-02,3,00:00:29,00:00:29,"Jheysson Andre Roncal Valdivia","muy temprano profe","raw_data/oldchats/10_02_mayo_2020.txt","espanol",3,13,3.69624062518029
+"62",2945,2020-06-01,252,01:26:30,01:26:30,"Nicolas Vegas Trivelli","profe haga encuesta","raw_data/oldchats/17_01_junio_2020.txt","espanol",3,14,3.79624062518029
+"63",2245,2020-05-14,172,00:38:27,00:38:27,"Nicole Marcella Condori Cubillas","siii, yo creo que la gente no se va a movilizar mucho","raw_data/oldchats/14_14_mayo_2020.txt","espanol",12,20,4.89624062518029
+"64",779,2020-04-20,11,00:25:07,00:25:07,"Sergio Sebastian Salazar Relayze","mucho tramite","raw_data/oldchats/7_20_abril_2020.txt","espanol",2,10,2.25
+"65",4322,2020-07-06,155,01:13:04,01:13:04,"Jheysson Andre Roncal Valdivia","lineas muy delgadas que se pueden cruzar facilmente","raw_data/oldchats/25_06_julio_2020.txt","espanol",8,19,4.65
+"66",1153,2020-04-20,385,01:32:25,01:32:25,"Nicolas Vegas Trivelli","es que de la nada aparecio","raw_data/oldchats/7_20_abril_2020.txt","espanol",6,14,4.04624062518029
+"67",2195,2020-05-14,122,00:29:29,00:29:29,"Magaly Julisa Acuna Condori","que lo de hoy no venga","raw_data/oldchats/14_14_mayo_2020.txt","espanol",6,13,3.94624062518029
+"68",3905,2020-06-22,84,01:53:54,01:53:54,"Nicolas Vegas Trivelli","a cuanto?","raw_data/oldchats/23_22_junio_2020.txt","espanol",2,8,2.05
+"69",943,2020-04-20,175,00:46:26,00:46:26,"Fabio Yoshiki Kadena Matsuda","https://www.streetwisereports.com/article/2020/04/08/tankers-are-the-big-winners-of-the-2020-oil-crash.html","raw_data/oldchats/7_20_abril_2020.txt","espanol",1,26,3.6
+"70",378,2020-04-06,1,00:04:35,00:04:35,"Santiago Jose Fernandez Pizarro","tienes que cuantificar cuánto vale la vida de una persona","raw_data/oldchats/3_06_abril_2020.txt","espanol",10,21,4.93048202372184
+"71",1128,2020-04-20,360,01:29:38,01:29:38,"Santiago Jose Fernandez Pizarro","santiagojfp@gmail.com","raw_data/oldchats/7_20_abril_2020.txt","espanol",1,15,2.5
+"72",2274,2020-05-14,201,00:45:59,00:45:59,"Andres Vilcahuaman Zermeno","lima no tiene la infraestructura para bicis igual","raw_data/oldchats/14_14_mayo_2020.txt","espanol",8,18,4.55
+"73",4547,2020-07-09,199,00:53:04,00:53:04,"Silvana Lucia Orihuela Acosta","profe el sábado es pre final?","raw_data/oldchats/26_09_julio_2020.txt","espanol",6,18,4.44624062518029
+"74",3600,2020-06-15,11,00:01:10,00:01:10,"Sofia Carolina Jo Brun","que ponga la camara","raw_data/oldchats/21_15_junio_2020.txt","espanol",4,13,3.8
+"75",883,2020-04-20,115,00:31:21,00:31:21,"Marcelo Andres Villar Meza","has hecho los ejercicios adicionales?","raw_data/oldchats/7_20_abril_2020.txt","espanol",5,15,4.08048202372184
+"76",4448,2020-07-09,100,00:43:13,00:43:13,"Sebastian Alfonso Herrera Eyzaguirre","profequeda el engament como esta?","raw_data/oldchats/26_09_julio_2020.txt","espanol",5,18,4.38048202372184
+"77",3235,2020-06-08,192,00:16:59,00:16:59,"Magaly Julisa Acuna Condori","esa es buena","raw_data/oldchats/19_08_junio_2020.txt","espanol",3,7,3.09624062518029
+"78",1677,2020-04-27,254,00:38:14,00:38:14,"Jaime Alexander Olaya Vilela","son públicos. las notas no, pero los eeff sí.","raw_data/oldchats/9_27_abril_2020.txt","espanol",9,24,5.19248125036058
+"79",604,2020-04-13,42,00:52:35,00:52:35,"Andres Vilcahuaman Zermeno","limitas la perdida","raw_data/oldchats/5_13_abril_2020.txt","espanol",3,11,3.49624062518029
+"80",1635,2020-04-27,212,00:27:58,00:27:58,"Sebastian Silva Ramal","ya sabemos quien va a llevar el prox ciclo","raw_data/oldchats/9_27_abril_2020.txt","espanol",9,18,4.59248125036058
+"81",3596,2020-06-15,7,00:00:42,00:00:42,"Nicolas Vegas Trivelli","puro hueco tienes","raw_data/oldchats/21_15_junio_2020.txt","espanol",3,12,3.59624062518029
+"82",264,2020-04-02,18,00:08:26,00:08:26,"Sebastian Silva Ramal","cost-benefit trade off","raw_data/oldchats/2_02_abril_2020.txt","ingles",3,14,3.79624062518029
+"83",2778,2020-06-01,85,00:43:45,00:43:45,"Andres Vilcahuaman Zermeno","ahi al decimal","raw_data/oldchats/17_01_junio_2020.txt","espanol",3,9,3.29624062518029
+"84",4327,2020-07-06,160,01:21:53,01:21:53,"Andres Vilcahuaman Zermeno","pero era un credit event medio bamba","raw_data/oldchats/25_06_julio_2020.txt","espanol",7,15,4.2018387305144
+"85",2492,2020-05-28,65,00:07:09,00:07:09,"Sofia Carolina Jo Brun","facil ponlos en modo moderador","raw_data/oldchats/16_28_mayo_2020.txt","espanol",5,14,3.98048202372184
+"86",2667,2020-05-28,240,01:34:23,01:34:23,"Magaly Julisa Acuna Condori","ruben, me preguntan de qué pueden hablar contigo??","raw_data/oldchats/16_28_mayo_2020.txt","espanol",8,24,5.15
+"87",1097,2020-04-20,329,01:22:42,01:22:42,"Magaly Julisa Acuna Condori","las cantidades","raw_data/oldchats/7_20_abril_2020.txt","espanol",2,9,2.15
+"88",2817,2020-06-01,124,00:48:42,00:48:42,"Santiago Jose Fernandez Pizarro","para implementar su politica","raw_data/oldchats/17_01_junio_2020.txt","espanol",4,14,3.9
+"89",4228,2020-07-06,61,00:09:46,00:09:46,"Estuardo Ivan Chalan Marreros","no se escucha","raw_data/oldchats/25_06_julio_2020.txt","espanol",3,9,3.29624062518029
+"90",2302,2020-05-14,229,01:10:52,01:10:52,"Jean Pierre Espinoza Rest","pero nosotros mismos no queremos agobiarnos","raw_data/oldchats/14_14_mayo_2020.txt","espanol",6,15,4.14624062518029
+"91",1255,2020-04-23,37,00:14:16,00:14:16,"Maria Gracia Garcia Garces","protegerse de tasas altas","raw_data/oldchats/8_23_abril_2020.txt","ingles",4,11,3.6
+"92",476,2020-04-11,24,00:20:17,00:20:17,"Jean Pierre Espinoza Rest","de a cuanto este una tasa del plazo mayor","raw_data/oldchats/4_11_abril_2020.txt","espanol",9,16,4.39248125036058
+"93",627,2020-04-13,65,01:04:42,01:04:42,"Andres Vilcahuaman Zermeno","te quedas ahí nomas","raw_data/oldchats/5_13_abril_2020.txt","espanol",4,16,4.1
+"94",3476,2020-06-08,433,00:51:10,00:51:10,"Viviana Purita Cotrina Verano","posiciones largas pero de corto plazo","raw_data/oldchats/19_08_junio_2020.txt","espanol",6,15,4.14624062518029
+"95",3060,2020-06-08,17,00:01:37,00:01:37,"Nicole Marcella Condori Cubillas","magaly no me delates","raw_data/oldchats/19_08_junio_2020.txt","espanol",4,12,3.7
+"96",575,2020-04-13,13,00:02:23,00:02:23,"Santiago Jose Fernandez Pizarro","yo hice viernes","raw_data/oldchats/5_13_abril_2020.txt","espanol",3,11,3.49624062518029
+"97",4335,2020-07-06,168,01:44:44,01:44:44,"Edwin Miguel Prado Quispe","en cuadradito","raw_data/oldchats/25_06_julio_2020.txt","espanol",2,10,2.25
+"98",514,2020-04-11,62,01:29:01,01:29:01,"Jheysson Andre Roncal Valdivia","o por costumbre","raw_data/oldchats/4_11_abril_2020.txt","espanol",3,11,3.49624062518029
+"99",1860,2020-05-04,71,00:46:19,00:46:19,"Estuardo Ivan Chalan Marreros","profe la pantalla está congelada","raw_data/oldchats/11_04_mayo_2020.txt","ingles",5,19,4.48048202372184
+"100",4237,2020-07-06,70,00:15:23,00:15:23,"Roy Ernie Portilla Manzanares","depende del payoff a pagar?","raw_data/oldchats/25_06_julio_2020.txt","espanol",5,14,3.98048202372184
+"101",4395,2020-07-09,47,00:40:08,00:40:08,"Nicolas Vegas Trivelli","hay que tomar riesgos","raw_data/oldchats/26_09_julio_2020.txt","espanol",4,14,3.9
+"102",261,2020-04-02,15,00:08:12,00:08:12,"Andres Vilcahuaman Zermeno","not at this level of gravity","raw_data/oldchats/2_02_abril_2020.txt","ingles",6,15,4.14624062518029
+"103",2893,2020-06-01,200,01:16:08,01:16:08,"Andres Vilcahuaman Zermeno","y el spot","raw_data/oldchats/17_01_junio_2020.txt","espanol",3,8,3.19624062518029
+"104",2371,2020-05-25,16,00:07:32,00:07:32,"Sebastian Silva Ramal","la cuarentena","raw_data/oldchats/15_25_mayo_2020.txt","espanol",2,8,2.05
+"105",2946,2020-06-01,253,01:26:35,01:26:35,"Sofia Carolina Jo Brun","hay que volver a votar?","raw_data/oldchats/17_01_junio_2020.txt","espanol",5,13,3.88048202372184
+"106",1335,2020-04-23,117,00:44:35,00:44:35,"Andres Vilcahuaman Zermeno","herrera está jataso","raw_data/oldchats/8_23_abril_2020.txt","ingles",3,13,3.69624062518029
+"107",1352,2020-04-23,134,00:58:24,00:58:24,"Roy Ernie Portilla Manzanares","for the effective rate shouldnt we include the exit penalty and delayed int penalty?","raw_data/oldchats/8_23_abril_2020.txt","ingles",14,21,5.0518387305144
+"108",3825,2020-06-22,4,00:00:56,00:00:56,"Nicole Marcella Condori Cubillas","no hay forma","raw_data/oldchats/23_22_junio_2020.txt","espanol",3,9,3.29624062518029
+"109",377,2020-04-06,0,00:02:16,00:02:16,"Sofia Carolina Jo Brun","pero profe sin personas sanas no tendrias las mismas condiciones para sostener la economia verdad?","raw_data/oldchats/3_06_abril_2020.txt","espanol",15,17,4.67672264890213
+"110",3595,2020-06-15,6,00:00:28,00:00:28,"Sebastian Alfonso Herrera Eyzaguirre","yo me he vuelto medio barbero en la cuarentena profe, ya me corte el pelo dos veces","raw_data/oldchats/21_15_junio_2020.txt","espanol",17,21,5.12186571031258
+"111",886,2020-04-20,118,00:31:32,00:31:32,"Roy Ernie Portilla Manzanares","fue un buen ciclo","raw_data/oldchats/7_20_abril_2020.txt","espanol",4,10,3.5
+"112",2089,2020-05-14,16,00:05:52,00:05:52,"Magaly Julisa Acuna Condori","bueno entraré de nuevo","raw_data/oldchats/14_14_mayo_2020.txt","espanol",4,15,4
+"113",1905,2020-05-04,116,01:17:35,01:17:35,"Andres Vilcahuaman Zermeno","porq le puedes hacer unwind?","raw_data/oldchats/11_04_mayo_2020.txt","ingles",5,17,4.28048202372184
+"114",2319,2020-05-14,246,01:13:35,01:13:35,"Sebastian Silva Ramal","producian en usa","raw_data/oldchats/14_14_mayo_2020.txt","espanol",3,14,3.79624062518029
+"115",216,2020-03-30,215,01:41:37,01:41:37,"Alejandra Cristina Samame Dulanto","no salgan plsss","raw_data/oldchats/1_30_marzo_2020.txt","espanol",3,8,3.19624062518029
+"116",3204,2020-06-08,161,00:15:22,00:15:22,"Santiago Jose Fernandez Pizarro","el flaco de silvana era de alemania","raw_data/oldchats/19_08_junio_2020.txt","espanol",7,14,4.1018387305144
+"117",380,2020-04-06,3,00:05:14,00:05:14,"Jean Pierre Espinoza Rest","profe aun hay tiempo hasta las 12 para enviar respuestas verdad?","raw_data/oldchats/3_06_abril_2020.txt","espanol",11,21,4.96485790465932
+"118",56,2020-03-30,55,00:16:20,00:16:20,"Nicolas Vegas Trivelli","andres ya la puso","raw_data/oldchats/1_30_marzo_2020.txt","espanol",4,12,3.7
+"119",428,2020-04-06,51,01:38:51,01:38:51,"Andres Vilcahuaman Zermeno","profe si al banco paga 1.83% y recibe 3% no estaría ganando?","raw_data/oldchats/3_06_abril_2020.txt","espanol",12,28,5.69624062518029
+"120",1676,2020-04-27,253,00:37:56,00:37:56,"Edwin Miguel Prado Quispe","liberen los eeff","raw_data/oldchats/9_27_abril_2020.txt","espanol",3,12,3.59624062518029
+"121",3545,2020-06-13,46,01:12:52,01:12:52,"Diego Satornicio Melgarejo","cuadrante i, riesgo de estacionalidad","raw_data/oldchats/20_13_junio_2020.txt","espanol",5,17,4.28048202372184
+"122",1966,2020-05-07,28,00:05:25,00:05:25,"Santiago Jose Fernandez Pizarro","o sea específicas","raw_data/oldchats/12_07_mayo_2020.txt","espanol",3,13,3.69624062518029
+"123",2362,2020-05-25,7,00:02:22,00:02:22,"Nicole Marcella Condori Cubillas","es que el documento tenia el apellido creo","raw_data/oldchats/15_25_mayo_2020.txt","espanol",8,16,4.35
+"124",2974,2020-06-06,6,00:00:17,00:00:17,"Sofia Carolina Jo Brun","resumen total","raw_data/oldchats/18_06_junio_2020.txt","espanol",2,11,2.35
+"125",1992,2020-05-07,54,00:31:59,00:31:59,"Andres Vilcahuaman Zermeno","cerramos acá profe","raw_data/oldchats/12_07_mayo_2020.txt","espanol",3,14,3.79624062518029
+"126",2545,2020-05-28,118,00:44:16,00:44:16,"Andres Vilcahuaman Zermeno","en esas transacciones","raw_data/oldchats/16_28_mayo_2020.txt","espanol",3,10,3.39624062518029
+"127",4086,2020-07-02,113,01:35:58,01:35:58,"Edwin Miguel Prado Quispe","dark es top profe","raw_data/oldchats/24_02_julio_2020.txt","espanol",4,11,3.6
+"128",2468,2020-05-28,41,00:04:37,00:04:37,"Santiago Jose Fernandez Pizarro","y alex la marioneta","raw_data/oldchats/16_28_mayo_2020.txt","espanol",4,12,3.7
+"129",4038,2020-07-02,65,01:32:45,01:32:45,"Magaly Julisa Acuna Condori","jose quería darnos puntos a todos","raw_data/oldchats/24_02_julio_2020.txt","espanol",6,17,4.34624062518029
+"130",4088,2020-07-02,115,01:36:10,01:36:10,"Andres Vilcahuaman Zermeno","profe nuevo seminario","raw_data/oldchats/24_02_julio_2020.txt","espanol",3,13,3.69624062518029
+"131",2191,2020-05-14,118,00:29:19,00:29:19,"Sebastian Silva Ramal","ese 5% va a ser 10%","raw_data/oldchats/14_14_mayo_2020.txt","espanol",6,10,3.64624062518029
+"132",612,2020-04-13,50,00:53:26,00:53:26,"Nicolas Vegas Trivelli","cuando llamabas a movistar","raw_data/oldchats/5_13_abril_2020.txt","espanol",4,15,4
+"133",3497,2020-06-08,454,01:23:59,01:23:59,"Sebastian Aybar Guerrero","osea como dicen que sus inversionistas son bancos","raw_data/oldchats/19_08_junio_2020.txt","espanol",8,16,4.35
+"134",4476,2020-07-09,128,00:45:23,00:45:23,"Andres Vilcahuaman Zermeno","prendan la camara","raw_data/oldchats/26_09_julio_2020.txt","espanol",3,10,3.39624062518029
+"135",2356,2020-05-25,1,00:00:06,00:00:06,"Andres Vilcahuaman Zermeno","ya no hay esperanza","raw_data/oldchats/15_25_mayo_2020.txt","espanol",4,11,3.6
+"136",1989,2020-05-07,51,00:24:20,00:24:20,"Andres Vilcahuaman Zermeno","profe qué tan válido es un var ahorita","raw_data/oldchats/12_07_mayo_2020.txt","espanol",8,25,5.25
+"137",1142,2020-04-20,374,01:30:53,01:30:53,"Sebastian Aybar Guerrero","s.aybarg@alum.up.edu.pe","raw_data/oldchats/7_20_abril_2020.txt","espanol",1,14,2.4
+"138",1717,2020-04-27,294,01:15:16,01:15:16,"Nicole Marcella Condori Cubillas","si profe, esta bien","raw_data/oldchats/9_27_abril_2020.txt","espanol",4,13,3.8
+"139",2546,2020-05-28,119,00:48:38,00:48:38,"Andres Vilcahuaman Zermeno","al tomar la deuda en soles","raw_data/oldchats/16_28_mayo_2020.txt","espanol",6,12,3.84624062518029
+"140",3673,2020-06-15,84,01:03:23,01:03:23,"Edwin Miguel Prado Quispe","todo bien profe","raw_data/oldchats/21_15_junio_2020.txt","espanol",3,11,3.49624062518029
+"141",1081,2020-04-20,313,01:21:20,01:21:20,"Sebastian Aybar Guerrero","y lo ponemos en el chat","raw_data/oldchats/7_20_abril_2020.txt","espanol",6,13,3.94624062518029
+"142",2569,2020-05-28,142,00:59:30,00:59:30,"Andres Vilcahuaman Zermeno","no profe reconoce el error","raw_data/oldchats/16_28_mayo_2020.txt","espanol",5,9,3.48048202372184
+"143",4288,2020-07-06,121,01:02:24,01:02:24,"Sebastian Aybar Guerrero","buen video profee","raw_data/oldchats/25_06_julio_2020.txt","espanol",3,12,3.59624062518029
+"144",1969,2020-05-07,31,00:05:43,00:05:43,"Santiago Jose Fernandez Pizarro","me preocupé más por cosas técnicas","raw_data/oldchats/12_07_mayo_2020.txt","espanol",6,18,4.44624062518029
+"145",700,2020-04-18,51,01:04:59,01:04:59,"Jean Pierre Espinoza Rest","ipt announcement","raw_data/oldchats/6_18_abril_2020.txt","espanol",2,11,2.35
+"146",3914,2020-06-22,93,01:54:14,01:54:14,"Edwin Miguel Prado Quispe","vale negociar?","raw_data/oldchats/23_22_junio_2020.txt","espanol",2,11,2.35
+"147",4119,2020-07-02,146,01:42:30,01:42:30,"Sebastian Silva Ramal","toda las anteriores sumadas","raw_data/oldchats/24_02_julio_2020.txt","espanol",4,13,3.8
+"148",1199,2020-04-20,431,01:36:42,01:36:42,"Alexander Johan Pacaya Samame","hace una semana 120 mil","raw_data/oldchats/7_20_abril_2020.txt","espanol",5,14,3.98048202372184
+"149",4558,2020-07-09,210,00:54:11,00:54:11,"Marcelo Andres Villar Meza","osea no hay ejercicios nivel pc, no hay graficar y no es teórico","raw_data/oldchats/26_09_julio_2020.txt","espanol",13,25,5.42510992953527
+"150",1644,2020-04-27,221,00:31:13,00:31:13,"Andres Vilcahuaman Zermeno","qué pasa con medicina","raw_data/oldchats/9_27_abril_2020.txt","espanol",4,17,4.2
+"151",2373,2020-05-25,18,00:29:40,00:29:40,"Nicolas Vegas Trivelli","profe del var nos olvidamos para el curso no?","raw_data/oldchats/15_25_mayo_2020.txt","espanol",9,21,4.89248125036058
+"152",3076,2020-06-08,33,00:03:24,00:03:24,"Andres Vilcahuaman Zermeno","conseguir la foto no fue facil","raw_data/oldchats/19_08_junio_2020.txt","espanol",6,14,4.04624062518029
+"153",855,2020-04-20,87,00:29:54,00:29:54,"Sofia Carolina Jo Brun","q buen teem","raw_data/oldchats/7_20_abril_2020.txt","espanol",3,8,3.19624062518029
+"154",1129,2020-04-20,361,01:29:41,01:29:41,"Xiomi Anny Garcia Palomino","quiero cuantificadoo","raw_data/oldchats/7_20_abril_2020.txt","espanol",2,12,2.45
+"155",1594,2020-04-27,171,00:25:24,00:25:24,"Magaly Julisa Acuna Condori","ya volvió","raw_data/oldchats/9_27_abril_2020.txt","espanol",2,10,2.25
+"156",1566,2020-04-27,143,00:19:56,00:19:56,"Jean Pierre Espinoza Rest","si lo han manejado bien","raw_data/oldchats/9_27_abril_2020.txt","espanol",5,13,3.88048202372184
+"157",897,2020-04-20,129,00:33:13,00:33:13,"Sebastian Silva Ramal","gente chequeen esto","raw_data/oldchats/7_20_abril_2020.txt","espanol",3,11,3.49624062518029
+"158",2117,2020-05-14,44,00:08:38,00:08:38,"Andres Vilcahuaman Zermeno","no por q yo","raw_data/oldchats/14_14_mayo_2020.txt","espanol",4,7,3.2
+"159",1762,2020-05-02,33,01:16:32,01:16:32,"Andres Vilcahuaman Zermeno","dijo 4 años","raw_data/oldchats/10_02_mayo_2020.txt","espanol",3,12,3.59624062518029
+"160",4329,2020-07-06,162,01:23:26,01:23:26,"Andres Vilcahuaman Zermeno","la letra chiquita","raw_data/oldchats/25_06_julio_2020.txt","espanol",3,11,3.49624062518029
+"161",4095,2020-07-02,122,01:37:31,01:37:31,"Nicolas Vegas Trivelli","en todos nos veras","raw_data/oldchats/24_02_julio_2020.txt","espanol",4,11,3.6
+"162",1253,2020-04-23,35,00:14:10,00:14:10,"Marcelo Andres Villar Meza","fixed rate","raw_data/oldchats/8_23_abril_2020.txt","ingles",2,8,2.05
+"163",4251,2020-07-06,84,00:17:28,00:17:28,"Sofia Carolina Jo Brun","depende de la posicion ?","raw_data/oldchats/25_06_julio_2020.txt","espanol",5,12,3.78048202372184
+"164",1449,2020-04-27,26,00:05:59,00:05:59,"Andres Vilcahuaman Zermeno","no puedo votar","raw_data/oldchats/9_27_abril_2020.txt","espanol",3,11,3.49624062518029
+"165",2728,2020-06-01,35,00:15:20,00:15:20,"Fabio Yoshiki Kadena Matsuda","un dia es lo q se demorar dar una vuelta","raw_data/oldchats/17_01_junio_2020.txt","espanol",10,15,4.33048202372184
+"166",4260,2020-07-06,93,00:22:23,00:22:23,"Sofia Carolina Jo Brun","no porque ahora es cuando suban las tasas","raw_data/oldchats/25_06_julio_2020.txt","espanol",8,16,4.35
+"167",1471,2020-04-27,48,00:09:00,00:09:00,"Sebastian Alfonso Herrera Eyzaguirre","a mi me gustan las clases virtuales por el tiempo, y no les veo mucha diferencia con las presenciales","raw_data/oldchats/9_27_abril_2020.txt","espanol",19,21,5.1619818783609
+"168",1890,2020-05-04,101,01:01:22,01:01:22,"Jean Pierre Espinoza Rest","yes thanks","raw_data/oldchats/11_04_mayo_2020.txt","ingles",2,8,2.05
+"169",2444,2020-05-28,17,00:01:39,00:01:39,"Jean Pierre Espinoza Rest","profe parece que te estuvieras tomando una foto para instagram","raw_data/oldchats/16_28_mayo_2020.txt","espanol",10,18,4.63048202372184
+"170",1427,2020-04-27,4,00:02:49,00:02:49,"Santiago Jose Fernandez Pizarro","o sea con odio?","raw_data/oldchats/9_27_abril_2020.txt","espanol",4,10,3.5
+"171",1169,2020-04-20,401,01:34:02,01:34:02,"Nicolas Vegas Trivelli","para hacerlo?","raw_data/oldchats/7_20_abril_2020.txt","espanol",2,9,2.15
+"172",1789,2020-05-04,0,00:00:30,00:00:30,"Jean Pierre Espinoza Rest","2 weeks from now","raw_data/oldchats/11_04_mayo_2020.txt","ingles",4,11,3.6
+"173",1570,2020-04-27,147,00:20:05,00:20:05,"Marcelo Andres Villar Meza","la biblioteca","raw_data/oldchats/9_27_abril_2020.txt","espanol",2,8,2.05
+"174",3746,2020-06-20,52,01:00:43,01:00:43,"Andres Vilcahuaman Zermeno","no lo se","raw_data/oldchats/22_20_junio_2020.txt","espanol",3,6,2.99624062518029
+"175",2896,2020-06-01,203,01:18:02,01:18:02,"Edwin Miguel Prado Quispe","the golden ticket of risks","raw_data/oldchats/17_01_junio_2020.txt","espanol",5,15,4.08048202372184
+"176",4141,2020-07-02,168,02:06:02,02:06:02,"Santiago Jose Fernandez Pizarro","profe yo me voy a apropiar del servicio militar en perú","raw_data/oldchats/24_02_julio_2020.txt","espanol",11,21,4.96485790465932
+"177",2615,2020-05-28,188,01:23:57,01:23:57,"Edwin Miguel Prado Quispe","profe puede repetir, se colgo mi compu <U+0001F605>","raw_data/oldchats/16_28_mayo_2020.txt","espanol",8,25,5.25
+"178",2128,2020-05-14,55,00:10:14,00:10:14,"Sofia Carolina Jo Brun","o por el bb","raw_data/oldchats/14_14_mayo_2020.txt","espanol",4,7,3.2
+"179",4639,2020-07-09,291,01:02:30,01:02:30,"Edwin Miguel Prado Quispe","#keepagrireal","raw_data/oldchats/26_09_julio_2020.txt","espanol",1,11,2.1
+"180",3516,2020-06-13,17,00:18:21,00:18:21,"Roy Ernie Portilla Manzanares","seria como pagar por tener un fwd","raw_data/oldchats/20_13_junio_2020.txt","espanol",7,17,4.4018387305144
+"181",3566,2020-06-13,67,01:20:09,01:20:09,"Roy Ernie Portilla Manzanares","int risk para financiar los vehiculos?","raw_data/oldchats/20_13_junio_2020.txt","espanol",6,20,4.64624062518029
+"182",2814,2020-06-01,121,00:48:29,00:48:29,"Santiago Jose Fernandez Pizarro","que si archer lock","raw_data/oldchats/17_01_junio_2020.txt","espanol",4,13,3.8
+"183",2470,2020-05-28,43,00:05:07,00:05:07,"Andres Vilcahuaman Zermeno","pero no se cómo funciona","raw_data/oldchats/16_28_mayo_2020.txt","espanol",5,17,4.28048202372184
+"184",4139,2020-07-02,166,02:05:53,02:05:53,"Edwin Miguel Prado Quispe","alexa es skynet profe","raw_data/oldchats/24_02_julio_2020.txt","espanol",4,14,3.9
+"185",2345,2020-05-14,272,01:55:26,01:55:26,"Roy Ernie Portilla Manzanares","en porsche","raw_data/oldchats/14_14_mayo_2020.txt","espanol",2,9,2.15
+"186",616,2020-04-13,54,00:53:39,00:53:39,"Luciene Nicole Courquin Tejada","un sol para tu chiste","raw_data/oldchats/5_13_abril_2020.txt","espanol",5,14,3.98048202372184
+"187",3133,2020-06-08,90,00:10:28,00:10:28,"Jheysson Andre Roncal Valdivia","eso fue coreano","raw_data/oldchats/19_08_junio_2020.txt","espanol",3,10,3.39624062518029
+"188",1236,2020-04-23,18,00:09:19,00:09:19,"Marcelo Andres Villar Meza","pachinko no?","raw_data/oldchats/8_23_abril_2020.txt","ingles",2,9,2.15
+"189",962,2020-04-20,194,01:01:40,01:01:40,"Magaly Julisa Acuna Condori","o compremos?? ante la coyuntura","raw_data/oldchats/7_20_abril_2020.txt","espanol",5,15,4.08048202372184
+"190",1486,2020-04-27,63,00:10:07,00:10:07,"Sebastian Silva Ramal","fernandez tu no vas a clases no mientas","raw_data/oldchats/9_27_abril_2020.txt","espanol",8,17,4.45
+"191",1148,2020-04-20,380,01:31:55,01:31:55,"Alexander Johan Pacaya Samame","valero energy","raw_data/oldchats/7_20_abril_2020.txt","espanol",2,11,2.35
+"192",974,2020-04-20,206,01:03:01,01:03:01,"Nicolas Vegas Trivelli","estan como 620 millones","raw_data/oldchats/7_20_abril_2020.txt","espanol",4,14,3.9
+"193",1244,2020-04-23,26,00:12:29,00:12:29,"Santiago Jose Fernandez Pizarro","esos chinos raros","raw_data/oldchats/8_23_abril_2020.txt","ingles",3,10,3.39624062518029
+"194",2169,2020-05-14,96,00:26:02,00:26:02,"Not identifiable","eso pasó con alicorp","raw_data/oldchats/14_14_mayo_2020.txt","espanol",4,15,4
+"195",2242,2020-05-14,169,00:37:59,00:37:59,"Andres Vilcahuaman Zermeno","ni siquiera se si van a querer transportarse a sus oficinas","raw_data/oldchats/14_14_mayo_2020.txt","espanol",11,15,4.36485790465932
+"196",2123,2020-05-14,50,00:09:17,00:09:17,"Not identifiable","por qué me han suplantado","raw_data/oldchats/14_14_mayo_2020.txt","espanol",5,19,4.48048202372184
+"197",4532,2020-07-09,184,00:50:36,00:50:36,"Magaly Julisa Acuna Condori","has experimentado con nosotros","raw_data/oldchats/26_09_julio_2020.txt","espanol",4,15,4
+"198",3013,2020-06-06,45,00:47:18,00:47:18,"Jean Pierre Espinoza Rest","cultura de cambio","raw_data/oldchats/18_06_junio_2020.txt","espanol",3,13,3.69624062518029
+"199",2212,2020-05-14,139,00:31:17,00:31:17,"Magaly Julisa Acuna Condori","ya se te está escuchando mejor","raw_data/oldchats/14_14_mayo_2020.txt","espanol",6,19,4.54624062518029
+"200",2972,2020-06-06,4,00:00:12,00:00:12,"Sebastian Enrique Collantes Liendo","buen video","raw_data/oldchats/18_06_junio_2020.txt","espanol",2,8,2.05
+"201",2333,2020-05-14,260,01:29:55,01:29:55,"Roy Ernie Portilla Manzanares","13.80 dolares","raw_data/oldchats/14_14_mayo_2020.txt","espanol",2,12,2.45
+"202",3191,2020-06-08,148,00:14:50,00:14:50,"Silvana Lucia Orihuela Acosta","con articulo profe","raw_data/oldchats/19_08_junio_2020.txt","espanol",3,13,3.69624062518029
+"203",479,2020-04-11,27,00:20:39,00:20:39,"Jean Pierre Espinoza Rest","para promediar menos","raw_data/oldchats/4_11_abril_2020.txt","espanol",3,11,3.49624062518029
+"204",2017,2020-05-07,79,00:34:34,00:34:34,"Edwin Miguel Prado Quispe","la encuesta?","raw_data/oldchats/12_07_mayo_2020.txt","espanol",2,9,2.15
+"205",2059,2020-05-11,29,00:54:07,00:54:07,"Andres Vilcahuaman Zermeno","es santiago herrera","raw_data/oldchats/13_11_mayo_2020.txt","ingles",3,12,3.59624062518029
+"206",4537,2020-07-09,189,00:51:11,00:51:11,"Edwin Miguel Prado Quispe","sii profe <U+0001F61E>","raw_data/oldchats/26_09_julio_2020.txt","espanol",3,15,3.89624062518029
+"207",971,2020-04-20,203,01:02:49,01:02:49,"Edwin Miguel Prado Quispe","estrategia: fideicomiso","raw_data/oldchats/7_20_abril_2020.txt","espanol",2,14,2.65
+"208",3523,2020-06-13,24,00:23:47,00:23:47,"Roy Ernie Portilla Manzanares","lo movi para arriba","raw_data/oldchats/20_13_junio_2020.txt","espanol",4,10,3.5
+"209",3092,2020-06-08,49,00:05:15,00:05:15,"Andres Vilcahuaman Zermeno","al hablar bien","raw_data/oldchats/19_08_junio_2020.txt","espanol",3,9,3.29624062518029
+"210",535,2020-04-11,83,01:42:38,01:42:38,"Andres Vilcahuaman Zermeno","está muy mal repartido en la carrera conocí nomas a sofia y a chivi","raw_data/oldchats/4_11_abril_2020.txt","espanol",14,24,5.3518387305144
+"211",2531,2020-05-28,104,00:37:31,00:37:31,"Santiago Jose Fernandez Pizarro","profe, esta era la lectura para hoy?","raw_data/oldchats/16_28_mayo_2020.txt","espanol",7,16,4.3018387305144
+"212",895,2020-04-20,127,00:33:04,00:33:04,"Marcelo Andres Villar Meza","es un buen profe","raw_data/oldchats/7_20_abril_2020.txt","espanol",4,11,3.6
+"213",3862,2020-06-22,41,00:56:19,00:56:19,"Jheysson Andre Roncal Valdivia","ella es la que pregunta y nos echa el pato","raw_data/oldchats/23_22_junio_2020.txt","espanol",10,16,4.43048202372184
+"214",1955,2020-05-07,17,00:02:05,00:02:05,"Sebastian Alfonso Herrera Eyzaguirre","profe yo tengo una duda, el parcial como va a ser, pq creo que el ciclo pasado fue tipo un ensayo trabajo no?","raw_data/oldchats/12_07_mayo_2020.txt","espanol",23,24,5.53089048901425
+"215",3225,2020-06-08,182,00:16:34,00:16:34,"Santiago Jose Fernandez Pizarro","q te pasa vegas","raw_data/oldchats/19_08_junio_2020.txt","espanol",4,9,3.4
+"216",2649,2020-05-28,222,01:31:24,01:31:24,"Marcelo Andres Villar Meza","lolo fernández","raw_data/oldchats/16_28_mayo_2020.txt","espanol",2,14,2.65
+"217",2907,2020-06-01,214,01:23:10,01:23:10,"Magaly Julisa Acuna Condori","ruben, me preguntan si se puede ir en grupo a tus reus","raw_data/oldchats/17_01_junio_2020.txt","espanol",12,16,4.49624062518029
+"218",1306,2020-04-23,88,00:42:31,00:42:31,"Edwin Miguel Prado Quispe","solo te sale un check","raw_data/oldchats/8_23_abril_2020.txt","ingles",5,12,3.78048202372184
+"219",721,2020-04-18,72,01:09:36,01:09:36,"Santiago Jose Fernandez Pizarro","para regular el tc","raw_data/oldchats/6_18_abril_2020.txt","espanol",4,10,3.5
+"220",3873,2020-06-22,52,01:17:27,01:17:27,"Luciene Nicole Courquin Tejada","regulacion?","raw_data/oldchats/23_22_junio_2020.txt","espanol",1,11,2.1
+"221",3522,2020-06-13,23,00:23:35,00:23:35,"Fabio Yoshiki Kadena Matsuda","asi lo borras","raw_data/oldchats/20_13_junio_2020.txt","espanol",3,8,3.19624062518029
+"222",1018,2020-04-20,250,01:10:41,01:10:41,"Magaly Julisa Acuna Condori","pero en el contrato","raw_data/oldchats/7_20_abril_2020.txt","espanol",4,10,3.5
+"223",3489,2020-06-08,446,01:03:23,01:03:23,"Sofia Carolina Jo Brun","cuando la curva cambia contango entonces estaban perdiendo la posición de los futuros y por la contabilidad tenían que registrar mtm negativo de forma diaria y no podian salir de la posicion corta pq ese mercado era iliquido","raw_data/oldchats/19_08_junio_2020.txt","espanol",38,29,6.2119818783609
+"224",3550,2020-06-13,51,01:13:05,01:13:05,"Alexander Johan Pacaya Samame","weather risk","raw_data/oldchats/20_13_junio_2020.txt","espanol",2,9,2.15
+"225",2116,2020-05-14,43,00:08:34,00:08:34,"Not identifiable","el chistoso de andrés ha mandado el link a omegle","raw_data/oldchats/14_14_mayo_2020.txt","espanol",10,20,4.83048202372184
+"226",2454,2020-05-28,27,00:04:06,00:04:06,"Andres Vilcahuaman Zermeno","profe ya es streamer","raw_data/oldchats/16_28_mayo_2020.txt","espanol",4,11,3.6
+"227",1705,2020-04-27,282,00:56:07,00:56:07,"Sebastian Alfonso Herrera Eyzaguirre","usan bastantes sblc creo","raw_data/oldchats/9_27_abril_2020.txt","espanol",4,15,4
+"228",523,2020-04-11,71,01:39:03,01:39:03,"Alejandra Cristina Samame Dulanto","la de credicrop es mujer","raw_data/oldchats/4_11_abril_2020.txt","espanol",5,14,3.98048202372184
+"229",956,2020-04-20,188,00:58:57,00:58:57,"Santiago Jose Fernandez Pizarro","tu internet es caca","raw_data/oldchats/7_20_abril_2020.txt","espanol",4,10,3.5
+"230",4219,2020-07-06,52,00:09:09,00:09:09,"Sofia Carolina Jo Brun","tienes con cuenta de gmail","raw_data/oldchats/25_06_julio_2020.txt","espanol",5,14,3.98048202372184
+"231",1673,2020-04-27,250,00:36:42,00:36:42,"Sebastian Enrique Collantes Liendo","por ultimo podrian adaptar los tramites de recategorizacion para implementarlos en este contexto","raw_data/oldchats/9_27_abril_2020.txt","espanol",13,18,4.72510992953527
+"232",4563,2020-07-09,215,00:54:23,00:54:23,"Sebastian Silva Ramal","es un ensayo","raw_data/oldchats/26_09_julio_2020.txt","espanol",3,8,3.19624062518029
+"233",2727,2020-06-01,34,00:15:15,00:15:15,"Sofia Carolina Jo Brun","es que el tiempo es diferente en el espacio","raw_data/oldchats/17_01_junio_2020.txt","espanol",9,17,4.49248125036058
+"234",4142,2020-07-02,169,02:06:07,02:06:07,"Santiago Jose Fernandez Pizarro","todos los rojos al frontón","raw_data/oldchats/24_02_julio_2020.txt","espanol",5,15,4.08048202372184
+"235",2372,2020-05-25,17,00:22:59,00:22:59,"Sebastian Alfonso Herrera Eyzaguirre","profe no te olvides de los trabajos extra que dejaste para puntos en la pc","raw_data/oldchats/15_25_mayo_2020.txt","espanol",15,20,4.97672264890213
+"236",4332,2020-07-06,165,01:27:54,01:27:54,"Sergio Sebastian Salazar Relayze","en el aire","raw_data/oldchats/25_06_julio_2020.txt","espanol",3,7,3.09624062518029
+"237",4546,2020-07-09,198,00:52:59,00:52:59,"Fabio Yoshiki Kadena Matsuda","profe igual hay dirigida el sabado no?","raw_data/oldchats/26_09_julio_2020.txt","espanol",7,18,4.5018387305144
+"238",811,2020-04-20,43,00:26:47,00:26:47,"Santiago Jose Fernandez Pizarro","menos con sebastián herrera","raw_data/oldchats/7_20_abril_2020.txt","espanol",4,17,4.2
+"239",4253,2020-07-06,86,00:17:45,00:17:45,"Sergio Sebastian Salazar Relayze","una short put es perdida ilimitada","raw_data/oldchats/25_06_julio_2020.txt","espanol",6,15,4.14624062518029
+"240",2473,2020-05-28,46,00:06:53,00:06:53,"Viviana Purita Cotrina Verano","me escucha?","raw_data/oldchats/16_28_mayo_2020.txt","espanol",2,8,2.05
+"241",1837,2020-05-04,48,00:31:00,00:31:00,"Andres Vilcahuaman Zermeno","taba en llamada creo","raw_data/oldchats/11_04_mayo_2020.txt","ingles",4,12,3.7
+"242",1765,2020-05-02,36,01:19:06,01:19:06,"Sebastian Enrique Collantes Liendo","los spreads","raw_data/oldchats/10_02_mayo_2020.txt","espanol",2,8,2.05
+"243",875,2020-04-20,107,00:30:59,00:30:59,"Alonso Torres Leon","en breves nos dice creo","raw_data/oldchats/7_20_abril_2020.txt","espanol",5,11,3.68048202372184
+"244",3777,2020-06-20,83,01:23:25,01:23:25,"Diego Satornicio Melgarejo","de climas altps","raw_data/oldchats/22_20_junio_2020.txt","espanol",3,11,3.49624062518029
+"245",3912,2020-06-22,91,01:54:07,01:54:07,"Nicolas Vegas Trivelli","y si hacemos chanchita?","raw_data/oldchats/23_22_junio_2020.txt","espanol",4,13,3.8
+"246",2843,2020-06-01,150,00:52:36,00:52:36,"Nicole Marcella Condori Cubillas","high school era europa, china, mexico y africa","raw_data/oldchats/17_01_junio_2020.txt","espanol",8,19,4.65
+"247",4569,2020-07-09,221,00:55:22,00:55:22,"Sebastian Silva Ramal","pero asi de","raw_data/oldchats/26_09_julio_2020.txt","espanol",3,9,3.29624062518029
+"248",2795,2020-06-01,102,00:46:35,00:46:35,"Andres Vilcahuaman Zermeno","por eso los separaron","raw_data/oldchats/17_01_junio_2020.txt","espanol",4,9,3.4
+"249",4491,2020-07-09,143,00:45:41,00:45:41,"Silvana Lucia Orihuela Acosta","apagala mejor","raw_data/oldchats/26_09_julio_2020.txt","espanol",2,9,2.15
+"250",963,2020-04-20,195,01:01:47,01:01:47,"Magaly Julisa Acuna Condori","para poder satisfacer la demanda??","raw_data/oldchats/7_20_abril_2020.txt","espanol",5,16,4.18048202372184
+"251",3320,2020-06-08,277,00:21:05,00:21:05,"Santiago Jose Fernandez Pizarro","gran serie","raw_data/oldchats/19_08_junio_2020.txt","espanol",2,8,2.05
+"252",1454,2020-04-27,31,00:06:01,00:06:01,"Maria Gracia Garcia Garces","no se puede elegir","raw_data/oldchats/9_27_abril_2020.txt","espanol",4,12,3.7
+"253",3555,2020-06-13,56,01:14:45,01:14:45,"Sebastian Aybar Guerrero","high frequency","raw_data/oldchats/20_13_junio_2020.txt","espanol",2,11,2.35
+"254",4536,2020-07-09,188,00:51:10,00:51:10,"Magaly Julisa Acuna Condori","cuántas preguntas son???","raw_data/oldchats/26_09_julio_2020.txt","espanol",3,17,4.09624062518029
+"255",3938,2020-06-22,117,01:56:40,01:56:40,"Sebastian Silva Ramal","si saca menos de 9 es 0","raw_data/oldchats/23_22_junio_2020.txt","espanol",7,12,3.9018387305144
+"256",1013,2020-04-20,245,01:10:10,01:10:10,"Magaly Julisa Acuna Condori","yo lo que pensaba era ahora que necesitan","raw_data/oldchats/7_20_abril_2020.txt","espanol",8,17,4.45
+"257",3565,2020-06-13,66,01:20:00,01:20:00,"Sebastian Aybar Guerrero","correlacion negativa con los precios del oil?","raw_data/oldchats/20_13_junio_2020.txt","espanol",7,16,4.3018387305144
+"258",1857,2020-05-04,68,00:43:50,00:43:50,"Jean Pierre Espinoza Rest","from an accounting perspective","raw_data/oldchats/11_04_mayo_2020.txt","ingles",4,16,4.1
+"259",2883,2020-06-01,190,01:02:26,01:02:26,"Silvana Lucia Orihuela Acosta","riesgo e volumen","raw_data/oldchats/17_01_junio_2020.txt","espanol",3,12,3.59624062518029
+"260",3552,2020-06-13,53,01:14:07,01:14:07,"Alexander Johan Pacaya Samame","robos de vehiculos","raw_data/oldchats/20_13_junio_2020.txt","espanol",3,13,3.69624062518029
+"261",1528,2020-04-27,105,00:18:03,00:18:03,"Santiago Jose Fernandez Pizarro","creo que la ha gestionado bien","raw_data/oldchats/9_27_abril_2020.txt","espanol",6,17,4.34624062518029
+"262",3638,2020-06-15,49,00:22:05,00:22:05,"Andres Vilcahuaman Zermeno","mucho dross","raw_data/oldchats/21_15_junio_2020.txt","espanol",2,8,2.05
+"263",2033,2020-05-11,3,00:35:37,00:35:37,"Santiago Jose Fernandez Pizarro","fx trading","raw_data/oldchats/13_11_mayo_2020.txt","ingles",2,9,2.15
+"264",2755,2020-06-01,62,00:24:32,00:24:32,"Sofia Carolina Jo Brun","marte es el back up en caso la tierra colapse","raw_data/oldchats/17_01_junio_2020.txt","espanol",10,16,4.43048202372184
+"265",2797,2020-06-01,104,00:46:40,00:46:40,"Santiago Jose Fernandez Pizarro","es fria y calculadora","raw_data/oldchats/17_01_junio_2020.txt","espanol",4,13,3.8
+"266",3885,2020-06-22,64,01:43:28,01:43:28,"Fernando Bravo Benavides","estarias asumiendo que no defaultea","raw_data/oldchats/23_22_junio_2020.txt","espanol",5,15,4.08048202372184
+"267",1342,2020-04-23,124,00:44:53,00:44:53,"Santiago Jose Fernandez Pizarro","es darles la confianza para que pregunten","raw_data/oldchats/8_23_abril_2020.txt","ingles",7,18,4.5018387305144
+"268",2633,2020-05-28,206,01:27:42,01:27:42,"Santiago Jose Fernandez Pizarro","tienes que tener un backup","raw_data/oldchats/16_28_mayo_2020.txt","espanol",5,14,3.98048202372184
+"269",2467,2020-05-28,40,00:04:32,00:04:32,"Jheysson Andre Roncal Valdivia","nunguna tienda envia rapido","raw_data/oldchats/16_28_mayo_2020.txt","espanol",4,13,3.8
+"270",3141,2020-06-08,98,00:10:39,00:10:39,"Magaly Julisa Acuna Condori","cuánta participación","raw_data/oldchats/19_08_junio_2020.txt","espanol",2,13,2.55
+"271",1010,2020-04-20,242,01:08:44,01:08:44,"Xiomi Anny Garcia Palomino","aseguramos la flujos a futuro","raw_data/oldchats/7_20_abril_2020.txt","espanol",5,14,3.98048202372184
+"272",3521,2020-06-13,22,00:23:33,00:23:33,"Fabio Yoshiki Kadena Matsuda","dibuja con color blanco","raw_data/oldchats/20_13_junio_2020.txt","espanol",4,12,3.7
+"273",2621,2020-05-28,194,01:24:12,01:24:12,"Jheysson Andre Roncal Valdivia","y recien avisas","raw_data/oldchats/16_28_mayo_2020.txt","espanol",3,10,3.39624062518029
+"274",838,2020-04-20,70,00:28:03,00:28:03,"Jheysson Andre Roncal Valdivia","aleatorio y sin reemplazo","raw_data/oldchats/7_20_abril_2020.txt","espanol",4,14,3.9
+"275",2847,2020-06-01,154,00:53:41,00:53:41,"Santiago Jose Fernandez Pizarro","colegio es high school, colegas","raw_data/oldchats/17_01_junio_2020.txt","espanol",5,11,3.68048202372184
+"276",3008,2020-06-06,40,00:36:57,00:36:57,"Alejandra Cristina Samame Dulanto","landing  2-5%","raw_data/oldchats/18_06_junio_2020.txt","espanol",2,11,2.35
+"277",673,2020-04-18,24,00:42:17,00:42:17,"Andres Vilcahuaman Zermeno","osea tan secured","raw_data/oldchats/6_18_abril_2020.txt","espanol",3,11,3.49624062518029
+"278",1135,2020-04-20,367,01:30:30,01:30:30,"Sebastian Aybar Guerrero","por donde lo avanzamos?","raw_data/oldchats/7_20_abril_2020.txt","espanol",4,14,3.9
+"279",4462,2020-07-09,114,00:44:10,00:44:10,"Jheysson Andre Roncal Valdivia","pc1 15% y case study 15%","raw_data/oldchats/26_09_julio_2020.txt","espanol",6,13,3.94624062518029
+"280",3107,2020-06-08,64,00:07:23,00:07:23,"Sebastian Alfonso Herrera Eyzaguirre","ya hasta busque en youtube profe","raw_data/oldchats/19_08_junio_2020.txt","espanol",6,15,4.14624062518029
+"281",1637,2020-04-27,214,00:28:04,00:28:04,"Andres Vilcahuaman Zermeno","ha sido un gusto sofia","raw_data/oldchats/9_27_abril_2020.txt","espanol",5,13,3.88048202372184
+"282",2409,2020-05-25,54,00:36:58,00:36:58,"Santiago Jose Fernandez Pizarro","probablemente fue la mia","raw_data/oldchats/15_25_mayo_2020.txt","espanol",4,14,3.9
+"283",1681,2020-04-27,258,00:38:54,00:38:54,"Andres Vilcahuaman Zermeno","son unos locasos","raw_data/oldchats/9_27_abril_2020.txt","espanol",3,8,3.19624062518029
+"284",4224,2020-07-06,57,00:09:36,00:09:36,"Sergio Sebastian Salazar Relayze","yo te digo como","raw_data/oldchats/25_06_julio_2020.txt","espanol",4,10,3.5
+"285",698,2020-04-18,49,01:04:54,01:04:54,"Sebastian Alfonso Herrera Eyzaguirre","la ministra tweetio que podía tomarse como el nuevo rf de la región, eso es verdad?","raw_data/oldchats/6_18_abril_2020.txt","espanol",16,28,5.8
+"286",3514,2020-06-13,15,00:18:00,00:18:00,"Roy Ernie Portilla Manzanares","fijas el precio","raw_data/oldchats/20_13_junio_2020.txt","espanol",3,12,3.59624062518029
+"287",701,2020-04-18,52,01:05:16,01:05:16,"Jean Pierre Espinoza Rest","ipts announced","raw_data/oldchats/6_18_abril_2020.txt","espanol",2,11,2.35
+"288",3841,2020-06-22,20,00:22:16,00:22:16,"Sebastian Alfonso Herrera Eyzaguirre","profe un sblc cumpliria en garantia?","raw_data/oldchats/23_22_junio_2020.txt","espanol",6,20,4.64624062518029
+"289",2439,2020-05-28,12,00:01:23,00:01:23,"Sofia Carolina Jo Brun","y con filtro","raw_data/oldchats/16_28_mayo_2020.txt","espanol",3,10,3.39624062518029
+"290",774,2020-04-20,6,00:23:44,00:23:44,"Magaly Julisa Acuna Condori","los grupos cómo se formarán??","raw_data/oldchats/7_20_abril_2020.txt","espanol",5,20,4.58048202372184
+"291",3776,2020-06-20,82,01:23:24,01:23:24,"Luciene Nicole Courquin Tejada","que la temperatura suba","raw_data/oldchats/22_20_junio_2020.txt","espanol",4,12,3.7
+"292",1655,2020-04-27,232,00:34:59,00:34:59,"Andres Vilcahuaman Zermeno","confesiones up es tu fuente?","raw_data/oldchats/9_27_abril_2020.txt","espanol",5,13,3.88048202372184
+"293",348,2020-04-02,102,01:29:38,01:29:38,"Nicolas Vegas Trivelli","ya diijo que si","raw_data/oldchats/2_02_abril_2020.txt","ingles",4,11,3.6
+"294",3599,2020-06-15,10,00:00:50,00:00:50,"Sofia Carolina Jo Brun","no confie en herrera","raw_data/oldchats/21_15_junio_2020.txt","espanol",4,10,3.5
+"295",1152,2020-04-20,384,01:32:19,01:32:19,"Nicolas Vegas Trivelli","que dia tienen mas libre? para avanzarlo","raw_data/oldchats/7_20_abril_2020.txt","espanol",7,19,4.6018387305144
+"296",1095,2020-04-20,327,01:22:41,01:22:41,"Alexander Johan Pacaya Samame","pendiente de la infraestructura del barquito","raw_data/oldchats/7_20_abril_2020.txt","espanol",6,17,4.34624062518029
+"297",3569,2020-06-13,70,01:22:45,01:22:45,"Diego Satornicio Melgarejo","costos en otro moneda","raw_data/oldchats/20_13_junio_2020.txt","espanol",4,11,3.6
+"298",4283,2020-07-06,116,00:57:09,00:57:09,"Silvana Lucia Orihuela Acosta","https://drive.google.com/file/d/1l3tmnuq7zeswn-hkg3bxucn741hnynee/view","raw_data/oldchats/25_06_julio_2020.txt","espanol",1,38,4.8
+"299",2944,2020-06-01,251,01:26:28,01:26:28,"Edwin Miguel Prado Quispe","que sea 20","raw_data/oldchats/17_01_junio_2020.txt","espanol",3,8,3.19624062518029
+"300",1145,2020-04-20,377,01:31:26,01:31:26,"Nicolas Vegas Trivelli","n.vegast@alum.up.edu.pe","raw_data/oldchats/7_20_abril_2020.txt","espanol",1,14,2.4
+"301",4595,2020-07-09,247,00:56:59,00:56:59,"Sebastian Silva Ramal","la falta de trabajos en pareja lo tiene preocupado","raw_data/oldchats/26_09_julio_2020.txt","espanol",9,17,4.49248125036058
+"302",3717,2020-06-20,23,00:25:23,00:25:23,"Sebastian Silva Ramal","a mi tmbn","raw_data/oldchats/22_20_junio_2020.txt","espanol",3,7,3.09624062518029
+"303",2163,2020-05-14,90,00:21:42,00:21:42,"Not identifiable","no le robes el internet a tu vecino","raw_data/oldchats/14_14_mayo_2020.txt","espanol",8,14,4.15
+"304",772,2020-04-20,4,00:11:17,00:11:17,"Sofia Carolina Jo Brun","profe cuales serian","raw_data/oldchats/7_20_abril_2020.txt","espanol",3,13,3.69624062518029
+"305",687,2020-04-18,38,00:57:17,00:57:17,"Santiago Jose Fernandez Pizarro","a tasas bajísimas","raw_data/oldchats/6_18_abril_2020.txt","espanol",3,12,3.59624062518029
+"306",517,2020-04-11,65,01:32:22,01:32:22,"Magaly Julisa Acuna Condori","son estereotipos","raw_data/oldchats/4_11_abril_2020.txt","espanol",2,8,2.05
+"307",3201,2020-06-08,158,00:15:13,00:15:13,"Jheysson Andre Roncal Valdivia","silvana llevo clases de aleman en alemania","raw_data/oldchats/19_08_junio_2020.txt","espanol",7,12,3.9018387305144
+"308",1938,2020-05-07,0,00:00:00,00:00:00,"Andres Vilcahuaman Zermeno","profe 0 tráfico","raw_data/oldchats/12_07_mayo_2020.txt","espanol",3,14,3.79624062518029
+"309",2276,2020-05-14,203,00:47:34,00:47:34,"Nicolas Vegas Trivelli","de porsche a bembos","raw_data/oldchats/14_14_mayo_2020.txt","espanol",4,12,3.7
+"310",1007,2020-04-20,239,01:08:34,01:08:34,"Nicolas Vegas Trivelli","podemos pensar en productos financieros para que se emocione el profe?","raw_data/oldchats/7_20_abril_2020.txt","espanol",11,18,4.66485790465932
+"311",2844,2020-06-01,151,00:52:59,00:52:59,"Alejandra Sofia Solis Rodriguez","high school mandaba 20k mientras que college mandaba a 5k","raw_data/oldchats/17_01_junio_2020.txt","espanol",10,23,5.13048202372184
+"312",3757,2020-06-20,63,01:06:47,01:06:47,"Fernando Bravo Benavides","el aumento de temperatura","raw_data/oldchats/22_20_junio_2020.txt","espanol",4,12,3.7
+"313",3005,2020-06-06,37,00:36:22,00:36:22,"Silvana Lucia Orihuela Acosta","arrendamiento equipos 5-10%","raw_data/oldchats/18_06_junio_2020.txt","espanol",3,19,4.29624062518029
+"314",2596,2020-05-28,169,01:10:01,01:10:01,"Jheysson Andre Roncal Valdivia","estaba comiendo su sublime","raw_data/oldchats/16_28_mayo_2020.txt","espanol",4,14,3.9
+"315",2504,2020-05-28,77,00:07:57,00:07:57,"Santiago Jose Fernandez Pizarro","profe creo que el micro viene con auricular","raw_data/oldchats/16_28_mayo_2020.txt","espanol",8,15,4.25
+"316",2612,2020-05-28,185,01:17:06,01:17:06,"Marcelo Andres Villar Meza","no entiendo la letra","raw_data/oldchats/16_28_mayo_2020.txt","espanol",4,11,3.6
+"317",775,2020-04-20,7,00:24:01,00:24:01,"Andres Vilcahuaman Zermeno","creo que van a salir las preguntas mientras trabajemos profe","raw_data/oldchats/7_20_abril_2020.txt","espanol",10,20,4.83048202372184
+"318",1483,2020-04-27,60,00:09:54,00:09:54,"Sebastian Silva Ramal","regresas a dormir","raw_data/oldchats/9_27_abril_2020.txt","espanol",3,10,3.39624062518029
+"319",2375,2020-05-25,20,00:30:04,00:30:04,"Magaly Julisa Acuna Condori","tengo que llenar un formulario","raw_data/oldchats/15_25_mayo_2020.txt","espanol",5,14,3.98048202372184
+"320",4550,2020-07-09,202,00:53:27,00:53:27,"Sebastian Alfonso Herrera Eyzaguirre","ni pidas eso","raw_data/oldchats/26_09_julio_2020.txt","espanol",3,9,3.29624062518029
+"321",4001,2020-07-02,28,00:12:43,00:12:43,"Nicolas Vegas Trivelli","le caimos mal <U+0001F61E>","raw_data/oldchats/24_02_julio_2020.txt","espanol",4,17,4.2
+"322",4554,2020-07-09,206,00:53:43,00:53:43,"Santiago Jose Fernandez Pizarro","mejor hazle propaganda a vero mendoza","raw_data/oldchats/26_09_julio_2020.txt","espanol",6,15,4.14624062518029
+"323",1098,2020-04-20,330,01:22:48,01:22:48,"Viviana Purita Cotrina Verano","vivianacotrina29@gmail.com","raw_data/oldchats/7_20_abril_2020.txt","espanol",1,15,2.5
+"324",4216,2020-07-06,49,00:09:00,00:09:00,"Sebastian Silva Ramal","subirlo a bb?","raw_data/oldchats/25_06_julio_2020.txt","espanol",3,10,3.39624062518029
+"325",1032,2020-04-20,264,01:13:40,01:13:40,"Magaly Julisa Acuna Condori","pero recordemos que hemos adqirido más embarcaciones","raw_data/oldchats/7_20_abril_2020.txt","espanol",7,20,4.7018387305144
+"326",2624,2020-05-28,197,01:24:16,01:24:16,"Roy Ernie Portilla Manzanares","solo 1 min","raw_data/oldchats/16_28_mayo_2020.txt","espanol",3,8,3.19624062518029
+"327",54,2020-03-30,53,00:16:02,00:16:02,"Jean Pierre Espinoza Rest","como se pone la foto?","raw_data/oldchats/1_30_marzo_2020.txt","espanol",5,13,3.88048202372184
+"328",3734,2020-06-20,40,00:47:33,00:47:33,"Sergio Sebastian Salazar Relayze","se perjudica con bajas","raw_data/oldchats/22_20_junio_2020.txt","espanol",4,14,3.9
+"329",873,2020-04-20,105,00:30:53,00:30:53,"Andres Vilcahuaman Zermeno","no se´puesss","raw_data/oldchats/7_20_abril_2020.txt","espanol",2,10,2.25
+"330",4500,2020-07-09,152,00:46:16,00:46:16,"Sebastian Silva Ramal","se redondea pa arriba","raw_data/oldchats/26_09_julio_2020.txt","espanol",4,11,3.6
+"331",2581,2020-05-28,154,01:06:33,01:06:33,"Magaly Julisa Acuna Condori","desde hace rato se escucha eso","raw_data/oldchats/16_28_mayo_2020.txt","espanol",6,11,3.74624062518029
+"332",1749,2020-05-02,20,00:48:29,00:48:29,"Andres Vilcahuaman Zermeno","profe porque en año 2 marcabas 0 de ganancia en swap spread","raw_data/oldchats/10_02_mayo_2020.txt","espanol",12,25,5.39624062518029
+"333",1888,2020-05-04,99,00:55:49,00:55:49,"Jean Pierre Espinoza Rest","rules of thumb?","raw_data/oldchats/11_04_mayo_2020.txt","ingles",3,13,3.69624062518029
+"334",3728,2020-06-20,34,00:36:27,00:36:27,"Edwin Miguel Prado Quispe","no, porque no lo puedes tradear","raw_data/oldchats/22_20_junio_2020.txt","espanol",6,14,4.04624062518029
+"335",1877,2020-05-04,88,00:46:59,00:46:59,"Andres Vilcahuaman Zermeno","el garabato","raw_data/oldchats/11_04_mayo_2020.txt","ingles",2,8,2.05
+"336",2101,2020-05-14,28,00:07:42,00:07:42,"Marcelo Villar Meza","por que hay dos fernández?","raw_data/oldchats/14_14_mayo_2020.txt","espanol",5,20,4.58048202372184
+"337",4603,2020-07-09,255,00:57:36,00:57:36,"Alejandra Cristina Samame Dulanto","<U+0001F602> <U+0001F602>","raw_data/oldchats/26_09_julio_2020.txt","espanol",2,9,2.15
+"338",3052,2020-06-08,9,00:00:35,00:00:35,"Andres Vilcahuaman Zermeno","profe y la competicion del metellchanfel","raw_data/oldchats/19_08_junio_2020.txt","espanol",6,16,4.24624062518029
+"339",4562,2020-07-09,214,00:54:23,00:54:23,"Edwin Miguel Prado Quispe","es aplicativo pero no númerico","raw_data/oldchats/26_09_julio_2020.txt","espanol",5,18,4.38048202372184
+"340",1226,2020-04-23,8,00:01:38,00:01:38,"Santiago Jose Fernandez Pizarro","lo que hace uno por amor","raw_data/oldchats/8_23_abril_2020.txt","ingles",6,13,3.94624062518029
+"341",2207,2020-05-14,134,00:30:08,00:30:08,"Fabio Yoshiki Kadena Matsuda","sacar el wifi del telefono hace que el internet corra mejor a veces o facil cerrar mas pestañas","raw_data/oldchats/14_14_mayo_2020.txt","espanol",18,25,5.54248125036058
+"342",1259,2020-04-23,41,00:14:50,00:14:50,"Andres Vilcahuaman Zermeno","y lo demas","raw_data/oldchats/8_23_abril_2020.txt","ingles",3,9,3.29624062518029
+"343",59,2020-03-30,58,00:16:39,00:16:39,"Jean Pierre Espinoza Rest","buena voz","raw_data/oldchats/1_30_marzo_2020.txt","espanol",2,8,2.05
+"344",1405,2020-04-23,187,01:41:25,01:41:25,"Andres Vilcahuaman Zermeno","subir y bajar 50bps","raw_data/oldchats/8_23_abril_2020.txt","ingles",4,12,3.7
+"345",1058,2020-04-20,290,01:17:42,01:17:42,"Sebastian Aybar Guerrero","por las multas dices?","raw_data/oldchats/7_20_abril_2020.txt","espanol",4,15,4
+"346",4383,2020-07-09,35,00:39:06,00:39:06,"Jheysson Andre Roncal Valdivia","segundo brote","raw_data/oldchats/26_09_julio_2020.txt","espanol",2,10,2.25
+"347",2249,2020-05-14,176,00:38:49,00:38:49,"Edwin Miguel Prado Quispe","home office 4 life","raw_data/oldchats/14_14_mayo_2020.txt","espanol",4,10,3.5
+"348",3265,2020-06-08,222,00:18:52,00:18:52,"Sebastian Enrique Collantes Liendo","camara profe","raw_data/oldchats/19_08_junio_2020.txt","espanol",2,8,2.05
+"349",1002,2020-04-20,234,01:08:03,01:08:03,"Nicolas Vegas Trivelli","les hacemos tipo un swap que regularice sus tasas o algo asi","raw_data/oldchats/7_20_abril_2020.txt","espanol",12,18,4.69624062518029
+"350",426,2020-04-06,49,01:20:27,01:20:27,"Sergio Sebastian Salazar Relayze","profe, puedes repetir lo del promedio?","raw_data/oldchats/3_06_abril_2020.txt","espanol",6,16,4.24624062518029
+"351",4392,2020-07-09,44,00:39:36,00:39:36,"Nicolas Vegas Trivelli","grupal y con camara","raw_data/oldchats/26_09_julio_2020.txt","espanol",4,12,3.7
+"352",2267,2020-05-14,194,00:43:58,00:43:58,"Sebastian Enrique Collantes Liendo","es demasiado costoso","raw_data/oldchats/14_14_mayo_2020.txt","espanol",3,10,3.39624062518029
+"353",3317,2020-06-08,274,00:20:51,00:20:51,"Sofia Carolina Jo Brun","se puso serio","raw_data/oldchats/19_08_junio_2020.txt","espanol",3,8,3.19624062518029
+"354",4315,2020-07-06,148,01:06:10,01:06:10,"Andres Vilcahuaman Zermeno","buen sencillo","raw_data/oldchats/25_06_julio_2020.txt","espanol",2,9,2.15
+"355",1122,2020-04-20,354,01:28:11,01:28:11,"Sebastian Alfonso Herrera Eyzaguirre","sa.herrerae@alum.up.edu.pe","raw_data/oldchats/7_20_abril_2020.txt","espanol",1,12,2.2
+"356",1859,2020-05-04,70,00:45:03,00:45:03,"Jean Pierre Espinoza Rest","like elasticity?","raw_data/oldchats/11_04_mayo_2020.txt","ingles",2,10,2.25
+"357",4089,2020-07-02,116,01:36:21,01:36:21,"Andres Vilcahuaman Zermeno","de pronunciación en aleman","raw_data/oldchats/24_02_julio_2020.txt","espanol",4,17,4.2
+"358",2323,2020-05-14,250,01:15:37,01:15:37,"Andres Vilcahuaman Zermeno","por más hedge","raw_data/oldchats/14_14_mayo_2020.txt","espanol",3,14,3.79624062518029
+"359",938,2020-04-20,170,00:42:57,00:42:57,"Alonso Torres Leon","la industria del petróleo se divide normalmente en tres fases:","raw_data/oldchats/7_20_abril_2020.txt","espanol",10,22,5.03048202372184
+"360",4246,2020-07-06,79,00:16:21,00:16:21,"Silvana Lucia Orihuela Acosta","depende de qué tan riesgosa es tu contraparte","raw_data/oldchats/25_06_julio_2020.txt","espanol",8,19,4.65
+"361",4406,2020-07-09,58,00:41:05,00:41:05,"Nicolas Vegas Trivelli","se presta a que algunos les toca mas dfiicil","raw_data/oldchats/26_09_julio_2020.txt","espanol",9,19,4.69248125036058
+"362",423,2020-04-06,46,01:03:13,01:03:13,"Diego Satornicio Melgarejo","nosotros podemos hacer zoom","raw_data/oldchats/3_06_abril_2020.txt","espanol",4,14,3.9
+"363",2903,2020-06-01,210,01:21:32,01:21:32,"Edwin Miguel Prado Quispe","home office*","raw_data/oldchats/17_01_junio_2020.txt","espanol",2,8,2.05
+"364",3178,2020-06-08,135,00:13:29,00:13:29,"Andres Vilcahuaman Zermeno","metallgeselschaft ahi ta","raw_data/oldchats/19_08_junio_2020.txt","espanol",3,12,3.59624062518029
+"365",1497,2020-04-27,74,00:10:37,00:10:37,"Roy Ernie Portilla Manzanares","comer y ver la clase x2","raw_data/oldchats/9_27_abril_2020.txt","espanol",6,13,3.94624062518029
+"366",1284,2020-04-23,66,00:40:42,00:40:42,"Nicolas Vegas Trivelli","cuando es medio yuca","raw_data/oldchats/8_23_abril_2020.txt","ingles",4,12,3.7
+"367",2243,2020-05-14,170,00:38:11,00:38:11,"Andres Vilcahuaman Zermeno","normal se quedan en su jato","raw_data/oldchats/14_14_mayo_2020.txt","espanol",6,14,4.04624062518029
+"368",4390,2020-07-09,42,00:39:33,00:39:33,"Edwin Miguel Prado Quispe","ah verdad profe quedo la pregunta no?","raw_data/oldchats/26_09_julio_2020.txt","espanol",7,17,4.4018387305144
+"369",3486,2020-06-08,443,00:58:34,00:58:34,"Sofia Carolina Jo Brun","es que es el mismatch de tenor","raw_data/oldchats/19_08_junio_2020.txt","espanol",7,16,4.3018387305144
+"370",1393,2020-04-23,175,01:29:51,01:29:51,"Andres Vilcahuaman Zermeno","yu need to have the contract clear","raw_data/oldchats/8_23_abril_2020.txt","ingles",7,14,4.1018387305144
+"371",1189,2020-04-20,421,01:35:55,01:35:55,"Diana Carolina Ponte Villalaz","dc.pontev@alum.up.edu.pe","raw_data/oldchats/7_20_abril_2020.txt","espanol",1,14,2.4
+"372",4416,2020-07-09,68,00:41:31,00:41:31,"Santiago Jose Fernandez Pizarro","quién no envió","raw_data/oldchats/26_09_julio_2020.txt","espanol",3,13,3.69624062518029
+"373",4323,2020-07-06,156,01:13:57,01:13:57,"Marcelo Andres Villar Meza","poco ético por parte de bs","raw_data/oldchats/25_06_julio_2020.txt","espanol",6,17,4.34624062518029
+"374",4042,2020-07-02,69,01:33:09,01:33:09,"Magaly Julisa Acuna Condori","yo fui amable","raw_data/oldchats/24_02_julio_2020.txt","espanol",3,11,3.49624062518029
+"375",2746,2020-06-01,53,00:23:18,00:23:18,"Nicole Marcella Condori Cubillas","solo los mas ricos","raw_data/oldchats/17_01_junio_2020.txt","espanol",4,9,3.4
+"376",2939,2020-06-01,246,01:26:18,01:26:18,"Sebastian Alfonso Herrera Eyzaguirre","no lo habiamos pasado al 20?","raw_data/oldchats/17_01_junio_2020.txt","espanol",6,15,4.14624062518029
+"377",4072,2020-07-02,99,01:35:37,01:35:37,"Sebastian Silva Ramal","voy a jalar","raw_data/oldchats/24_02_julio_2020.txt","espanol",3,8,3.19624062518029
+"378",4442,2020-07-09,94,00:43:09,00:43:09,"Jheysson Andre Roncal Valdivia","magaly esta en otras","raw_data/oldchats/26_09_julio_2020.txt","espanol",4,12,3.7
+"379",3181,2020-06-08,138,00:14:11,00:14:11,"Nicolas Vegas Trivelli","voten por mi voten por el pueblo","raw_data/oldchats/19_08_junio_2020.txt","espanol",7,14,4.1018387305144
+"380",2764,2020-06-01,71,00:25:55,00:25:55,"Magaly Julisa Acuna Condori","quiere su 20 profe","raw_data/oldchats/17_01_junio_2020.txt","espanol",4,12,3.7
+"381",901,2020-04-20,133,00:33:21,00:33:21,"Jean Pierre Espinoza Rest","facil vamos trabajando en una empresa porsiaca","raw_data/oldchats/7_20_abril_2020.txt","espanol",7,19,4.6018387305144
+"382",919,2020-04-20,151,00:34:43,00:34:43,"Santiago Jose Fernandez Pizarro","1) alta liquidez","raw_data/oldchats/7_20_abril_2020.txt","espanol",3,13,3.69624062518029
+"383",2882,2020-06-01,189,01:02:21,01:02:21,"Marcelo Andres Villar Meza","volumen  y precios competitivos","raw_data/oldchats/17_01_junio_2020.txt","espanol",4,15,4
+"384",814,2020-04-20,46,00:27:15,00:27:15,"Sebastian Alfonso Herrera Eyzaguirre","se la pierde profe","raw_data/oldchats/7_20_abril_2020.txt","espanol",4,11,3.6
+"385",960,2020-04-20,192,01:00:55,01:00:55,"Magaly Julisa Acuna Condori","cómo quedamos'??","raw_data/oldchats/7_20_abril_2020.txt","espanol",2,15,2.75
+"386",2358,2020-05-25,3,00:00:17,00:00:17,"Santiago Jose Fernandez Pizarro","pero de derecha","raw_data/oldchats/15_25_mayo_2020.txt","espanol",3,9,3.29624062518029
+"387",1143,2020-04-20,375,01:31:02,01:31:02,"Nicolas Vegas Trivelli","alguien puede crearlo, es que estoy con la laptop de la chamba y no me deja entrar a gmail","raw_data/oldchats/7_20_abril_2020.txt","espanol",19,22,5.2619818783609
+"388",576,2020-04-13,14,00:02:32,00:02:32,"Santiago Jose Fernandez Pizarro","ya no me alcanzó","raw_data/oldchats/5_13_abril_2020.txt","espanol",4,14,3.9
+"389",2177,2020-05-14,104,00:28:43,00:28:43,"Nicole Marcella Condori Cubillas","siiii se entrecorta","raw_data/oldchats/14_14_mayo_2020.txt","espanol",3,10,3.39624062518029
+"390",2082,2020-05-14,9,00:05:40,00:05:40,"Magaly Julisa Acuna Condori","yo tmp escucho","raw_data/oldchats/14_14_mayo_2020.txt","espanol",3,11,3.49624062518029
+"391",704,2020-04-18,55,01:05:38,01:05:38,"Andres Vilcahuaman Zermeno","price talk","raw_data/oldchats/6_18_abril_2020.txt","espanol",2,9,2.15
+"392",2510,2020-05-28,83,00:08:15,00:08:15,"Magaly Julisa Acuna Condori","no eres tú soy yo","raw_data/oldchats/16_28_mayo_2020.txt","espanol",5,12,3.78048202372184
+"393",2153,2020-05-14,80,00:21:16,00:21:16,"Jheysson Andre Roncal Valdivia","se les escucha bien a ellos","raw_data/oldchats/14_14_mayo_2020.txt","espanol",6,12,3.84624062518029
+"394",1485,2020-04-27,62,00:09:59,00:09:59,"Jheysson Andre Roncal Valdivia","te puedes despertar 5 minutos antes de la clase","raw_data/oldchats/9_27_abril_2020.txt","espanol",9,16,4.39248125036058
+"395",1320,2020-04-23,102,00:43:34,00:43:34,"Alejandra Cristina Samame Dulanto","como se ponee?? <U+0001F62D>","raw_data/oldchats/8_23_abril_2020.txt","ingles",4,17,4.2
+"396",3456,2020-06-08,413,00:25:36,00:25:36,"Alejandra Cristina Samame Dulanto","<U+0001F602> <U+0001F525>","raw_data/oldchats/19_08_junio_2020.txt","espanol",2,12,2.45
+"397",4553,2020-07-09,205,00:53:35,00:53:35,"Sebastian Silva Ramal","no tengo que graficar ninguna effective no?","raw_data/oldchats/26_09_julio_2020.txt","espanol",7,15,4.2018387305144
+"398",3775,2020-06-20,81,01:23:22,01:23:22,"Maria Gracia Garcia Garces","de temperaturas mas altas","raw_data/oldchats/22_20_junio_2020.txt","espanol",4,11,3.6
+"399",1958,2020-05-07,20,00:02:39,00:02:39,"Santiago Jose Fernandez Pizarro","excepto con ese tal sebastián herrera","raw_data/oldchats/12_07_mayo_2020.txt","espanol",6,19,4.54624062518029
+"400",1769,2020-05-02,40,01:21:07,01:21:07,"Andres Vilcahuaman Zermeno","ya volaste","raw_data/oldchats/10_02_mayo_2020.txt","espanol",2,9,2.15

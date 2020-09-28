@@ -15,15 +15,21 @@ library(GGally)
 library(ggthemes)
 library(ggrepel)
 library(plotly)
+library(wordcloud2)
 
 # output tables
 library(gt)
 
-# NLP
+# Modeling
+library(tidymodels)
+
+# NLP  
 library(tidytext)
 library(tokenizers)
 library(syuzhet)
 library(hunspell)
+library(tm)
+library(sjmisc)
 
 # misc
 library(skimr) # summarise dataframes
@@ -34,7 +40,7 @@ theme_set(theme_minimal())
 
 ##### READING DATA #####
 
-chat <- read.csv('processed_data/clean_chat_data.csv', stringsAsFactors = FALSE)
+chat <- read.csv('processed_data/clean_chat_data.csv', stringsAsFactors = FALSE, encoding = "UTF-8")
 
 # formatting as needed
 
@@ -223,20 +229,9 @@ intervention_amount_per_class_language + intervention_complexity_per_class_langu
 ##### SENTIMENT ANALYSIS ON CHAT DATA #####
 
 ## suggesting corrected words
-tokenized_corpus %>% 
-    group_by(date) %>% 
-    summarise(mean(suggested_score2),
-             ) %>% 
-    View()
-
-tokenized_corpus %>% 
-    group_by(user) %>% 
-    summarise(mean(suggested_score2),
-              n_intervenciones = n()) %>% 
-    View()
 
 corpus_ <- chat %>% 
-    select(date, X, timestamp.start, timestamp.end, user, message)
+    select(date, ï.., timestamp.start, timestamp.end, user, message)
 
 tokenized_corpus <- corpus_ %>% 
     unnest_tokens(output = word, input = message)
@@ -246,8 +241,8 @@ tokenized_corpus$word[1:100] %>%
 
 esp <- dictionary("Spanish")                                                                
 
-semiclean_corpus <- tokenized_corpus$word %>% 
-    hunspell_suggest(dict = esp) 
+#semiclean_corpus <- tokenized_corpus$word %>% 
+#    hunspell_suggest(dict = esp) 
 
 corrected_corpus <- semiclean_corpus %>% 
     sapply(function(x){x[1]})
@@ -364,6 +359,109 @@ plt <- mean_sentiment %>%
 
 ggplotly(plt)
 
-# RECALIBRACION: 3 MEDIDAS
+# RECALIBRACION: 3 MEDIDAS: COMPLEJIDAD, RELEVANCIA, PENALIZACIONES
 
-q
+
+# DERIVING RELEVANT WORDS
+library(readxl)
+penalized_words <- c('prof|rub.*n|parcial|exam|PCs|la nota|buenos di|buenas no|buenas tar|chau|adios|nota|final|blackboard|punto')
+penalized_words <- paste0(penalized_words, paste0(c('|profe', 'nota', 'examen', 'parcial', 
+                     'final', 'pc', 'pd', 'exam', 'notas',
+                     'dirigida', 'calificada', 'up', 'seminario',
+                     'clases', 'semestre', 'parci', 'promedio',
+                     'pensiones'), collapse = '|'), collapse = '|')
+
+financial_dictionary <- read_excel("calibration_tests/financial_dictionary.xlsx", 
+                                   col_names = 'word')
+financial_dictionary <- str_split(financial_dictionary$word, ': ') %>% 
+    simplify() %>% 
+    as.data.frame() 
+
+financial_dictionary <- financial_dictionary %>% 
+    `colnames<-`('message') %>% 
+    mutate(message = as.character(message)) %>% 
+    unnest_tokens(word, message) %>% 
+    mutate(word = stri_trans_general(str_to_lower(word), id = 'Latin-ASCII')) %>% 
+    filter(nchar(word) > 3)
+
+tokenized_calib <- calib %>% 
+    mutate(message = as.character(message)) %>% 
+    unnest_tokens(output = word, input = message) %>% 
+    mutate(word = stri_trans_general(str_to_lower(word), id = 'Latin-ASCII'))
+    
+observed_dictionary <- tokenized_calib %>% 
+    filter(value == 'Medio'| value == 'Alto') %>% 
+    select(word) %>%
+    mutate(word = stri_trans_general(str_to_lower(word), id = 'Latin-ASCII')) %>% 
+    filter(!(word %in% stopwords('es')),
+           !(str_detect(word, penalized_words)),
+           !(str_detect(word, '[:digit:]+'))) %>% 
+    count(word) %>% 
+    arrange(desc(n)) 
+
+###
+
+relevancy_indicators <- c(financial_dictionary$word)
+relevancy_indicators <- paste(relevancy_indicators, collapse = '|')
+link_indicator <- paste0(c('http', '\\.com', 'www\\.', '\\.html'),
+                         collapse = "|")
+question_indicators <- paste0(c('\\?', 'por que', 'como asi', 'no entiendo', 'explica',
+                         'una pregunta', 'pregunt'),
+                         collapse = '|')
+    
+chat$penalized_words <- str_count(chat$message, penalized_words)
+chat$is_question <- str_count(chat$message, question_indicators)
+chat$relevancy_score <- str_count(chat$message, regex(relevancy_indicators))
+chat$is_link <- str_detect(chat$message, link_indicator)
+
+calib$penalized_words <- str_count(calib$message, penalized_words)
+calib$is_question <- str_count(calib$message, question_indicators)
+calib$relevancy_score <- str_count(calib$message, regex(relevancy_indicators))
+calib$is_link <- str_detect(calib$message, link_indicator)
+    
+glmodel <- glm(data = calib, value == "Bajo" ~ message_complexity + penalized_words*relevancy_score*is_question + is_link,
+    family = binomial)
+glmodel %>% tidy() %>% 
+    mutate(oddratio = exp(estimate))
+
+lm(data = calib, as.numeric(value) ~ message_complexity + numero_de_palabras + is_question + penalized_words + relevancy_score + is_link*unique_letters) %>%
+    tidy()
+
+synthetic_score <- lm(data = calib, as.numeric(value) ~ message_complexity + numero_de_palabras + is_question + penalized_words + relevancy_score + is_link*unique_letters) %>% 
+    predict() %>% 
+    cbind(calib$value) %>%
+    cbind(as.character(calib$message)) %>% 
+    `colnames<-`(c('score', 'truth', 'message')) %>% 
+    as.data.frame() %>% 
+    mutate(score = as.numeric(score))
+
+synthetic_score %>% 
+    ggplot(aes(x=truth, y = score)) +
+    geom_violin()
+
+calib %>% 
+    ggplot(aes(x = numero_de_palabras, y = unique_letters, color = relevancy_score)) +
+    geom_point() +
+    facet_wrap(~value)
+
+result_sensit <- function(x){
+    a <- data.frame(
+        preds = predict(glmodel, type = 'response') > x,
+        truth = glmodel$data$value == "Bajo"
+        )
+    
+    return(sum(a$preds == a$truth)/nrow(a))
+}
+    
+sapply(seq(0.01, 1, length.out = 100), result_sensit) %>% 
+    plot()
+    
+data.frame(
+    preds = predict(glmodel, type = 'response'),
+    truth = glmodel$data$value == "Bajo"
+) %>% 
+    ggplot(aes(x = truth, y = preds)) +
+    geom_boxplot()
+
+predict(glmodel) %>% 
+    View()

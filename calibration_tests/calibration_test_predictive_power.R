@@ -6,13 +6,15 @@ library(broom)
 theme_set(theme_clean())
 calib <- read_excel("calibration_tests/Segunda encuesta de calibracion de medidas de engagement (Responses).xlsx")
 calib <- cbind(calib, read_excel("calibration_tests/Calibracion de medidas de engagement (Responses).xlsx")[,-1])
+calib <- cbind(calib, read_excel("calibration_tests/Tercera encuesta de calibracion de medidas de engagement (Responses).xlsx")[,-1])
 
 calib <- data.frame(
     message = str_remove_all(colnames(calib)[-1], 
-                             pattern = 'Por favor califique el nivel de engagement que considera que corresponde a cada interacción \\[') %>%
-        str_remove_all('\\]'),
+                             pattern = 'Por favor califique el nivel de engagement que considera que corresponde a cada interacción \\[|Intervenciones \\[') %>%
+        str_remove_all('\\]') %>% str_to_lower() %>% 
+        stri_trans_general(id = 'Latin-ASCII'),
     value = t(calib[1,-1])
-)
+) %>% na.omit()
 
 colnames(calib) <- c('message', 'value')
 calib$numero_de_palabras <- str_count(calib$message, "\\S+")
@@ -71,7 +73,7 @@ write.csv(calib, file = "calibration_tests/calibrated_chats.csv")
 
 data.frame(
     predprob = predict.glm(modl_, type = 'response'),
-    predclass = predict.glm(modl_, type = 'response') > 0.,
+    predclass = predict.glm(modl_, type = 'response') > 0.2,
     truth = calib$value == 'Alto'
 ) %>% 
     count(predclass, truth)

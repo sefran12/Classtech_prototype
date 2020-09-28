@@ -91,6 +91,6 @@ def process_data_on_current_dir(path: str) -> pd.DataFrame:
     return chat_interventions
             
 chatInterventions = process_data_on_current_dir('raw_data/oldchats')
-chatInterventions.to_csv('processed_data/chat_data.csv')
+chatInterventions.to_csv('processed_data/chat_data.csv', encoding = 'utf-8-sig')
 
 listdir('raw_data/oldchats')

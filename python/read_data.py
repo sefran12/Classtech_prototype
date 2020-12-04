@@ -93,4 +93,14 @@ def process_data_on_current_dir(path: str) -> pd.DataFrame:
 chatInterventions = process_data_on_current_dir('raw_data/oldchats')
 chatInterventions.to_csv('processed_data/chat_data.csv', encoding = 'utf-8-sig')
 
+chatInterventionsToday = process_data_on_current_dir('raw_data/presentchats')
+chatInterventionsToday.to_csv('processed_data/chat_data_current.csv', encoding = 'utf-8-sig')
+
+chatInterventionsDF = process_data_on_current_dir('raw_data/dfchats')
+chatInterventionsDF.to_csv('processed_data/chat_data_df.csv', encoding = 'utf-8-sig')
+
+chatInterventionsFA = process_data_on_current_dir('raw_data/fachats')
+chatInterventionsFA.to_csv('processed_data/chat_data_fa.csv', encoding = 'utf-8-sig')
+
 listdir('raw_data/oldchats')
+listdir('raw_data/presentchats')

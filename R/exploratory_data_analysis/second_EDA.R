@@ -4,6 +4,7 @@ library(readr)
 library(tidyverse)
 library(tidymodels)
 library(themis)
+library(kernlab)
 library(nnet)
 library(ranger)
 library(broom)
@@ -105,7 +106,7 @@ juice(df_prep)
 multinom_reg_ <- multinom_reg(mode = 'classification') %>%
     set_engine("nnet", importance = 'permutation')
 forest_reg <- rand_forest(mode = 'classification') %>%
-    set_engine("ranger", importance = 'permutation')
+    set_engine("ranger", importance = 'permutation', keep.inbag=TRUE)
 
 df_wf <- workflow() %>% 
     add_recipe(df_rec) %>% 
@@ -116,7 +117,7 @@ df_result <- fit_resamples(
     df_boot,
     control = control_resamples(save_pred = TRUE, verbose = TRUE)
 )
-unique(chat$user)
+
 # metrics
 
 df_result %>% 
@@ -153,21 +154,25 @@ df_result %>%
 
 pred_df <- 
     chat %>% 
-    select(-(date:language)) %>% 
+    dplyr::select(-(date:language)) %>% 
     mutate_if(is.logical, as.numeric)
 
 colnames(df)
 colnames(pred_df)
 
 full_model <-  multinom_reg_ %>% 
-    fit(multinom_formula, data = df)
+    fit(value ~ ., data = df)
 
-nnet::multinom(multinom_formula, data = df, Hess = TRUE) %>% 
+nnet::multinom(value ~ ., data = df, Hess = TRUE) %>% 
     tidy() %>% 
     mutate_if(is.numeric, round, 5)
 
 full_modelforest <-  forest_reg %>% 
     fit(value ~., data = df)
+
+full_modelsvm <- kernlab::ksvm(value ~ .,
+                               data = df,
+                               rbf_sigma = 0.00000228009)
 
 fresh_predictions <- full_model %>%
     predict(
@@ -232,3 +237,9 @@ df %>%
 library(vip)
 
 vip::vip(full_modelforest)
+
+user_engagement <- user_engagement %>% 
+bind_cols(nota = user_engagement$boletos/560*20 + 8)
+
+library(M3C)
+

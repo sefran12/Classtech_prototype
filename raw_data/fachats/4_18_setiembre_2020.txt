@@ -1,0 +1,125 @@
+WEBVTT
+
+00:00:31.000 --> 00:00:31.900
+<v Dante Leonardo Zena Blascano>buenos días profe
+
+00:00:33.000 --> 00:00:33.900
+<v Sebastian Aybar Guerrero>hola profe!
+
+00:00:34.000 --> 00:00:34.900
+<v Siuney Del Pielago Lamas>Hola Profe
+<v Luis Diego Chigchon Pasapera>Hola profe!
+
+00:00:35.000 --> 00:00:35.900
+<v Yovelin Milagros Vila Veliz>hola profe
+
+00:00:37.000 --> 00:00:37.900
+<v Juan Rodrigo Novoa Melendez>hola profe
+<v Lenin Giordano Garay Valverde>hola profe
+
+00:00:38.000 --> 00:00:38.900
+<v Anthony Yordanov Sanchez Tineo>Buenos dias
+
+00:00:40.000 --> 00:00:40.900
+<v Fernando Bravo Benavides>hola profe
+<v Giosue Melo Fung>hola profe
+<v Nicole Andrea Montanez Mariscal>hola!
+
+00:00:46.000 --> 00:00:46.900
+<v Luciene Nicole Courquin Tejada>buenos dias profe
+
+00:00:57.000 --> 00:00:57.900
+<v Nicole Andrea Montanez Mariscal>yess
+
+00:01:07.000 --> 00:01:07.900
+<v Diego Inurritegui Tami>Hola profe, buenos dias
+
+00:05:40.000 --> 00:05:40.900
+<v Siuney Del Pielago Lamas>todo claro 
+
+00:35:11.000 --> 00:35:11.900
+<v Ruben Angel Montenegro Lee>Todos OK con sus grupos ?
+
+00:35:22.000 --> 00:35:22.900
+<v Daniela Andrea Orrego Tisnado>sii
+
+00:37:44.000 --> 00:37:44.900
+<v Santiago Tac Fung Hurtado>https://i.imgur.com/Z0jQbTi.png
+
+00:40:21.000 --> 00:40:21.900
+<v Santiago Tac Fung Hurtado>https://i.imgur.com/XqtX2KZ.png
+
+00:42:31.000 --> 00:42:31.900
+<v Enrique Alonso Rodriguez Tapia>synthetic loan: 3.12%
+
+00:42:43.000 --> 00:42:43.900
+<v Enrique Alonso Rodriguez Tapia>market: 5% (0.36% + 4.64%)
+
+00:54:34.000 --> 00:54:34.900
+<v Luis Diego Chigchon Pasapera>ld.chigchonp@alum.up.edu.pe
+
+00:54:38.000 --> 00:54:38.900
+<v Sebastian Aybar Guerrero>s.aybarg@alum.up.edu.pe
+
+00:54:56.000 --> 00:54:56.900
+<v Yovelin Milagros Vila Veliz>ym.vilav@alum.up.edu.pe
+
+01:02:41.000 --> 01:02:41.900
+<v Diego Inurritegui Tami>https://tradingeconomics.com/commodity/coal
+
+01:24:16.000 --> 01:24:16.900
+<v Alvaro Ricardo Adrianzen Puccio>Profe, puede venir al grupo 3? Ya tenemos una decisión
+
+01:30:21.000 --> 01:30:21.900
+<v Edwin Miguel Prado Quispe>980237285
+
+01:30:23.000 --> 01:30:23.900
+<v Anthony Yordanov Sanchez Tineo>959506066
+
+01:30:29.000 --> 01:30:29.900
+<v Fernando Bravo Benavides>944416954
+
+01:34:35.000 --> 01:34:35.900
+<v Sebastian Aybar Guerrero>3
+
+01:34:48.000 --> 01:34:48.900
+<v Daniela Andrea Orrego Tisnado>rip
+
+01:46:25.000 --> 01:46:25.900
+<v Dante Leonardo Zena Blascano>sii
+
+01:49:06.000 --> 01:49:06.900
+<v Dante Leonardo Zena Blascano>todo bien
+
+01:49:11.000 --> 01:49:11.900
+<v Luciene Nicole Courquin Tejada>Gracias profe!!
+<v Daniela Andrea Orrego Tisnado>gracias!!
+<v Juan Rodrigo Novoa Melendez>gracias profe!
+
+01:49:12.000 --> 01:49:12.900
+<v Luis Diego Chigchon Pasapera>gracias profe!!!
+<v Sebastian Aybar Guerrero>gracias profe!
+
+01:49:13.000 --> 01:49:13.900
+<v Enrique Alonso Rodriguez Tapia>gracias profe
+<v Dante Leonardo Zena Blascano>chau profe
+<v Yovelin Milagros Vila Veliz>graciass!!
+
+01:49:14.000 --> 01:49:14.900
+<v Edwin Miguel Prado Quispe>Gracias profe !
+
+01:49:15.000 --> 01:49:15.900
+<v Dante Leonardo Zena Blascano>gracias
+<v Alvaro Ricardo Adrianzen Puccio>Chau profe
+
+01:49:16.000 --> 01:49:16.900
+<v Santiago Tac Fung Hurtado>Gracias!
+
+01:49:20.000 --> 01:49:20.900
+<v Diego Inurritegui Tami>chau profe, gracias
+
+01:49:21.000 --> 01:49:21.900
+<v Siuney Del Pielago Lamas>gracias profe ! 
+
+01:49:25.000 --> 01:49:25.900
+<v Lenin Giordano Garay Valverde>gracias profe nos vemos

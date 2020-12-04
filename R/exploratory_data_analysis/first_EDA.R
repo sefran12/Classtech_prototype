@@ -367,7 +367,7 @@ library(readxl)
 penalized_words <- c('prof|rub.*n|parcial|exam|PCs|la nota|buenos di|buenas no|buenas tar|chau|adios|nota|final|blackboard|punto')
 penalized_words <- paste0(penalized_words, paste0(c('|profe', 'nota', 'examen', 'parcial', 
                      'final', 'pc', 'pd', 'exam', 'notas',
-                     'dirigida', 'calificada', 'up', 'seminario',
+                     'dirigida', 'calificada', 'up', 'seminario', 'salon', 'ciclo',
                      'clases', 'semestre', 'parci', 'promedio',
                      'pensiones'), collapse = '|'), collapse = '|')
 
@@ -381,27 +381,35 @@ financial_dictionary <- financial_dictionary %>%
     `colnames<-`('message') %>% 
     mutate(message = as.character(message)) %>% 
     unnest_tokens(word, message) %>% 
-    mutate(word = stri_trans_general(str_to_lower(word), id = 'Latin-ASCII')) %>% 
+    mutate(word = stri_trans_general(str_to_lower(word), id = 'Latin-ASCII'),
+           word = stemDocument(word, language = 'es')) %>% 
     filter(nchar(word) > 3)
 
 tokenized_calib <- calib %>% 
+    rbind(new_data) %>% 
     mutate(message = as.character(message)) %>% 
     unnest_tokens(output = word, input = message) %>% 
     mutate(word = stri_trans_general(str_to_lower(word), id = 'Latin-ASCII'))
     
 observed_dictionary <- tokenized_calib %>% 
-    filter(value == 'Medio'| value == 'Alto') %>% 
-    select(word) %>%
-    mutate(word = stri_trans_general(str_to_lower(word), id = 'Latin-ASCII')) %>% 
+    filter(value == 'Alto') %>% 
+    dplyr::select(word) %>%
+    mutate(word = stri_trans_general(str_remove(str_to_lower(word), '[:punct:]'), id = 'Latin-ASCII')) %>% 
     filter(!(word %in% stopwords('es')),
            !(str_detect(word, penalized_words)),
            !(str_detect(word, '[:digit:]+'))) %>% 
+    rowwise() %>% 
+    mutate(word = str_sub(word, 1, 5)) %>%
     count(word) %>% 
     arrange(desc(n)) 
 
+observed_dictionary <- observed_dictionary %>% 
+    filter(nchar(word) > 4) %>% 
+    pull(word)
+
 ###
 
-relevancy_indicators <- c(financial_dictionary$word)
+relevancy_indicators <- c(financial_dictionary$word, observed_dictionary)
 relevancy_indicators <- paste(relevancy_indicators, collapse = '|')
 link_indicator <- paste0(c('http', '\\.com', 'www\\.', '\\.html'),
                          collapse = "|")

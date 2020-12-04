@@ -1,0 +1,316 @@
+WEBVTT
+
+00:00:05.000 --> 00:00:05.900
+<v Facilitador12 UP>👋🏼Buenos noches a todos, mi nombre es Jenny y estaré lista para ayudarlos en la sesión de hoy, si alguno llegará a desconectarse yo le enviaré un correo con las pautas para reingresar 🙂
+
+00:00:21.000 --> 00:00:21.900
+<v Alessandra Maria Fiol Villanueva>hola jenny, gracias!
+
+00:00:31.000 --> 00:00:31.900
+<v Nilver Joaquin Ayaque Garcia>gracias Jenny
+
+00:00:35.000 --> 00:00:35.900
+<v Nicole Marcella Condori Cubillas>grcias jenny!
+
+00:00:36.000 --> 00:00:36.900
+<v Sebastian Carbajal Yong>gracias!
+
+00:01:14.000 --> 00:01:14.900
+<v Carla Patricia Valdez Diaz>Gracias Jenny!
+
+00:04:00.000 --> 00:04:00.900
+<v Carla Patricia Valdez Diaz>but was he from saudi or not?
+
+00:06:31.000 --> 00:06:31.900
+<v Siuney Del Pielago Lamas>nooo
+
+00:06:33.000 --> 00:06:33.900
+<v Mauricio Alejandro Barrios Ramirez>yes
+
+00:06:41.000 --> 00:06:41.900
+<v Carla Patricia Valdez Diaz>not until today
+
+00:12:08.000 --> 00:12:08.900
+<v Alessandra Maria Fiol Villanueva>los inversionistas felicess
+
+00:12:20.000 --> 00:12:20.900
+<v Alessandra Maria Fiol Villanueva>siii
+
+00:12:22.000 --> 00:12:22.900
+<v Jessy Takemi Barrenachea Arakaki>si profe
+<v Daniel Antonio Jose Javes Pertuz>sí
+<v Carla Patricia Valdez Diaz>sii
+
+00:12:23.000 --> 00:12:23.900
+<v Francesca Picasso Arias>si, perfecto
+<v Andrea Emi Kanashiro Tokumura>sii
+
+00:12:25.000 --> 00:12:25.900
+<v Adrian Chacon Palomino>sii
+<v Luis Fabian Velasquez Sanchez>Siii
+<v Facilitador12 UP>sí profesor
+
+00:12:28.000 --> 00:12:28.900
+<v Estuardo Ivan Chalan Marreros>Sii
+
+00:12:29.000 --> 00:12:29.900
+<v Carla Patricia Valdez Diaz>pero ya no se ve el pdf
+
+00:12:48.000 --> 00:12:48.900
+<v Mauricio Alejandro Barrios Ramirez>Pre-IPO investors no tan felices
+
+00:12:56.000 --> 00:12:56.900
+<v Alessandra Maria Fiol Villanueva>la empresa?
+
+00:12:58.000 --> 00:12:58.900
+<v Mathias Saba Farah>the comp
+
+00:12:59.000 --> 00:12:59.900
+<v Alessandra Maria Fiol Villanueva>porque vendieron muy barato
+
+00:13:04.000 --> 00:13:04.900
+<v Adrian Chacon Palomino>la compañia
+
+00:14:11.000 --> 00:14:11.900
+<v Jessy Takemi Barrenachea Arakaki>es la primera vez que pasa algo asi?
+
+00:14:35.000 --> 00:14:35.900
+<v Maria Jose Cuadrado Castaneda>cuando se filtra información 
+
+00:14:37.000 --> 00:14:37.900
+<v Mathias Saba Farah>paso lo opuesto a wework entiendo ?
+
+00:14:42.000 --> 00:14:42.900
+<v Carla Patricia Valdez Diaz>Companies hire investment banks to price the ipo, they might have priced it wrong
+
+00:15:59.000 --> 00:15:59.900
+<v Alessandra Maria Fiol Villanueva>es raroo sii
+
+00:19:43.000 --> 00:19:43.900
+<v Estuardo Ivan Chalan Marreros>CEO of google
+
+00:23:00.000 --> 00:23:00.900
+<v Mathias Saba Farah>los petro$
+
+00:23:22.000 --> 00:23:22.900
+<v Jessy Takemi Barrenachea Arakaki>por el apoyo del gobierno?
+<v Alessandra Maria Fiol Villanueva>puede controlar precios?
+
+00:23:29.000 --> 00:23:29.900
+<v Francesca Picasso Arias>por la alta demanda del petroleo
+
+00:23:45.000 --> 00:23:45.900
+<v Mauricio Alejandro Barrios Ramirez>Low costs
+
+00:23:48.000 --> 00:23:48.900
+<v Luis Fabian Velasquez Sanchez>Subsidio del gobierno?
+
+00:23:49.000 --> 00:23:49.900
+<v Mauricio Alejandro Barrios Ramirez>Por locacion
+
+00:25:36.000 --> 00:25:36.900
+<v Gonzalo Carlos Clever De Souza Ferreira>por qué sus costos son tan bajos? mano de obra barata y buena maquinaria?
+
+00:25:46.000 --> 00:25:46.900
+<v Mathias Saba Farah>por el volumen tmb
+
+00:27:24.000 --> 00:27:24.900
+<v Carla Patricia Valdez Diaz>ambition maybe? 
+
+00:27:34.000 --> 00:27:34.900
+<v Luis Fabian Velasquez Sanchez>Para mostrarse más transparentes ante el mundo
+
+00:29:28.000 --> 00:29:28.900
+<v Mathias Saba Farah>no cree que la tendencia esta hacia la privatizacion a traves de los PE?
+
+00:44:59.000 --> 00:44:59.900
+<v Mathias Saba Farah>si
+
+00:47:15.000 --> 00:47:15.900
+<v Mathias Saba Farah>GS
+
+00:49:06.000 --> 00:49:06.900
+<v Alessandra Maria Fiol Villanueva>porque ganan el margen?
+
+00:49:16.000 --> 00:49:16.900
+<v Alessandra Maria Fiol Villanueva>entre la diferencia del precio q compran y venden
+
+00:49:42.000 --> 00:49:42.900
+<v Francesca Picasso Arias>porque el fee del IPO es mas alto al de un M&A?
+
+00:50:47.000 --> 00:50:47.900
+<v Mathias Saba Farah>los de m&a usualmente son mas tirados al 2% tengo entendido
+
+00:51:24.000 --> 00:51:24.900
+<v Francesca Picasso Arias>pero el M&A es sobre el enterprise value o no? 
+
+00:51:30.000 --> 00:51:30.900
+<v Francesca Picasso Arias>quiza en absoluto llegas a mas
+
+00:51:34.000 --> 00:51:34.900
+<v Mathias Saba Farah>market cap entre algo
+
+00:51:37.000 --> 00:51:37.900
+<v Mathias Saba Farah>para IPO
+
+00:54:08.000 --> 00:54:08.900
+<v Mathias Saba Farah>no
+
+00:54:09.000 --> 00:54:09.900
+<v Francesca Picasso Arias>si genera incentivos para establecer un precio mas alto 
+
+00:54:10.000 --> 00:54:10.900
+<v Mathias Saba Farah>pq inflas el precio
+
+00:54:13.000 --> 00:54:13.900
+<v Francesca Picasso Arias>no es balanceado
+
+00:54:15.000 --> 00:54:15.900
+<v Jessy Takemi Barrenachea Arakaki>no los incentiva a que sea alto?
+
+00:54:18.000 --> 00:54:18.900
+<v Alessandra Maria Fiol Villanueva>noo
+
+00:54:19.000 --> 00:54:19.900
+<v Mathias Saba Farah>para tener mayor % sobre el mismo
+
+00:55:44.000 --> 00:55:44.900
+<v Jessy Takemi Barrenachea Arakaki>si esta alineado
+
+00:56:16.000 --> 00:56:16.900
+<v Maria Jose Cuadrado Castaneda>sii, más price, más fee 
+
+00:57:12.000 --> 00:57:12.900
+<v Francesca Picasso Arias>porque hay otros jugadores en el mercado
+
+00:57:49.000 --> 00:57:49.900
+<v Luis Fabian Velasquez Sanchez>por el tipo de acuerdo entre el IB y la compañia?
+
+00:58:02.000 --> 00:58:02.900
+<v Carla Patricia Valdez Diaz>could be an incentive for other private companies to go public
+
+00:59:20.000 --> 00:59:20.900
+<v Jessy Takemi Barrenachea Arakaki>claro siempre hay un margen de error en el calculo 
+
+01:00:10.000 --> 01:00:10.900
+<v Carla Patricia Valdez Diaz>JAAJJJAJ
+
+01:00:11.000 --> 01:00:11.900
+<v Maria Jose Cuadrado Castaneda>jajajaja 
+
+01:00:14.000 --> 01:00:14.900
+<v Adrian Chacon Palomino>jajajaa
+
+01:00:41.000 --> 01:00:41.900
+<v Mathias Saba Farah>rarisimo pues le favorece al IB un mayor ingreso a mayor el IPO
+
+01:01:14.000 --> 01:01:14.900
+<v Francesca Picasso Arias>en este caso el incentivo de saudi aramco  no era recaudar mas capital, entonces quiza se dio un precio que dio el banco no fue el mas alto
+
+01:01:30.000 --> 01:01:30.900
+<v Carla Patricia Valdez Diaz>derrepente por un "greenshoe"?
+
+01:02:01.000 --> 01:02:01.900
+<v Carla Patricia Valdez Diaz>escuche q era un metodo del banco para ganar mas en IPOs
+
+01:14:33.000 --> 01:14:33.900
+<v Mathias Saba Farah>no era 77?
+
+01:18:51.000 --> 01:18:51.900
+<v Siuney Del Pielago Lamas>siii
+
+01:18:54.000 --> 01:18:54.900
+<v Siuney Del Pielago Lamas>profe pero si esto ha pasado varias veces, no deberia haber una penalidad mas fuerte? porque estas coludiendo para ganar mas profit 
+
+01:19:03.000 --> 01:19:03.900
+<v Siuney Del Pielago Lamas>osea en este caso si estas rompiendo la ley
+
+01:19:04.000 --> 01:19:04.900
+<v Siuney Del Pielago Lamas>o no?
+
+01:19:21.000 --> 01:19:21.900
+<v Siuney Del Pielago Lamas>claroo jajajajaja
+
+01:19:23.000 --> 01:19:23.900
+<v Siuney Del Pielago Lamas>como lo pruebas
+
+01:19:24.000 --> 01:19:24.900
+<v Jessy Takemi Barrenachea Arakaki>y la reputacion del banco tambien se deberia de ver afectada 
+
+01:19:26.000 --> 01:19:26.900
+<v Maria Jose Cuadrado Castaneda>osea es dar una valorización falsa a la empresa, pero si se gana mucho más 
+
+01:19:38.000 --> 01:19:38.900
+<v Alessandra Maria Fiol Villanueva>es ilegal?
+
+01:19:41.000 --> 01:19:41.900
+<v Maria Jose Cuadrado Castaneda>los bancos y los inversionistas
+
+01:19:47.000 --> 01:19:47.900
+<v Siuney Del Pielago Lamas>jajajaja claro imposible
+
+01:20:12.000 --> 01:20:12.900
+<v Nilver Joaquin Ayaque Garcia>tal vez pasan cosas peores y jamás nos vamos a enterar porque están bien hechas
+
+01:25:07.000 --> 01:25:07.900
+<v Mauricio Alejandro Barrios Ramirez>Jajajaja que tal leak!
+
+01:31:35.000 --> 01:31:35.900
+<v Francesca Picasso Arias>yo creo que es una empresa que en dicho momento pudo haberse visto como una con flujos predecibles y estabale
+
+01:31:39.000 --> 01:31:39.900
+<v Francesca Picasso Arias>por el giro del negocio
+
+01:32:14.000 --> 01:32:14.900
+<v Jessy Takemi Barrenachea Arakaki>porque se sabia que iba a tener el apoyo del principe?
+
+01:32:15.000 --> 01:32:15.900
+<v Mauricio Alejandro Barrios Ramirez>Tienes riesgo de commodities
+
+01:33:03.000 --> 01:33:03.900
+<v Carla Patricia Valdez Diaz>puede ser por el pais...es dificil entrar porque la mayor parte es privado y del estado, y esto le da la posibilidad de ingresar a una empresa de gran peso ahi?
+
+01:33:35.000 --> 01:33:35.900
+<v Mathias Saba Farah>Politically wise por la amistad entre USA y Saudi Arabia
+
+01:33:48.000 --> 01:33:48.900
+<v Maria Jose Cuadrado Castaneda>y ese es el riesgo de los stockholders 
+
+01:34:51.000 --> 01:34:51.900
+<v Francesca Picasso Arias>su EBITDA era super atractivo y quiza también el tamaño de su equity value hizo que gane atraccion
+
+01:35:47.000 --> 01:35:47.900
+<v Jessy Takemi Barrenachea Arakaki>con la manera en la que lo vendes 
+
+01:39:23.000 --> 01:39:23.900
+<v Alessandra Maria Fiol Villanueva>gracias profe!!!
+
+01:39:24.000 --> 01:39:24.900
+<v Estuardo Ivan Chalan Marreros>Gracias profe!!
+
+01:39:25.000 --> 01:39:25.900
+<v Jessy Takemi Barrenachea Arakaki>gracias profe!
+
+01:39:26.000 --> 01:39:26.900
+<v Maria Jose Cuadrado Castaneda>gracias profe!!
+
+01:39:27.000 --> 01:39:27.900
+<v Siuney Del Pielago Lamas>gracias profeeee!!
+<v Mauricio Alejandro Barrios Ramirez>gracias profe
+
+01:39:28.000 --> 01:39:28.900
+<v Andrea Emi Kanashiro Tokumura>gracias profe!
+
+01:39:29.000 --> 01:39:29.900
+<v Carla Patricia Valdez Diaz>Gracias Profesor!
+
+01:39:30.000 --> 01:39:30.900
+<v Francesca Picasso Arias>mil gracias profe!
+<v Adrian Chacon Palomino>gracias profe!!
+
+01:39:31.000 --> 01:39:31.900
+<v Renato Paolo Hurtado Torres>gracias!
+<v Mathias Saba Farah>gracias
+
+01:39:32.000 --> 01:39:32.900
+<v Val Mollison Suazo>graciasss

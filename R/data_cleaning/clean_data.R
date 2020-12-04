@@ -42,11 +42,13 @@ replacements <-
         'Santiago fernandez #4' = 'Santiago Jose Fernandez Pizarro',
         'magaly' = 'Magaly Julisa Acuna Condori',
         'Miguel Prado$' = 'Edwin Miguel Prado Quispe',
+        'Marcelo Villar Meza' = 'Marcelo Andres Villar Meza',
         'Fernandez Santiago' = 'Santiago Jose Fernandez Pizarro',
         'Sebastian Collantes' = 'Sebastian Enrique Collantes Liendo',
         'Alex 2' = 'Alexander Johan Pacaya Samame',
         'XIOMI GARCIA' = 'Xiomi Anny Garcia Palomino',
-        "Xiomi GarcÃ­a" = 'Xiomi Anny Garcia Palomino'
+        "Xiomi GarcÃ­a" = 'Xiomi Anny Garcia Palomino',
+        'Viviana Cotrina Viviana Purita Cotrina Verano' = 'Viviana Purita Cotrina Verano'
     )
 
 chat$user <- str_replace_all(chat$user, replacements)

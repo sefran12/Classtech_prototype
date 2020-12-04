@@ -20,7 +20,7 @@ library(xgboost)
 
 # OPTIONS
 
-theme_set(theme_bw)
+theme_set(theme_bw())
 set.seed(1)
 
 # LOADING DATA
@@ -156,7 +156,7 @@ xgb_rec <-
 
 xgb_wf <- 
     df_workflow %>% 
-    add_model(nnet_spec)
+    add_model(xgb_spec)
 
 xgb_res <- 
     tune_grid(
@@ -182,7 +182,7 @@ bag_rec <-
 
 bag_wf <- 
     df_workflow %>% 
-    add_model(nnet_spec)
+    add_model(bag_spec)
 
 bag_res <- 
     tune_grid(
@@ -286,8 +286,7 @@ df_stack_testing <-
     select(value, .pred_class)
 
 ### DOESN'T WORK
-
-
+multiclass_metrics <- metric_set(accuracy, sensitivity, kap)
 
 model_comparison %>% 
     mutate(id = row_number(),
@@ -301,23 +300,187 @@ model_comparison %>%
     metrics(truth = truth, estimate = value)
 
 super_learner_example <- model_comparison %>% 
-    glm(truth == 'Medio' ~ ordered_logit + multinomial_logit + random_forest, family = binomial, data = .) 
+    polr(truth ~ ordered_logit + multinomial_logit + random_forest, data = ., Hess = TRUE) 
 
 super_learner_example %>% 
     tidy()
 
 super_learner_example %>% 
-    predict(type = 'response') %>% 
-    bind_cols(model_comparison$truth == 'Medio') %>% 
+    predict(type = 'class') %>% 
+    bind_cols(model_comparison$truth) %>% 
     rename(pred = ...1, truth = ...2) %>% 
-    mutate(pred = factor(pred > 0.5),
-           truth = factor(truth)) %>% 
-    metrics(truth, pred)
+    mutate(pred = factor(pred, levels = c('Bajo', 'Medio', 'Alto')),
+           truth = factor(truth, levels = c('Bajo', 'Medio', 'Alto'))) %>%
+    multiclass_metrics(truth = truth, estimate = pred)
 
 super_learner_example %>% 
-    predict(type = 'response') %>% 
-    bind_cols(model_comparison$truth == 'Medio') %>% 
-    rename(pred = ...1, truth = ...2) %>% 
-    mutate(truth = factor(truth)) %>% 
-    roc_curve(truth, pred) %>% 
+    predict(type = 'probs') %>%
+    as.data.frame() %>% 
+    bind_cols(model_comparison$truth) %>% 
+    `colnames<-`(c("Bajo", "Medio", "Alto", "truth")) %>% 
+    mutate(truth = factor(truth)) %>%
+    roc_curve(truth, Bajo:Alto) %>% 
     autoplot()
+
+##### TESTING ON NEW DATA
+library(readxl)
+library(stringi)
+fourth_calib <- read_excel("calibration_tests/Cuarta encuesta de calibracion de engagement (Responses).xlsx")
+
+new_data <- data.frame(
+    message = str_remove_all(colnames(fourth_calib)[-1], 
+                             pattern = 'Por favor califique el nivel de engagement que considera que corresponde a cada interacción \\[|Intervenciones \\[') %>%
+        str_remove_all('\\]') %>% str_to_lower() %>% 
+        stri_trans_general(id = 'Latin-ASCII'),
+    value = t(fourth_calib[1,-1])
+) %>% na.omit()
+
+new_data$numero_de_palabras <- str_count(new_data$message, "\\S+")
+new_data$unique_letters <- sapply(new_data$message,
+                              function(x){nchar(rawToChar(unique(charToRaw(str_remove(x, ' ')))))}
+)
+new_data$message_complexity <- (new_data$numero_de_palabras > 2)*1 +
+    (new_data$unique_letters > 5)*1 + 
+    new_data$unique_letters*0.1 + 
+    log2(new_data$numero_de_palabras)*0.25
+new_data$penalized_words <- str_count(new_data$message, penalized_words)
+new_data$is_question <- str_count(new_data$message, question_indicators)
+new_data$relevancy_score <- str_count(new_data$message, regex(relevancy_indicators))
+new_data$is_link <- str_detect(new_data$message, link_indicator)
+
+table(df$value)/nrow(df)
+
+# creating the super learner
+
+training_superlearner <- data.frame(
+    truth = df$value,
+    logit = (full_model %>% predict(df)),
+    forest = (full_modelforest %>% predict(df)),
+    svm = (full_modelsvm %>% predict(df))
+)
+colnames(training_superlearner) <- c('truth', 'logit', 'forest', 'svm')
+training_superlearner %>% 
+    multiclass_metrics(truth, estimate = forest)
+
+#superlearner <- polr(truth ~ ., data = training_superlearner, Hess = TRUE)
+superlearner <- forest_reg %>% 
+    fit(truth ~., data = training_superlearner)
+
+superlearner %>% predict(training_superlearner) %>% 
+    bind_cols(training_superlearner$truth) %>% 
+    rename(super = .pred_class, truth = ...2) %>% 
+    multiclass_metrics(truth, estimate = super)
+
+#
+test_df <- new_data %>%
+    dplyr::select(-message) %>% 
+    mutate_if(is.logical, as.numeric)
+
+test_superlearner <- data.frame(
+    new_data$value,
+    predict(full_model, test_df),
+    predict(full_modelforest, test_df),
+    predict(full_modelsvm, test_df)
+)
+colnames(test_superlearner) <- c('truth', 'logit', 'forest', 'svm')
+
+predict(full_modelforest, new_data %>% dplyr::select(-message)) %>% 
+    bind_cols(new_data$value) %>%
+    rename(truth = ...2, pred = .pred_class) %>% 
+    mutate(truth = factor(truth, levels = c('Bajo', 'Medio', 'Alto')),
+           pred = factor(pred, levels = c('Bajo', 'Medio', 'Alto'))) %>% 
+    multiclass_metrics(truth = truth, estimate = pred)
+
+predict(superlearner, test_superlearner) %>% 
+    bind_cols(new_data$value) %>%
+    rename(truth = ...2, pred = .pred_class) %>% 
+    mutate(truth = factor(truth, levels = c('Bajo', 'Medio', 'Alto')),
+           pred = factor(pred, levels = c('Bajo', 'Medio', 'Alto'))) %>% 
+    multiclass_metrics(truth = truth, estimate = pred)
+
+scored_messages <- predict(full_modelforest, new_data, type = 'prob') %>% 
+    mutate(
+        low = 1*.pred_Bajo,
+        mid = 2.5*.pred_Medio,
+        high = 20*.pred_Alto,
+        message_score = low + mid + high
+    ) %>% 
+    bind_cols(message = new_data$message,
+              value = new_data$value)
+
+
+1/(table(df$value)/nrow(df))/1.4621
+
+# la forma de hacer valoracion del correo es crear un correo exclusivo donde el profesor
+# envie los correos con intervenciones.
+
+# mostrar como se veria el puntaje si sumamos todo
+# si sumamos el promedio por clase
+# como se veria, es el caso real, tomando las 800 que realmente ha corregido, y lo que bota
+# lo que he corregido. Pero como ponerle puntaje?
+
+# Despues ya mostrando el ajuste por cantidad. Para comparar como mejora haciendo el ajuste.
+# 
+
+
+
+# clases 3, slack correo 2, whatsapp 1
+
+# CANTIDAD VERSUS CALIDAD
+# 
+
+library(patchwork)
+
+a_ <- final_df %>% 
+    mutate(value = factor(value, levels = c('Bajo', 'Medio', 'Alto'))) %>% 
+    ggplot(aes(x = value, y = message_complexity, fill = value)) +
+    geom_boxplot() +
+    guides(fill = FALSE) +
+    labs(x = 'Real', 
+         y = 'Complejidad del mensaje')
+
+b_ <- scored_messages %>% 
+    mutate(value = factor(value, levels = c('Bajo', 'Medio', 'Alto'))) %>% 
+    ggplot(aes(x = value, y = message_score, fill = value)) +
+    geom_boxplot() +
+    guides(fill = FALSE) +
+    labs(x = 'Real',
+         y = 'Score de modelo ensemble')
+
+
+a_ + b_
+
+
+scored_messages %>% 
+    ggplot(aes(x = value, y = high)) +
+    geom_boxplot()
+
+# En promedio en una clase los alumnos participan 80% en chat y 20% en
+
+# conseguir un machine learning engineer.
+
+clipr::write_clip(pen)
+
+predict(full_modelforest, new_data) %>% 
+    bind_cols(truth = new_data$value,
+              message = new_data$message) %>% 
+    sample_n(20) %>% 
+    clipr::write_clip()
+
+predict(full_modelforest, new_data) %>% 
+    bind_cols(truth = new_data$value,
+              message = new_data$message) %>% 
+    filter(truth != .pred_class) %>% 
+    sample_n(20) %>% 
+    clipr::write_clip()
+
+calib %>% 
+    rbind(new_data) %>% 
+    select(value, numero_de_palabras) %>% 
+    GGally::ggpairs(aes(fill = value))
+
+calib %>% 
+    rbind(new_data) %>% 
+    count(value) %>% 
+    mutate(odds = n/sum(n),
+           odds = 1/odds/1.429799)

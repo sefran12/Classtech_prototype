@@ -1,0 +1,144 @@
+WEBVTT
+
+00:01:50.000 --> 00:01:50.900
+<v Jesus Emilio-Jose Espinoza Campos>Profe y el documento hasta cuándo podemos mandarlo?
+
+00:02:28.000 --> 00:02:28.900
+<v Giosue Melo Fung>claro profe
+<v Edwin Miguel Prado Quispe>si profe
+
+00:02:29.000 --> 00:02:29.900
+<v Lenin Giordano Garay Valverde>sii
+<v Alvaro Ricardo Adrianzen Puccio>si profe
+
+00:02:30.000 --> 00:02:30.900
+<v Sebastian Aybar Guerrero>si
+
+00:02:33.000 --> 00:02:33.900
+<v Dante Leonardo Zena Blascano>perfecto
+
+00:02:37.000 --> 00:02:37.900
+<v Enrique Alonso Rodriguez Tapia>la bonificaación por llegar a un acuerdo se mantiene solo durante esta clase?
+
+00:03:19.000 --> 00:03:19.900
+<v Enrique Alonso Rodriguez Tapia>ah ok gracias!
+
+00:23:38.000 --> 00:23:38.900
+<v Edwin Miguel Prado Quispe>Ok profe
+<v Enrique Alonso Rodriguez Tapia>sii
+
+00:23:40.000 --> 00:23:40.900
+<v Sebastian Aybar Guerrero>ok
+<v Alvaro Ricardo Adrianzen Puccio>Siii
+
+00:23:41.000 --> 00:23:41.900
+<v Nicole Andrea Montanez Mariscal>sii
+
+00:23:43.000 --> 00:23:43.900
+<v Lenin Giordano Garay Valverde>listoo
+
+00:23:45.000 --> 00:23:45.900
+<v Diego Inurritegui Tami>si
+
+00:25:06.000 --> 00:25:06.900
+<v Dante Leonardo Zena Blascano>https://docs.google.com/spreadsheets/d/1pjpp89kbDRDqMQn0izgRX85h3Xn5nDawoou7knGv1qE/edit#gid=0
+
+00:29:21.000 --> 00:29:21.900
+<v Enrique Alonso Rodriguez Tapia>Int. bond 1: negociar la tasa del bono internacional 1 dada la alta demanda, negociar com. estructuración, acceder a un swap de tasa de interés para tener menos exposición al FX
+
+00:31:11.000 --> 00:31:11.900
+<v Enrique Alonso Rodriguez Tapia>Local bond: ver si se puede negociar el covenant, sobretodo del año 3 en adelante, tasa de interés
+
+00:34:28.000 --> 00:34:28.900
+<v Enrique Alonso Rodriguez Tapia>preguntar si es que podemos subir monto en int. bond 1 y local bond
+
+00:39:48.000 --> 00:39:48.900
+<v Nicole Andrea Montanez Mariscal>https://docs.google.com/spreadsheets/d/1rnyZyLpvdsB-B6lNEnJKDl14vEz3XVUokkO8XVmP91s/edit?usp=sharing
+
+00:40:18.000 --> 00:40:18.900
+<v Enrique Alonso Rodriguez Tapia>Int.: com. estructuración, swap a soles, tasa de interés
+
+00:41:11.000 --> 00:41:11.900
+<v Enrique Alonso Rodriguez Tapia>sindicado: bajar tasa, negocias covenants a la vena, com. estructuración
+
+00:41:27.000 --> 00:41:27.900
+<v Enrique Alonso Rodriguez Tapia>tenor syndicate
+
+01:23:12.000 --> 01:23:12.900
+<v Edwin Miguel Prado Quispe>si
+
+01:27:22.000 --> 01:27:22.900
+<v Siuney Del Pielago Lamas>okii
+
+01:27:25.000 --> 01:27:25.900
+<v Giosue Melo Fung>claro profe
+<v Edwin Miguel Prado Quispe>Si profesor
+
+01:27:26.000 --> 01:27:26.900
+<v Luciene Nicole Courquin Tejada>sii
+<v Yovelin Milagros Vila Veliz>si profe
+
+01:27:27.000 --> 01:27:27.900
+<v Nicole Andrea Montanez Mariscal>sii
+
+01:27:28.000 --> 01:27:28.900
+<v Sebastian Aybar Guerrero>ok
+
+01:27:29.000 --> 01:27:29.900
+<v Lenin Giordano Garay Valverde>claro profe
+
+01:27:31.000 --> 01:27:31.900
+<v Alvaro Ricardo Adrianzen Puccio>Sii profe
+<v Dante Leonardo Zena Blascano>listo profe
+
+01:27:38.000 --> 01:27:38.900
+<v Enrique Alonso Rodriguez Tapia>profe el límite para explicar el raciocinio sigue siendo 1 pag?
+
+01:28:24.000 --> 01:28:24.900
+<v Enrique Alonso Rodriguez Tapia>ok, gracias!
+
+01:28:55.000 --> 01:28:55.900
+<v Edwin Miguel Prado Quispe>la de la magia
+
+01:29:13.000 --> 01:29:13.900
+<v Giosue Melo Fung>listo profe
+
+01:29:28.000 --> 01:29:28.900
+<v Siuney Del Pielago Lamas>gracias profe!!!!
+
+01:29:29.000 --> 01:29:29.900
+<v Enrique Alonso Rodriguez Tapia>gracias profe!
+
+01:29:30.000 --> 01:29:30.900
+<v Giosue Melo Fung>gracias profe
+
+01:29:33.000 --> 01:29:33.900
+<v Lenin Giordano Garay Valverde>perfectoo gracias profe!
+
+01:29:34.000 --> 01:29:34.900
+<v Yovelin Milagros Vila Veliz>gracias profe!!
+
+01:29:35.000 --> 01:29:35.900
+<v Luis Diego Chigchon Pasapera>listo profe!
+<v Luciene Nicole Courquin Tejada>gracias profee
+
+01:29:36.000 --> 01:29:36.900
+<v Santiago Tac Fung Hurtado>Gracias profe!
+<v Dante Leonardo Zena Blascano>listo
+
+01:29:37.000 --> 01:29:37.900
+<v Martin Alonso Senmache Ore>muchas gracias profe
+
+01:29:38.000 --> 01:29:38.900
+<v Alvaro Ricardo Adrianzen Puccio>Gracias profe!
+<v Sebastian Aybar Guerrero>listo profe, gracias!
+
+01:29:40.000 --> 01:29:40.900
+<v Edwin Miguel Prado Quispe>Gracias profe!
+<v Juan Rodrigo Novoa Melendez>gracias profe
+
+01:29:42.000 --> 01:29:42.900
+<v Nicole Andrea Montanez Mariscal>gracias
+
+01:29:44.000 --> 01:29:44.900
+<v Dante Leonardo Zena Blascano>graciasss

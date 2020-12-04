@@ -1,0 +1,132 @@
+WEBVTT
+
+00:15:42.000 --> 00:15:42.900
+<v Juan Rodrigo Novoa Melendez>pregunto si es el cfo cfi cff de la tabla
+
+00:15:43.000 --> 00:15:43.900
+<v Juan Rodrigo Novoa Melendez>en el 2020
+
+00:15:46.000 --> 00:15:46.900
+<v Juan Rodrigo Novoa Melendez>es el de todo el año
+
+00:15:50.000 --> 00:15:50.900
+<v Juan Rodrigo Novoa Melendez>o solo de oct 7 a diciembre
+
+00:16:05.000 --> 00:16:05.900
+<v Juan Rodrigo Novoa Melendez>entonces en initial cash deberia ser 68mm 
+
+00:16:06.000 --> 00:16:06.900
+<v Juan Rodrigo Novoa Melendez>cierto?
+
+00:16:11.000 --> 00:16:11.900
+<v Juan Rodrigo Novoa Melendez>porque en la tabla sale 15
+
+00:20:49.000 --> 00:20:49.900
+<v Juan Rodrigo Novoa Melendez>claro profe
+
+00:20:50.000 --> 00:20:50.900
+<v Juan Rodrigo Novoa Melendez>gracias
+
+00:26:02.000 --> 00:26:02.900
+<v Dante Leonardo Zena Blascano>https://docs.google.com/spreadsheets/d/1pl2M645jBDuf-WbWXN6y7Kmpe6WWjWB7_tZHzdANOXM/edit#gid=0
+
+01:08:52.000 --> 01:08:52.900
+<v Dante Leonardo Zena Blascano>profee
+
+01:09:01.000 --> 01:09:01.900
+<v Dante Leonardo Zena Blascano>puedes venir al grupo 4 porfa?
+
+01:09:22.000 --> 01:09:22.900
+<v Enrique Alonso Rodriguez Tapia>al grupo 3 también
+
+01:12:23.000 --> 01:12:23.900
+<v Alvaro Ricardo Adrianzen Puccio>Había una opción que te servía para dejar activos en garantía
+
+01:12:40.000 --> 01:12:40.900
+<v Alvaro Ricardo Adrianzen Puccio>Dejar activos de una compañía relacionada en garantía
+
+01:12:50.000 --> 01:12:50.900
+<v Alvaro Ricardo Adrianzen Puccio>Pero sin que salga en el contrato
+
+01:13:07.000 --> 01:13:07.900
+<v Alvaro Ricardo Adrianzen Puccio>Porque supuestamente en el caso sale que no le dejan hacer eso a la minera que es la relacionada
+
+01:13:38.000 --> 01:13:38.900
+<v Enrique Alonso Rodriguez Tapia>como se llama te acuerdas
+
+01:13:52.000 --> 01:13:52.900
+<v Santiago Tac Fung Hurtado>Si, tratamos de ver si tal vez con otra empresa que no sea esa (CMBX) podíamos obtener una fianza pero el profe básicamente nos dijo que no sería plausible
+
+01:20:21.000 --> 01:20:21.900
+<v Siuney Del Pielago Lamas>Condiciones: Debt/Ebitda a partir del 2022: 2022 - 5.8x | 2023 - 4.3x | 2024 - 4.1x 
+
+01:20:29.000 --> 01:20:29.900
+<v Siuney Del Pielago Lamas>y un put option synthetic guarantee
+
+01:23:35.000 --> 01:23:35.900
+<v Santiago Tac Fung Hurtado>¿Hasta hoy a las 11:59pm?
+
+01:24:53.000 --> 01:24:53.900
+<v Enrique Alonso Rodriguez Tapia>Listo gracias!
+
+01:25:16.000 --> 01:25:16.900
+<v Daniela Andrea Orrego Tisnado>gracias profe!
+
+01:26:30.000 --> 01:26:30.900
+<v Martin Alonso Senmache Ore>si
+
+01:26:31.000 --> 01:26:31.900
+<v Giosue Melo Fung>si profe
+
+01:26:32.000 --> 01:26:32.900
+<v Dante Leonardo Zena Blascano>si
+<v Luciene Nicole Courquin Tejada>si profe
+
+01:26:33.000 --> 01:26:33.900
+<v Lenin Giordano Garay Valverde>si profee
+
+01:26:34.000 --> 01:26:34.900
+<v Yovelin Milagros Vila Veliz>ok profe
+
+01:26:42.000 --> 01:26:42.900
+<v Diego Inurritegui Tami>gracias profe
+
+01:26:46.000 --> 01:26:46.900
+<v Edwin Miguel Prado Quispe>k profe
+
+01:26:50.000 --> 01:26:50.900
+<v Edwin Miguel Prado Quispe>ok*
+
+01:26:55.000 --> 01:26:55.900
+<v Lenin Giordano Garay Valverde>gracias profee!
+
+01:27:03.000 --> 01:27:03.900
+<v Santiago Tac Fung Hurtado>Gracias profe!
+
+01:27:05.000 --> 01:27:05.900
+<v Yovelin Milagros Vila Veliz>gracias profe!
+
+01:27:07.000 --> 01:27:07.900
+<v Fernando Bravo Benavides>gracias
+
+01:27:08.000 --> 01:27:08.900
+<v Juan Rodrigo Novoa Melendez>gracias profe!
+
+01:27:09.000 --> 01:27:09.900
+<v Luciene Nicole Courquin Tejada>Gracias profe!!
+
+01:27:10.000 --> 01:27:10.900
+<v Sebastian Aybar Guerrero>gracias profe
+
+01:27:11.000 --> 01:27:11.900
+<v Lenin Giordano Garay Valverde>nos vemos 
+<v Giosue Melo Fung>gracias profe
+
+01:27:12.000 --> 01:27:12.900
+<v Siuney Del Pielago Lamas>gracias profe!!!!!!
+
+01:27:13.000 --> 01:27:13.900
+<v Alvaro Ricardo Adrianzen Puccio>gracias profe!
+
+01:27:17.000 --> 01:27:17.900
+<v Nicole Andrea Montanez Mariscal>gracias!

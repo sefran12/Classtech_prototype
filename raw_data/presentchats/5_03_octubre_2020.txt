@@ -1,0 +1,398 @@
+WEBVTT
+
+00:00:02.000 --> 00:00:02.900
+<v Juan Manuel Calvo Rupay>hola profe
+
+00:00:20.000 --> 00:00:20.900
+<v Andre Alberto Gamarra Grandez>Tbm no se olvide de que hoy le pregunta a omar y valeria profe 
+
+00:00:27.000 --> 00:00:27.900
+<v Andre Alberto Gamarra Grandez>👌
+
+00:00:28.000 --> 00:00:28.900
+<v Abril Yuliza Collantes Maturrano>XD
+
+00:07:29.000 --> 00:07:29.900
+<v Valeria Alyson Matos Gomez>jajaja
+
+00:09:49.000 --> 00:09:49.900
+<v Omar De Jesus Alegria Jimenez>Ahorrar los costos de hedging supongo
+
+00:09:54.000 --> 00:09:54.900
+<v Juan Manuel Calvo Rupay>puede repetir profe
+
+00:10:15.000 --> 00:10:15.900
+<v Carla Patricia Valdez Diaz>mitigar la incertidumbre
+
+00:10:49.000 --> 00:10:49.900
+<v Juan Manuel Calvo Rupay>es más natural profe
+
+00:10:53.000 --> 00:10:53.900
+<v Marco Antonio Del Rio Perez>Al tomar hedges constantemente con derivados se exponen a un riesgo de liquidez si hay un crash de mercado muy fuerte
+
+00:10:56.000 --> 00:10:56.900
+<v Dante Leonardo Zena Blascano>además si no haces bien el hedging te puede jugar muy en contra
+
+00:11:22.000 --> 00:11:22.900
+<v Marco Antonio Del Rio Perez>sobre todo en monedas poco liquidas como el sol
+
+00:14:56.000 --> 00:14:56.900
+<v Juan Manuel Calvo Rupay>igual no es blanco y negro profe, se pueden tomar un poco de los dos approachs de acuerdo al momento
+
+00:17:28.000 --> 00:17:28.900
+<v Juan Manuel Calvo Rupay>me parece que en general si haces ese natural hedge por ejemplo llevar tus costos de producción al país al que vendes (USA), luego igual tendrías que meterle un fwd para locker el TC de tu moneda contra USD
+
+00:18:57.000 --> 00:18:57.900
+<v Juan Manuel Calvo Rupay>era lo que hacían mercedes y wv creo
+
+00:19:07.000 --> 00:19:07.900
+<v Juan Manuel Calvo Rupay>o audi?
+
+00:19:09.000 --> 00:19:09.900
+<v Juan Manuel Calvo Rupay>sisi
+
+00:21:30.000 --> 00:21:30.900
+<v Juan Manuel Calvo Rupay>FX
+
+00:21:43.000 --> 00:21:43.900
+<v Juan Manuel Calvo Rupay>venden a muchos países
+
+00:22:22.000 --> 00:22:22.900
+<v Marco Antonio Del Rio Perez>riesgos de regulacion por politicas de medio ambiente
+
+00:22:23.000 --> 00:22:23.900
+<v Dante Leonardo Zena Blascano>regulaciones de CO2
+
+00:22:24.000 --> 00:22:24.900
+<v Carlos Siles Alfaro>un cambio hacia carros electricos
+
+00:22:58.000 --> 00:22:58.900
+<v Carlos Siles Alfaro>baja la demanda con mejor transporte publico
+
+00:22:59.000 --> 00:22:59.900
+<v Carla Patricia Valdez Diaz>desconocimiento de leyes al entrar a un nuevo mercado
+
+00:23:22.000 --> 00:23:22.900
+<v Carla Patricia Valdez Diaz>lanzamientos fallidos de algunos modelos
+
+00:23:53.000 --> 00:23:53.900
+<v Carlos Siles Alfaro>riesgo por cambios politicos?
+
+00:24:10.000 --> 00:24:10.900
+<v Marco Antonio Del Rio Perez>Además creo que la demanda por autos está ligeramente relacionada al precio del petroleo para los consumidores finales
+
+00:27:12.000 --> 00:27:12.900
+<v Juan Manuel Calvo Rupay>es complicado, yo creo que ahora da miedo subir al transporte público
+
+00:27:14.000 --> 00:27:14.900
+<v Marco Antonio Del Rio Perez>Podría aumentar la demanda en el mediano plazo porque se valora más tener tu propio vehiculo en que no hay riesgo de contagio?
+
+00:27:15.000 --> 00:27:15.900
+<v Omar De Jesus Alegria Jimenez>No creo que apoyen el transporte público con el _casi asco_ que da ahora el pegarse a menos de 30 cm de un extraño en la calle
+
+00:27:42.000 --> 00:27:42.900
+<v Juan Manuel Calvo Rupay>y los carros siempre van a ser valorados, por más que el transporte público reciba una mejora
+
+00:27:44.000 --> 00:27:44.900
+<v Dante Leonardo Zena Blascano>si la infraestructura en ciclovías progresa, puede que más gente migre a bicis
+
+00:28:09.000 --> 00:28:09.900
+<v Abril Yuliza Collantes Maturrano>mucha gente está cambiando al uso de bicis, scooters, etc
+
+00:28:38.000 --> 00:28:38.900
+<v Abril Yuliza Collantes Maturrano>también depende de la capacidad adquisitiva de las personas
+
+00:28:40.000 --> 00:28:40.900
+<v Carlos Siles Alfaro>en europa no
+
+00:32:13.000 --> 00:32:13.900
+<v Dante Leonardo Zena Blascano>es cierto
+
+00:32:15.000 --> 00:32:15.900
+<v Carla Patricia Valdez Diaz>coincido con marcoo
+
+00:32:21.000 --> 00:32:21.900
+<v Omar De Jesus Alegria Jimenez>Ah cierto
+Hablabamos de Porsche
+
+00:32:38.000 --> 00:32:38.900
+<v Abril Yuliza Collantes Maturrano>es curioso que ahora los seguros vehiculares incluyan bicis y motos
+
+00:33:30.000 --> 00:33:30.900
+<v Juan Manuel Calvo Rupay>rimac te asegura el scooter tmbn jajaj
+
+00:34:15.000 --> 00:34:15.900
+<v Abril Yuliza Collantes Maturrano>sí, fácil será un cambio gradual, dejarán de lado los vehículos , todo depende de la demanda
+
+00:35:05.000 --> 00:35:05.900
+<v Carla Patricia Valdez Diaz>ciertooo
+
+00:35:52.000 --> 00:35:52.900
+<v Omar De Jesus Alegria Jimenez>Que BMW produzca bicicletas
+
+00:35:53.000 --> 00:35:53.900
+<v Carlos Siles Alfaro>al largo plazo invertir en tecnologia electrica
+
+00:36:02.000 --> 00:36:02.900
+<v Carlos Siles Alfaro>si tienen jajaj
+
+00:36:08.000 --> 00:36:08.900
+<v Carlos Siles Alfaro>hay una achoradasa
+
+00:36:22.000 --> 00:36:22.900
+<v Marco Antonio Del Rio Perez>Bastante de esto es el diseño de producto, creo que todas las empresas grandes de autos tienen proyectos de autos electricos en desarrollo
+
+00:36:38.000 --> 00:36:38.900
+<v Marco Antonio Del Rio Perez>Creo que porsche acaba de lanzar su primer auto electrico el mes pasado
+
+00:36:51.000 --> 00:36:51.900
+<v Dante Leonardo Zena Blascano>quizá tb desarrollar sistemas de tesorería como Amaggi 
+
+00:48:53.000 --> 00:48:53.900
+<v Omar De Jesus Alegria Jimenez>Dónde?
+
+00:48:54.000 --> 00:48:54.900
+<v Carlos Siles Alfaro>todavia creo
+
+00:48:58.000 --> 00:48:58.900
+<v Dante Leonardo Zena Blascano>no
+
+00:48:59.000 --> 00:48:59.900
+<v Dante Leonardo Zena Blascano>no
+<v Carla Patricia Valdez Diaz>yo no 😞
+
+00:49:01.000 --> 00:49:01.900
+<v Marco Antonio Del Rio Perez>aun no
+
+00:49:17.000 --> 00:49:17.900
+<v Carla Patricia Valdez Diaz>hola chicoss
+
+00:49:25.000 --> 00:49:25.900
+<v Miguel Erick Llerena Malpartida>Hola!
+
+00:49:36.000 --> 00:49:36.900
+<v Carla Patricia Valdez Diaz>siii 
+
+00:49:41.000 --> 00:49:41.900
+<v Carla Patricia Valdez Diaz>aca las paso
+
+00:49:52.000 --> 00:49:52.900
+<v Juan Manuel Calvo Rupay>habla
+
+00:49:55.000 --> 00:49:55.900
+<v Dante Leonardo Zena Blascano>ahh perfcto
+
+00:50:01.000 --> 00:50:01.900
+<v Juan Manuel Calvo Rupay>solo somos los dos jaja
+
+00:50:02.000 --> 00:50:02.900
+<v Miguel Erick Llerena Malpartida>https://docs.google.com/document/d/1npACacz3buSXSo0QInnPS-jCz0gpC7jB4sN-43T1E1U/edit?usp=sharing
+
+00:50:11.000 --> 00:50:11.900
+<v Miguel Erick Llerena Malpartida>jajaja si
+
+00:50:24.000 --> 00:50:24.900
+<v Miguel Erick Llerena Malpartida>habia una chica más que se salió 😛
+
+00:50:32.000 --> 00:50:32.900
+<v Juan Manuel Calvo Rupay>manya
+
+00:50:45.000 --> 00:50:45.900
+<v Miguel Erick Llerena Malpartida>tienes las preguntas?
+
+00:50:55.000 --> 00:50:55.900
+<v Ruben Angel Montenegro Lee>voy a colgar las preguntas en bb
+
+00:51:04.000 --> 00:51:04.900
+<v Juan Manuel Calvo Rupay>si
+
+00:51:11.000 --> 00:51:11.900
+<v Ruben Angel Montenegro Lee>mejor no
+
+00:51:12.000 --> 00:51:12.900
+<v Carla Patricia Valdez Diaz>esta un poco borroso 😞
+
+00:51:14.000 --> 00:51:14.900
+<v Miguel Erick Llerena Malpartida>ya la vi
+
+00:51:15.000 --> 00:51:15.900
+<v Ruben Angel Montenegro Lee>las voy a poner aca
+
+00:51:19.000 --> 00:51:19.900
+<v Dante Leonardo Zena Blascano>igual se lee
+
+00:51:21.000 --> 00:51:21.900
+<v Dante Leonardo Zena Blascano>ntp
+
+00:51:22.000 --> 00:51:22.900
+<v Andre Alberto Gamarra Grandez>Profe en nuestro grupo somos dos personas 
+
+00:51:33.000 --> 00:51:33.900
+<v Juan Manuel Calvo Rupay>nosotros tmbn somos 2
+
+00:51:40.000 --> 00:51:40.900
+<v Carla Patricia Valdez Diaz>jajajajajajajaj
+
+00:51:44.000 --> 00:51:44.900
+<v Omar De Jesus Alegria Jimenez>Abril lo acaba de compartir al wpp grupal
+
+00:51:46.000 --> 00:51:46.900
+<v Carla Patricia Valdez Diaz>recien lo note 
+
+00:51:50.000 --> 00:51:50.900
+<v Dante Leonardo Zena Blascano>y nosotros tenemos 4 preguntas jaja
+
+00:51:58.000 --> 00:51:58.900
+<v Omar De Jesus Alegria Jimenez>Provecho
+
+00:52:15.000 --> 00:52:15.900
+<v Ruben Angel Montenegro Lee>ah ok
+
+00:52:21.000 --> 00:52:21.900
+<v Ruben Angel Montenegro Lee>de dos se trabaja mejor
+
+00:52:30.000 --> 00:52:30.900
+<v Carla Patricia Valdez Diaz>lo voy a googlear
+
+00:52:36.000 --> 00:52:36.900
+<v Dante Leonardo Zena Blascano>x2
+
+00:52:55.000 --> 00:52:55.900
+<v Ruben Angel Montenegro Lee>tienen 15 mins y luego exponen por 5 min cada grupo
+
+00:53:07.000 --> 00:53:07.900
+<v Carla Patricia Valdez Diaz>when describing how natural contingencies of reinforcement can operate to promote and maintain generalized behavior changes. 
+
+00:53:12.000 --> 00:53:12.900
+<v Juan Manuel Calvo Rupay>ok
+
+00:53:45.000 --> 00:53:45.900
+<v Carla Patricia Valdez Diaz>https://www.special-learning.com/blog/article/80
+
+00:53:51.000 --> 00:53:51.900
+<v Juan Manuel Calvo Rupay>tio nos lo dividimos?
+
+00:54:03.000 --> 00:54:03.900
+<v Juan Manuel Calvo Rupay>cual quieres meterle
+
+00:54:09.000 --> 00:54:09.900
+<v Miguel Erick Llerena Malpartida>la 9
+
+00:54:19.000 --> 00:54:19.900
+<v Miguel Erick Llerena Malpartida>mejor la 10
+<v Juan Manuel Calvo Rupay>ya métele esa
+
+00:54:21.000 --> 00:54:21.900
+<v Juan Manuel Calvo Rupay>jajaja
+
+00:54:25.000 --> 00:54:25.900
+<v Juan Manuel Calvo Rupay>yaya
+<v Miguel Erick Llerena Malpartida>jajaja
+
+00:54:29.000 --> 00:54:29.900
+<v Juan Manuel Calvo Rupay>yo 9
+
+00:54:30.000 --> 00:54:30.900
+<v Carla Patricia Valdez Diaz>aun no se si se refiera a eso
+
+00:54:31.000 --> 00:54:31.900
+<v Miguel Erick Llerena Malpartida>valeee
+
+00:54:42.000 --> 00:54:42.900
+<v Dante Leonardo Zena Blascano>sisi
+
+00:56:10.000 --> 00:56:10.900
+<v Dante Leonardo Zena Blascano>12. Porsche había usado dms calls  en VW ordinary shares para incrementar su ownership.This helped them to hedge against the risk that their attempt to buy VW shares would cause VW’s stock price to rise.
+
+
+00:56:22.000 --> 00:56:22.900
+<v Dante Leonardo Zena Blascano>esa es para la siguiente
+
+00:56:31.000 --> 00:56:31.900
+<v Dante Leonardo Zena Blascano>hay que ir avanzando pq no es mucho tiempo
+
+00:56:41.000 --> 00:56:41.900
+<v Carla Patricia Valdez Diaz>https://docs.google.com/document/d/18wL0b6TmkhjLO57y7SuiV2nohD9RLpGLpQ4aAUuTSkU/edit?usp=sharing
+
+00:58:00.000 --> 00:58:00.900
+<v Omar De Jesus Alegria Jimenez>En 1990:
+-El dólar de depreció fuertemente y sus ganancias estaban en justamente dólares. Demanda fuerte de Estados Unidos.
+-Recesión.
+-Costos en euros.
+-Incapacidad para extender el crédito.
+
+
+00:58:09.000 --> 00:58:09.900
+<v Omar De Jesus Alegria Jimenez>o.alegriajimenez@alum.up.edu.pe
+
+00:58:54.000 --> 00:58:54.900
+<v Marco Antonio Del Rio Perez>https://docs.google.com/presentation/d/1h9Q9YDvZbou6iSx064yPoxkD8Mhy33OUuYsUPJ46f9E/edit?usp=sharing
+
+01:08:09.000 --> 01:08:09.900
+<v Ruben Angel Montenegro Lee>1 minuto
+
+01:09:49.000 --> 01:09:49.900
+<v Carla Patricia Valdez Diaz>jajjaajajjaa
+
+01:09:51.000 --> 01:09:51.900
+<v Dante Leonardo Zena Blascano>jajaja
+
+01:12:33.000 --> 01:12:33.900
+<v Dante Leonardo Zena Blascano>profe yo tengo un ejemplo
+
+01:34:08.000 --> 01:34:08.900
+<v Dante Leonardo Zena Blascano>sí
+
+01:34:40.000 --> 01:34:40.900
+<v Carlos Siles Alfaro>jaja bien
+
+01:34:45.000 --> 01:34:45.900
+<v Andre Alberto Gamarra Grandez>Claro profe 
+
+01:34:47.000 --> 01:34:47.900
+<v Carlos Siles Alfaro>hago acordar si o si
+
+01:35:27.000 --> 01:35:27.900
+<v Carla Patricia Valdez Diaz>jajajajjajajjaaja
+
+01:35:31.000 --> 01:35:31.900
+<v Omar De Jesus Alegria Jimenez>André cumple lo que dice
+
+01:35:35.000 --> 01:35:35.900
+<v Omar De Jesus Alegria Jimenez>yo le creería
+
+01:35:40.000 --> 01:35:40.900
+<v Andre Alberto Gamarra Grandez>Jajaaj
+
+01:35:47.000 --> 01:35:47.900
+<v Marco Antonio Del Rio Perez>Profe hasta qué tema entra en el parcial?
+
+01:35:50.000 --> 01:35:50.900
+<v Dante Leonardo Zena Blascano>gracias!! igual
+
+01:35:52.000 --> 01:35:52.900
+<v Carlos Siles Alfaro>chau profe gracias
+
+01:35:56.000 --> 01:35:56.900
+<v Carla Patricia Valdez Diaz>graciasss profee
+<v Marco Antonio Del Rio Perez>Gracias profe!
+<v Facilitador12 UP>Hasta luego. muchas gracias!
+
+01:35:57.000 --> 01:35:57.900
+<v Juan Manuel Calvo Rupay>gracias profe
+<v Andre Alberto Gamarra Grandez>Nos vemos profe
+<v Omar De Jesus Alegria Jimenez>Listo profesor!
+Buen día a todos
+
+01:35:59.000 --> 01:35:59.900
+<v Abril Yuliza Collantes Maturrano>gracias, profe
+chao
+
+01:36:00.000 --> 01:36:00.900
+<v Alvaro Alberto Guevara Lazaro>gracias profe
+
+01:36:02.000 --> 01:36:02.900
+<v Facilitador12 UP>😇
+
+01:36:06.000 --> 01:36:06.900
+<v Miguel Erick Llerena Malpartida>nos vemos

@@ -1,0 +1,195 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:00.900
+<v Carlos Siles Alfaro>si
+
+00:02:23.000 --> 00:02:23.900
+<v Dante Leonardo Zena Blascano>sí
+
+00:02:24.000 --> 00:02:24.900
+<v Carlos Siles Alfaro>si
+
+00:02:25.000 --> 00:02:25.900
+<v Juan Manuel Calvo Rupay>se
+<v Omar De Jesus Alegria Jimenez>Claro
+
+00:02:26.000 --> 00:02:26.900
+<v Andre Alberto Gamarra Grandez>si profe
+<v Giosue Melo Fung>si
+
+00:04:24.000 --> 00:04:24.900
+<v Dante Leonardo Zena Blascano>todo claro
+
+00:04:31.000 --> 00:04:31.900
+<v Omar De Jesus Alegria Jimenez>En la de 13 puntos habrá que hacer gráficos?
+
+00:04:33.000 --> 00:04:33.900
+<v Omar De Jesus Alegria Jimenez>o todo escrito?
+
+00:05:58.000 --> 00:05:58.900
+<v Omar De Jesus Alegria Jimenez>La 1 se usa Excel?
+
+00:06:37.000 --> 00:06:37.900
+<v Omar De Jesus Alegria Jimenez>right 
+
+00:07:01.000 --> 00:07:01.900
+<v Carlos Siles Alfaro>gracias profe
+
+00:07:04.000 --> 00:07:04.900
+<v Omar De Jesus Alegria Jimenez>gracia
+
+00:07:05.000 --> 00:07:05.900
+<v Carla Patricia Valdez Diaz>graciass
+
+00:12:08.000 --> 00:12:08.900
+<v Carlos Siles Alfaro>profe se responde en ingles o español? jaja
+
+00:12:24.000 --> 00:12:24.900
+<v Carlos Siles Alfaro>yap gracias
+
+00:12:58.000 --> 00:12:58.900
+<v Abril Yuliza Collantes Maturrano>profe, ¿puede escribir las próximas aclaraciones que realice? para tenerlas en el chat
+
+00:13:09.000 --> 00:13:09.900
+<v Ruben Angel Montenegro Lee>si
+
+00:13:29.000 --> 00:13:29.900
+<v Ruben Angel Montenegro Lee>si hacen preguntas tambien ponganlas en el chat de grupo
+
+00:21:07.000 --> 00:21:07.900
+<v Andre Alberto Gamarra Grandez>profe el 4y plain vanilla swap rate es para el año 0 verdad?
+
+00:22:00.000 --> 00:22:00.900
+<v Ruben Angel Montenegro Lee>si, es empezando el ano 0
+
+00:27:22.000 --> 00:27:22.900
+<v Carla Patricia Valdez Diaz>profe, en la primera si o si el discount es cero?
+
+00:27:37.000 --> 00:27:37.900
+<v Ruben Angel Montenegro Lee>si
+
+00:27:44.000 --> 00:27:44.900
+<v Carla Patricia Valdez Diaz>okas, gracias
+
+00:35:18.000 --> 00:35:18.900
+<v Juan Manuel Calvo Rupay>profe para la 1.2
+
+00:35:30.000 --> 00:35:30.900
+<v Juan Manuel Calvo Rupay>tenemos que asumir que no pasó el cambio de LIBOR a SOFR?
+
+00:36:04.000 --> 00:36:04.900
+<v Ruben Angel Montenegro Lee>correcto. el swap se mantuvo igual
+
+00:36:10.000 --> 00:36:10.900
+<v Juan Manuel Calvo Rupay>gracias
+
+00:46:44.000 --> 00:46:44.900
+<v Fernando Miguel Ruiz De La Cruz>profe
+
+00:47:25.000 --> 00:47:25.900
+<v Fernando Miguel Ruiz De La Cruz>el plain vanilla swap rate de 4% es sólo para la parte variable cierto?
+
+00:47:35.000 --> 00:47:35.900
+<v Fernando Miguel Ruiz De La Cruz>en la pc1 salía eso en un ejercicio similar, aca no sale
+
+00:48:01.000 --> 00:48:01.900
+<v Ruben Angel Montenegro Lee>si
+
+00:51:01.000 --> 00:51:01.900
+<v Fernando Miguel Ruiz De La Cruz>gracias
+
+01:01:37.000 --> 01:01:37.900
+<v Juan Manuel Calvo Rupay>profe hasta que hora es el exam?
+
+01:04:57.000 --> 01:04:57.900
+<v Ruben Angel Montenegro Lee>10:10
+
+01:10:29.000 --> 01:10:29.900
+<v Dante Leonardo Zena Blascano>profe en la 2 , cuando dice concession period se refiere a cuando ya se la otorgaron, cierto?
+
+01:11:08.000 --> 01:11:08.900
+<v Ruben Angel Montenegro Lee>si. es el tiempo por el cual la empresa tiene la concesion
+
+01:11:16.000 --> 01:11:16.900
+<v Dante Leonardo Zena Blascano>ok gracias
+
+01:23:09.000 --> 01:23:09.900
+<v Carlos Siles Alfaro>profe en la 2.3, el road gap seria una variable que solo puede tomar 1 2 y 3 o siseria continuo?
+
+01:23:37.000 --> 01:23:37.900
+<v Carlos Siles Alfaro>1, 2 o 3*
+
+01:24:34.000 --> 01:24:34.900
+<v Ruben Angel Montenegro Lee>1, 2 o 3
+
+01:24:41.000 --> 01:24:41.900
+<v Carlos Siles Alfaro>yap gracias
+
+01:53:02.000 --> 01:53:02.900
+<v Ruben Angel Montenegro Lee>quedan 15
+
+01:57:55.000 --> 01:57:55.900
+<v Ruben Angel Montenegro Lee>quedan 10
+
+01:58:00.000 --> 01:58:00.900
+<v Ruben Angel Montenegro Lee>vayan terminando pls
+
+01:59:15.000 --> 01:59:15.900
+<v Omar De Jesus Alegria Jimenez>5 min más para enviar porfa
+
+02:00:04.000 --> 02:00:04.900
+<v Ruben Angel Montenegro Lee>ok
+
+02:00:09.000 --> 02:00:09.900
+<v Ruben Angel Montenegro Lee>10:15
+
+02:00:16.000 --> 02:00:16.900
+<v Ruben Angel Montenegro Lee>se cierra a esa hora
+
+02:07:56.000 --> 02:07:56.900
+<v Ruben Angel Montenegro Lee>5 mins
+
+02:11:43.000 --> 02:11:43.900
+<v Andre Alberto Gamarra Grandez>gracias profe
+
+02:11:50.000 --> 02:11:50.900
+<v Giosue Melo Fung>gracias profe
+
+02:11:52.000 --> 02:11:52.900
+<v Juan Manuel Calvo Rupay>gracias profe
+
+02:12:08.000 --> 02:12:08.900
+<v Ruben Angel Montenegro Lee>de nada
+
+02:12:12.000 --> 02:12:12.900
+<v Ruben Angel Montenegro Lee>falta 1 min
+
+02:12:13.000 --> 02:12:13.900
+<v Valeria Alyson Matos Gomez>Gracias profesor, buena semana
+
+02:12:15.000 --> 02:12:15.900
+<v Ruben Angel Montenegro Lee>se cieera 
+
+02:12:21.000 --> 02:12:21.900
+<v Carlos Siles Alfaro>listo profe gracias
+
+02:12:24.000 --> 02:12:24.900
+<v Marco Antonio Del Rio Perez>Gracias profe
+
+02:12:36.000 --> 02:12:36.900
+<v Ruben Angel Montenegro Lee>suerte
+
+02:12:39.000 --> 02:12:39.900
+<v Alvaro Alberto Guevara Lazaro>gracias profe
+
+02:12:58.000 --> 02:12:58.900
+<v Carlos Siles Alfaro>chau profe buena semana
+
+02:13:04.000 --> 02:13:04.900
+<v Dante Leonardo Zena Blascano>gracias profee
+
+02:13:35.000 --> 02:13:35.900
+<v Carla Patricia Valdez Diaz>Gracias Profe!!! 
+
+02:13:48.000 --> 02:13:48.900
+<v Abril Yuliza Collantes Maturrano>gracias, profesor

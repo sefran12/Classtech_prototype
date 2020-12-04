@@ -11,16 +11,12 @@ import slack
 import pandas as pd
 import matplotlib.pyplot as plt
 
-SLACK_OAUTH_TOKEN = 'xoxb-1338486863700-1392289814576-LgRdRD44uP3VQsfqS6ru4fR8'
+SLACK_OAUTH_TOKEN = 'xoxb-1338486863700-1392289814576-gKtBPP00htpQdwfQAX9ZBIsp'
 SLACK_CHANNEL = 'general'
 client = slack.WebClient(token=SLACK_OAUTH_TOKEN)
 
-def get_conversation_lists(client, *channel): 
-    try: 
-        conv_list = client.conversations_list(channel="general")
-    except slack.errors.SlackApiError as e:
-        assert e.response["error"]
-    return conv_list
+def get_conversation_lists(client): 
+    return client.conversations_list()
 
 def get_channel_ids(client):
     conv_list = get_conversation_lists(client)
@@ -35,15 +31,15 @@ def get_conversation_history(client, channel):
     return pd.DataFrame(conv_hist.data['messages'])
 
 def get_chat_data(client, channel):
-    users = client.conversations_members(channel=channel)
     user_ids = get_users_and_ids(client, channel)
     chat_history = get_conversation_history(client, channel)
-    return chat_history
+    return pd.merge(chat_history, user_ids[['id', 'real_name']], left_on='user', right_on='id').sort_values('ts', ascending = True)
 
 channel_ids = get_channel_ids(client)
 channel_ID_get = str(channel_ids[channel_ids.name == SLACK_CHANNEL].id.values[0])
-chat_history = get_chat_data(client, channel_ID_get)
-chat_data = pd.merge(chat_history, user_ids[['id', 'real_name']], left_on='user', right_on='id')
 
-plt.bar(chat_data.real_name)
-plt.show()
+user_ids = get_users_and_ids(client, channel_ID_get)
+chat_data  = get_chat_data(client, channel_ID_get)
+chat_data_fx  = get_chat_data(client, str(channel_ids[channel_ids.name == 'fx'].id.values[0]))
+
+chat_data.to_csv('processed_data/slack_interactions_agri2020_2.csv', encoding = 'utf-8-sig')

@@ -1,0 +1,336 @@
+WEBVTT
+
+00:01:51.000 --> 00:01:51.900
+<v Dante Leonardo Zena Blascano>yo profe
+
+00:22:04.000 --> 00:22:04.900
+<v Alvaro Ricardo Adrianzen Puccio>sii profe
+
+00:22:05.000 --> 00:22:05.900
+<v Dante Leonardo Zena Blascano>👍
+
+00:22:06.000 --> 00:22:06.900
+<v Lenin Giordano Garay Valverde>si
+<v Sebastian Aybar Guerrero>sii
+
+00:27:33.000 --> 00:27:33.900
+<v Sebastian Aybar Guerrero>se exponen a que no exista demanda por deuda de senegal mas adelante?
+
+00:32:36.000 --> 00:32:36.900
+<v Dante Leonardo Zena Blascano>sí
+
+00:32:41.000 --> 00:32:41.900
+<v Nicole Andrea Montanez Mariscal>sii
+
+00:32:42.000 --> 00:32:42.900
+<v Edwin Miguel Prado Quispe>si
+
+00:37:26.000 --> 00:37:26.900
+<v Dante Leonardo Zena Blascano>de la compañia
+
+00:38:45.000 --> 00:38:45.900
+<v Dante Leonardo Zena Blascano>claro
+
+00:38:46.000 --> 00:38:46.900
+<v Alvaro Ricardo Adrianzen Puccio>Sii profe
+
+00:40:30.000 --> 00:40:30.900
+<v Dante Leonardo Zena Blascano>porque es el trade off de cubrir el riesgo de repago
+
+00:40:33.000 --> 00:40:33.900
+<v Alvaro Ricardo Adrianzen Puccio>El spread que cobra el banco
+
+00:41:47.000 --> 00:41:47.900
+<v Alvaro Ricardo Adrianzen Puccio>Profe, las condiciones del bono que compras en el mercado y el bono de la compañía tendrían que ser las mismas? 
+
+00:42:00.000 --> 00:42:00.900
+<v Dante Leonardo Zena Blascano>no  creo
+
+00:42:06.000 --> 00:42:06.900
+<v Dante Leonardo Zena Blascano>porque ahí tb seguro el banco gana
+
+00:42:31.000 --> 00:42:31.900
+<v Dante Leonardo Zena Blascano>de q la compañía no pague
+
+00:42:45.000 --> 00:42:45.900
+<v Dante Leonardo Zena Blascano>ahh entonces el banco
+
+00:42:48.000 --> 00:42:48.900
+<v Alvaro Ricardo Adrianzen Puccio>El banco
+
+00:43:28.000 --> 00:43:28.900
+<v Ruben>Esperen un sec q se me corto
+
+00:44:17.000 --> 00:44:17.900
+<v Sebastian Aybar Guerrero>sii
+
+00:44:18.000 --> 00:44:18.900
+<v Alvaro Ricardo Adrianzen Puccio>Si profe
+
+00:44:20.000 --> 00:44:20.900
+<v Siuney Del Pielago Lamas>sii
+<v Daniela Andrea Orrego Tisnado>si
+
+00:44:21.000 --> 00:44:21.900
+<v Lenin Giordano Garay Valverde>si profe 
+
+00:44:26.000 --> 00:44:26.900
+<v Diego Inurritegui Tami>si profe
+
+00:44:57.000 --> 00:44:57.900
+<v Dante Leonardo Zena Blascano>que el emisor no pague
+
+00:44:58.000 --> 00:44:58.900
+<v Lenin Giordano Garay Valverde>que no le paguen los intereses 
+
+00:46:03.000 --> 00:46:03.900
+<v Sebastian Aybar Guerrero>bono soberano
+
+00:46:54.000 --> 00:46:54.900
+<v Dante Leonardo Zena Blascano>A
+<v Alvaro Ricardo Adrianzen Puccio>La B
+
+00:47:11.000 --> 00:47:11.900
+<v Dante Leonardo Zena Blascano>ahh
+
+00:47:14.000 --> 00:47:14.900
+<v Dante Leonardo Zena Blascano>sisi
+
+00:47:16.000 --> 00:47:16.900
+<v Dante Leonardo Zena Blascano>sorry
+
+00:47:22.000 --> 00:47:22.900
+<v Alvaro Ricardo Adrianzen Puccio>El spread sería esa tasa adicional?
+
+00:47:39.000 --> 00:47:39.900
+<v Dante Leonardo Zena Blascano>lo compensa por el otro lado
+
+00:48:10.000 --> 00:48:10.900
+<v Dante Leonardo Zena Blascano>si
+
+00:48:15.000 --> 00:48:15.900
+<v Alvaro Ricardo Adrianzen Puccio>Sisi profe, claro
+
+00:49:20.000 --> 00:49:20.900
+<v Edwin Miguel Prado Quispe>sii profe
+
+00:49:21.000 --> 00:49:21.900
+<v Sebastian Aybar Guerrero>si
+
+00:49:23.000 --> 00:49:23.900
+<v Alvaro Ricardo Adrianzen Puccio>Siii
+
+00:49:56.000 --> 00:49:56.900
+<v Dante Leonardo Zena Blascano>conseguir un mejor loan
+
+00:50:21.000 --> 00:50:21.900
+<v Dante Leonardo Zena Blascano>o invertir en otro bono q no sea soberano
+
+00:52:09.000 --> 00:52:09.900
+<v Dante Leonardo Zena Blascano>de q esa compañía x defaultee
+
+00:52:34.000 --> 00:52:34.900
+<v Dante Leonardo Zena Blascano>tendría q pagarla de su bolsillo
+
+00:54:32.000 --> 00:54:32.900
+<v Edwin Miguel Prado Quispe>siiii
+
+00:55:45.000 --> 00:55:45.900
+<v Sebastian Aybar Guerrero>una empresa pariente?
+
+00:59:55.000 --> 00:59:55.900
+<v Dante Leonardo Zena Blascano>sí
+
+00:59:59.000 --> 00:59:59.900
+<v Alvaro Ricardo Adrianzen Puccio>Sii
+
+01:00:15.000 --> 01:00:15.900
+<v Sebastian Aybar Guerrero>ok
+<v Dante Leonardo Zena Blascano>dale
+
+01:00:16.000 --> 01:00:16.900
+<v Edwin Miguel Prado Quispe>Ok profe 
+
+01:00:17.000 --> 01:00:17.900
+<v Siuney Del Pielago Lamas>oki
+
+01:00:19.000 --> 01:00:19.900
+<v Lenin Giordano Garay Valverde>listoo
+
+01:00:23.000 --> 01:00:23.900
+<v Diego Inurritegui Tami>ok profe
+
+01:05:34.000 --> 01:05:34.900
+<v Sebastian Aybar Guerrero>sii
+
+01:05:42.000 --> 01:05:42.900
+<v Alvaro Ricardo Adrianzen Puccio>Sii profe
+
+01:05:45.000 --> 01:05:45.900
+<v Nicole Andrea Montanez Mariscal>sii 
+<v Luis Diego Chigchon Pasapera>si
+
+01:05:48.000 --> 01:05:48.900
+<v Martin Alonso Senmache Ore>sep
+<v Edwin Miguel Prado Quispe>siii
+
+01:05:49.000 --> 01:05:49.900
+<v Lenin Giordano Garay Valverde>sip
+
+01:05:51.000 --> 01:05:51.900
+<v Diego Inurritegui Tami>si
+
+01:05:56.000 --> 01:05:56.900
+<v Dante Leonardo Zena Blascano>si
+
+01:06:07.000 --> 01:06:07.900
+<v Dante Leonardo Zena Blascano>nop
+
+01:06:08.000 --> 01:06:08.900
+<v Edwin Miguel Prado Quispe>nop 😞 
+
+01:06:09.000 --> 01:06:09.900
+<v Nicole Andrea Montanez Mariscal>nop
+
+01:06:11.000 --> 01:06:11.900
+<v Martin Alonso Senmache Ore>nop
+
+01:11:12.000 --> 01:11:12.900
+<v Nicole Andrea Montanez Mariscal>ni idea
+
+01:11:13.000 --> 01:11:13.900
+<v Edwin Miguel Prado Quispe>ant?
+
+01:11:14.000 --> 01:11:14.900
+<v Dante Leonardo Zena Blascano>ant
+
+01:11:15.000 --> 01:11:15.900
+<v Sebastian Aybar Guerrero>ant
+
+01:11:28.000 --> 01:11:28.900
+<v Dante Leonardo Zena Blascano>se postergó creo
+
+01:11:32.000 --> 01:11:32.900
+<v Sebastian Aybar Guerrero>las autoridades chinas estan retrasando
+
+01:11:46.000 --> 01:11:46.900
+<v Dante Leonardo Zena Blascano>y el mercado reaccionó fuerte
+
+01:12:06.000 --> 01:12:06.900
+<v Luis Diego Chigchon Pasapera>Saudi Aramco?
+
+01:17:59.000 --> 01:17:59.900
+<v Nicole Andrea Montanez Mariscal>en el documental the china hustle creo que muestran algo parecido
+
+01:18:15.000 --> 01:18:15.900
+<v Nicole Andrea Montanez Mariscal>the china hustle
+
+01:18:16.000 --> 01:18:16.900
+<v Nicole Andrea Montanez Mariscal>yess
+
+01:18:21.000 --> 01:18:21.900
+<v Nicole Andrea Montanez Mariscal>esta en netflix
+
+01:18:23.000 --> 01:18:23.900
+<v Enrique Alonso Rodriguez Tapia>sisi
+
+01:18:30.000 --> 01:18:30.900
+<v Nicole Andrea Montanez Mariscal>sii top
+
+01:18:31.000 --> 01:18:31.900
+<v Sebastian Aybar Guerrero>es buena
+<v Luis Diego Chigchon Pasapera>es buenazo profe
+
+01:18:33.000 --> 01:18:33.900
+<v Lenin Giordano Garay Valverde>es bueno profe
+<v Enrique Alonso Rodriguez Tapia>bien interesante
+
+01:18:46.000 --> 01:18:46.900
+<v Nicole Andrea Montanez Mariscal>habla de compañías chinas que compran empresas americanas para poder lista el la bolsa de ny
+
+01:19:02.000 --> 01:19:02.900
+<v Nicole Andrea Montanez Mariscal>usan el termino integrated mergers
+
+01:21:30.000 --> 01:21:30.900
+<v Sebastian Aybar Guerrero>el sponsor debe tener especialidad en alguna industria en especial?
+
+01:24:31.000 --> 01:24:31.900
+<v Dante Leonardo Zena Blascano>sí
+
+01:24:32.000 --> 01:24:32.900
+<v Luis Diego Chigchon Pasapera>si 
+
+01:24:40.000 --> 01:24:40.900
+<v Alvaro Ricardo Adrianzen Puccio>sii
+
+01:24:41.000 --> 01:24:41.900
+<v Nicole Andrea Montanez Mariscal>sii todo claro
+<v Lenin Giordano Garay Valverde>si
+
+01:25:33.000 --> 01:25:33.900
+<v Sebastian Aybar Guerrero>si
+<v Lenin Giordano Garay Valverde>ahora si 
+<v Dante Leonardo Zena Blascano>si
+
+01:25:34.000 --> 01:25:34.900
+<v Nicole Andrea Montanez Mariscal>si ya se le escucha
+
+01:25:36.000 --> 01:25:36.900
+<v Daniela Andrea Orrego Tisnado>si
+
+01:25:38.000 --> 01:25:38.900
+<v Enrique Alonso Rodriguez Tapia>sii
+
+01:25:45.000 --> 01:25:45.900
+<v Edwin Miguel Prado Quispe>sii 
+
+01:38:14.000 --> 01:38:14.900
+<v Dante Leonardo Zena Blascano>profe, por qué dijiste que era una forma eficiente para hacerte pública pero no neceariamente barata?
+
+01:38:40.000 --> 01:38:40.900
+<v Nicole Andrea Montanez Mariscal>profe, la próxima clase hay simulacion o es clase teórica?
+
+01:38:49.000 --> 01:38:49.900
+<v Luis Diego Chigchon Pasapera>El SPAC siempre compra a toda la empresa privada? O puede comprar solo una participación?
+
+01:38:53.000 --> 01:38:53.900
+<v Dante Leonardo Zena Blascano>ahh ok
+
+01:39:05.000 --> 01:39:05.900
+<v Luis Diego Chigchon Pasapera>Listo profe
+
+01:39:36.000 --> 01:39:36.900
+<v Dante Leonardo Zena Blascano>listo
+
+01:39:37.000 --> 01:39:37.900
+<v Sebastian Aybar Guerrero>listo profe, gracias!
+
+01:39:38.000 --> 01:39:38.900
+<v Nicole Andrea Montanez Mariscal>ya perfecto
+
+01:39:39.000 --> 01:39:39.900
+<v Luis Diego Chigchon Pasapera>Listo profe, gracias!!!
+
+01:39:40.000 --> 01:39:40.900
+<v Siuney Del Pielago Lamas>gracias profe!!! 
+
+01:39:41.000 --> 01:39:41.900
+<v Alvaro Ricardo Adrianzen Puccio>listo
+<v Nicole Andrea Montanez Mariscal>gracias@
+
+01:39:42.000 --> 01:39:42.900
+<v Dante Leonardo Zena Blascano>gracias! igual
+<v Diego Inurritegui Tami>dale profe, gracias!
+
+01:39:43.000 --> 01:39:43.900
+<v Enrique Alonso Rodriguez Tapia>gracias!
+
+01:39:45.000 --> 01:39:45.900
+<v Daniela Andrea Orrego Tisnado>gracias profe!
+
+01:39:47.000 --> 01:39:47.900
+<v Lenin Giordano Garay Valverde>gracias profe!
+<v Alvaro Ricardo Adrianzen Puccio>gracias profe
+
+01:39:49.000 --> 01:39:49.900
+<v Edwin Miguel Prado Quispe>Listo Gracias profe
